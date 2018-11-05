@@ -17,8 +17,8 @@ all_vowels = unstressed_vowels + stressed_vowels
 
 semivowels = ['j', 'w']
 
-onset_consonants = ['b','β','d','ð','f','g','ɣ','h','k','l','ʎ','m','M','n','N','ɲ','ŋ','p','r','R','s','t','v','x','X','y','z','θ']
-coda_consonants = ['b','d','ð','g','k','l','m','M','n','N','ŋ','ʎ','θ','p','r','s','z']
+onset_consonants = ['b','β','d','ð','f','g','ɣ','h','k','l','ʎ','m','M','n','N','ɲ','ŋ','p','r','R','s','t','v','x','X','y','z','θ','ʝ']
+coda_consonants = ['b','d','ð','g','k','l','m','M','n','N','ŋ','ʎ','θ','p','r','s','x','z']
 
 def is_OL_cluster(phon1,phon2):
 	if phon1 in obstruents_in_OL_clusters and phon2 in liquids:
@@ -87,7 +87,7 @@ def syllabify(current_word):
 			
 			# DIPHTHONGS
 			#CVS & VS
-			elif last_phon in semivowels and minus1_phon in unstressed_vowels:
+			elif last_phon in semivowels and minus1_phon in unstressed_vowels and not is_OL_cluster(minus3_phon,minus2_phon):
 				if minus2_phon in onset_consonants:
 					syllable = minus2_phon + minus1_phon + last_phon
 					k = k - 3
@@ -96,22 +96,27 @@ def syllabify(current_word):
 					k = k - 2
 					
 			#CSV
-			elif last_phon in all_vowels and minus1_phon in semivowels and minus2_phon in onset_consonants: #unless encontrada == 1??
+			elif last_phon in all_vowels and minus1_phon in semivowels and minus2_phon in onset_consonants and not is_OL_cluster(minus3_phon,minus2_phon): #unless encontrada == 1??
 				syllable = minus2_phon + minus1_phon + last_phon
 				k = k - 3
 			
 			#SV
-			elif last_phon in unstressed_vowels and minus1_phon in semivowels:
+			elif last_phon in unstressed_vowels and minus1_phon in semivowels and not minus2_phon in onset_consonants + liquids:
 				syllable = minus1_phon + last_phon
 				k = k - 2
+			
+			#SVC
+			elif last_phon in coda_consonants and minus1_phon in unstressed_vowels and minus2_phon in semivowels and not minus3_phon in onset_consonants:
+				syllable = minus2_phon + minus1_phon + last_phon
+				k = k - 3
 
 			#CSVC
-			elif last_phon in ['c','k','s','z','n','N','p','l','r','m','ŋ'] and minus1_phon in all_vowels and minus2_phon in semivowels and minus3_phon in onset_consonants: #cksznNplrçm
+			elif last_phon in ['c','k','s','z','n','N','p','l','r','m','ŋ','θ'] and minus1_phon in all_vowels and minus2_phon in semivowels and minus3_phon in onset_consonants: #cksznNplrçm
 				syllable = minus3_phon + minus2_phon + minus1_phon + last_phon
 				k = k - 4
 				
 			#CCSV
-			elif last_phon in unstressed_vowels and minus1_phon in semivowels and is_OL_cluster(minus3_phon,minus2_phon):
+			elif last_phon in all_vowels and minus1_phon in semivowels and is_OL_cluster(minus3_phon,minus2_phon):
 				syllable = minus3_phon + minus2_phon + minus1_phon + last_phon
 				k = k - 4
 			
@@ -139,30 +144,42 @@ def syllabify(current_word):
                         # $n2--;
                         # }
                 # }
+
 			else:
 				syllable = '#'
 
+			# Assigning stress marker if already contains a stressed vowel:
+			if any(phon in stressed_vowels for phon in syllable):
+				syllable = "'" + syllable
+				
 			syllables.insert(0,syllable)
-		return syllables
+			
+			if syllable == '#':
+				syllables = '#'
+				templist = list(phonemes)
+				templist[k] = '~'
+				phonemes = ''.join(templist)
+				
+		return '-'.join(syllables).replace('X','tʃ')
 
-word = 'la'
-print(word)
-print('-'.join(syllabify(word)))
-word = 'kasa'
-print(word)
-print('-'.join(syllabify(word)))
-word = 'kosta'
-print(word)
-print('-'.join(syllabify(word)))
-word = 'kordon'
-print(word)
-print('-'.join(syllabify(word)))
-word = 'katre'
-print(word)
-print('-'.join(syllabify(word)))
-word = 'transporte'
-print(word)
-print('-'.join(syllabify(word)))
-word = 'a'
-print(word)
-print('-'.join(syllabify(word)))
+# word = 'jerβa'
+# print(word)
+# print(syllabify(word))
+# word = 'kasa'
+# print(word)
+# print('-'.join(syllabify(word)))
+# word = 'kosta'
+# print(word)
+# print('-'.join(syllabify(word)))
+# word = 'kordOn'
+# print(word)
+# print('-'.join(syllabify(word)))
+# word = 'katre'
+# print(word)
+# print('-'.join(syllabify(word)))
+# word = 'transporte'
+# print(word)
+# print('-'.join(syllabify(word)))
+# word = 'a'
+# print(word)
+# print('-'.join(syllabify(word)))

@@ -121,29 +121,36 @@ def first_order_transcription(word):
 				if (next_letter in ['a', 'o', 'w'] ):
 					if (quality == "vocal" or quality == "s" or quality == "r" or quality == "l") :
 						phone=  "ɣ"
+						quality = 'G'
 					else :
 						phone=  "g" 
+						quality = 'g'
 				elif (next_letter in ['e', 'i']) :
 					phone=  "x"
+					quality = 'x'
 				elif (next_letter == 'u') :
 					if ( next_letter2 in ['e','i']) :
 						skip = True
 						if (quality == "vocal" or quality == "s" or quality == "r" or	quality == "l") :
 							phone="ɣ" 
+							quality = 'G'
 						else :
 							phone=  "g" 
+							quality = 'g'
 					else :
 						if (quality == "vocal"or quality == "s" or quality == "r" or	quality == "l") :
 							phone="ɣ" 
+							quality = 'G'
 						else :
 							phone=  "g"
+							quality = 'g'
 				elif (next_letter in liquids) :
 					if (quality == "vocal"):
 						phone="ɣ"
-						quality == "G"
+						quality = "G"
 					else :
 						phone=  "g"
-						quality == "g"
+						quality = "g"
 				else :
 					phone=  "g" 
 					quality = "g"
@@ -153,7 +160,7 @@ def first_order_transcription(word):
 
 				# ATENCION ACA
 			elif (current_letter == "i") :
-				if ( (quality == "vocal" or next_letter in vowels) and prev_letter != ''  ) :
+				if ( (quality == 'vocal' or next_letter in vowels) and prev_letter != ''  ) :
 					#unless (prev_letter=~/ /) :
 					phone=  "j"
 					quality = "vocal"
@@ -246,8 +253,13 @@ def first_order_transcription(word):
 				esp = 0
 
 			elif (current_letter == "p") :
-				phone=  "p"
-				quality = "p"
+				if n == 0 and next_letter == 's':
+					skip = True
+					phone = 's'
+					quality = 's'
+				else:
+					phone=  "p"
+					quality = "p"
 				
 			elif (current_letter == "q") :
 				phone=  "k"
@@ -256,7 +268,7 @@ def first_order_transcription(word):
 				
 
 			elif (current_letter == "r") :
-				if (quality in ['t', 'd', 'p', 'b', 'k', 'g', 'f']) :
+				if (quality in ['t', 'd', 'p', 'b', 'k', 'g', 'f', 'G', 'B', 'D']) :
 					phone="r"
 					quality = "r"
 				elif (next_letter == "r") :
@@ -269,7 +281,7 @@ def first_order_transcription(word):
 				elif (quality == "vocal" and next_letter != "r" and esp != 1) :
 					phone=  "r"
 					quality = "r"
-				elif (quality != "vocal" and esp == 0) :
+				elif ((quality not in ["vocal"] + ['t', 'd', 'p', 'b', 'k', 'g', 'f', 'G', 'B', 'D']) and next_letter != '') :
 					phone=  "R"
 					quality = "r"
 				elif (esp == 1 and quality != "R") :
@@ -331,27 +343,29 @@ def first_order_transcription(word):
 				quality = "x" 
 
 			elif (current_letter == "y") :
-				if (next_letter in vowels and esps == 0) :
-					phone= "y"
+				if (n == 0 and next_letter in vowels):
+					phone=  "ʝ"
+					voc = 'ï'
+					quality = 'y'
+				elif (prev_letter in vowels and next_letter in vowels):
+					phone=  "ʝ"
+					voc = 'ï'
+					quality = 'y'
+				elif (prev_letter in vowels and esps == 1):
+					phone= "j"
 					quality= "vocal"
 					voc="ï"
-				elif (quality == "vocal" or esps == 1) :
-					if ((quality == "vocal")):
-						phone=  "i"  ##aproximante
-						quality = "vocal"
-						voc = "ï"
-					else :
-						phone=  "i"
-						quality = "vocal"
-						voc = "i"
+				elif (next_letter in vowels and esps == 0) :
+					phone= "j"
+					quality= "vocal"
+					voc="ï"
 				else :
-					phone=  "y"
-					esps = 0
+					phone=  "i"
 
 			elif (current_letter == "z") :
 				phone="θ"
 				quality = "Z" 
-					
+			
 			if (quality != "vocal"):
 				voc = 0
 			transcription = transcription + phone
