@@ -1,0 +1,3017 @@
+allcorpora  1267  mmm  01_2.cha 1 08 03 mmm .
+allcorpora  1549  miau  02.cha 1 1 25 miau .
+allcorpora  1565  mm  02.cha 1 1 25 mm , que es eso ?
+allcorpora  1566  iiii  02.cha 1 1 25 el caballo , iiii .
+allcorpora  1569  grr  02.cha 1 1 25 y Lupi hace grr grr grr .
+allcorpora  1569  grr  02.cha 1 1 25 y Lupi hace grr grr grr .
+allcorpora  1569  grr  02.cha 1 1 25 y Lupi hace grr grr grr .
+allcorpora  1728  miau  02a.cha 1 7 00 miau .
+allcorpora  1729  miau  02a.cha 1 7 00 te gusta el miau a ti ?
+allcorpora  2206  tn  02e.cha 1 7 00 uy , Papá que pelo tn bonito tiene !
+allcorpora  2491  sss  02_2.cha 1 08 09 sss .
+allcorpora  2528  chss  02_2.cha 1 08 09 chss chss .
+allcorpora  2528  chss  02_2.cha 1 08 09 chss chss .
+allcorpora  2557  puzzle  02_2.cha 1 08 09 hacemos el puzzle ?
+allcorpora  2558  puzzle  02_2.cha 1 08 09 puzzle .
+allcorpora  2571  puzzle  02_2.cha 1 08 09 vamos a guardar este puzzle .
+allcorpora  2573  puzzle  02_2.cha 1 08 09 el puzzle ?
+allcorpora  2646  mm  02_2.cha 1 08 09 mm ?
+allcorpora  2721  construcción  02_2.cha 1 08 09 hacemos un , una construcción ?
+allcorpora  2769  chss  02_2.cha 1 08 09 mira , oye , chss chss .
+allcorpora  2769  chss  02_2.cha 1 08 09 mira , oye , chss chss .
+allcorpora  2839  chss  02_2.cha 1 08 09 chss , no lo muerdas !
+allcorpora  3037  iiii  03.cha 1 1 25 iiii .
+allcorpora  3054  enfriar  03.cha 1 1 25 bueno yo creo que deberíamos darle los cereales porque van a enfriar .
+allcorpora  3129  b  03a.cha 1 9 00 un B m w .
+allcorpora  3129  m  03a.cha 1 9 00 un B m w .
+allcorpora  3129  w  03a.cha 1 9 00 un B m w .
+allcorpora  3156  hmm  03a.cha 1 9 00 mnn hmm , y luego vamos a hacer ?
+allcorpora  3250  guauguaus  03b.cha 1 9 00 todos son guauguaus .
+allcorpora  3251  guauguaus  03b.cha 1 9 00 es una bañera de guauguaus .
+allcorpora  3501  record  03c.cha 1 9 00 hoy está batiendo un record .
+allcorpora  3518  dodot  03d.cha 1 9 00 te acuerdas del Dodot ?
+allcorpora  3519  dodot  03d.cha 1 9 00 * Dodot , Dodot tarararará , Dodot Dodot .
+allcorpora  3519  dodot  03d.cha 1 9 00 * Dodot , Dodot tarararará , Dodot Dodot .
+allcorpora  3519  dodot  03d.cha 1 9 00 * Dodot , Dodot tarararará , Dodot Dodot .
+allcorpora  3519  dodot  03d.cha 1 9 00 * Dodot , Dodot tarararará , Dodot Dodot .
+allcorpora  3591  dodot  03d.cha 1 9 00 Dodot Dodot tararararara , Dodot Dodot .
+allcorpora  3591  dodot  03d.cha 1 9 00 Dodot Dodot tararararara , Dodot Dodot .
+allcorpora  3591  dodot  03d.cha 1 9 00 Dodot Dodot tararararara , Dodot Dodot .
+allcorpora  3591  dodot  03d.cha 1 9 00 Dodot Dodot tararararara , Dodot Dodot .
+allcorpora  3594  dodot  03d.cha 1 9 00 Dodot Dodot , tarararara Dodot Dodot .
+allcorpora  3594  dodot  03d.cha 1 9 00 Dodot Dodot , tarararara Dodot Dodot .
+allcorpora  3594  dodot  03d.cha 1 9 00 Dodot Dodot , tarararara Dodot Dodot .
+allcorpora  3594  dodot  03d.cha 1 9 00 Dodot Dodot , tarararara Dodot Dodot .
+allcorpora  3597  dodot  03d.cha 1 9 00 Dodot Dodot así ?
+allcorpora  3597  dodot  03d.cha 1 9 00 Dodot Dodot así ?
+allcorpora  3598  dodot  03d.cha 1 9 00 Dodot Dodot .
+allcorpora  3598  dodot  03d.cha 1 9 00 Dodot Dodot .
+allcorpora  3747  mm  03_2.cha 1 08 18 mm .
+allcorpora  3844  t  03_2.cha 1 08 18 cómo que t ?
+allcorpora  4260  terrza  04b.cha 1 09 00 sí porque aunque he fregado ayer la terrza , pero como ha llovido .
+allcorpora  4372  dodot  04b.cha 1 09 00 canta la de Dodot .
+allcorpora  4482  huélela  04c.cha 1 09 00 huélela .
+allcorpora  4486  hmm  04c.cha 1 09 00 hmm qué bien huele .
+allcorpora  4902  constipó  04g.cha 1 09 00 con su camecita y su canesú la saqué a paseos se me constipó , la tengo en la cama con mucho dolor .
+allcorpora  5051  mm  04_2.cha 1 08 26 mm .
+allcorpora  5093  chss  04_2.cha 1 08 26 chss chss , a ver .
+allcorpora  5093  chss  04_2.cha 1 08 26 chss chss , a ver .
+allcorpora  5111  miau  04_2.cha 1 08 26 y el gatito , miau .
+allcorpora  5112  miau  04_2.cha 1 08 26 miau .
+allcorpora  5113  miau  04_2.cha 1 08 26 miau miau .
+allcorpora  5113  miau  04_2.cha 1 08 26 miau miau .
+allcorpora  5170  mm  04_2.cha 1 08 26 mm , qué bien !
+allcorpora  5376  mm  04_2.cha 1 08 26 mm , ha descubierto que lo puede coger con las dos manos .
+allcorpora  5487  guau  05.cha 1 2 05 un guau guau ?
+allcorpora  5487  guau  05.cha 1 2 05 un guau guau ?
+allcorpora  5568  vals  05.cha 1 2 05 oye baila con el tigre , a ver como bailas con el tigre a ver como bailas el vals con el tigre , a ver ?
+allcorpora  5645  biii  05.cha 1 2 05 biii .
+allcorpora  5756  hmm  05a.cha 1 10 00 hmm , por qué ?
+allcorpora  7023  mm  05_2.cha 1 09 00 mm .
+allcorpora  7029  mm  05_2.cha 1 09 00 mm .
+allcorpora  7183  puzzle  05_2.cha 1 09 00 pues tráete el puzzle , el puzzle .
+allcorpora  7183  puzzle  05_2.cha 1 09 00 pues tráete el puzzle , el puzzle .
+allcorpora  7184  puzzle  05_2.cha 1 09 00 tráete el puzzle .
+allcorpora  7185  puzzle  05_2.cha 1 09 00 el puzzle , tráelo .
+allcorpora  7186  puzzle  05_2.cha 1 09 00 si está allí el puzzle de madera !
+allcorpora  7189  puzzle  05_2.cha 1 09 00 está ahí el puzzle , Mendía !
+allcorpora  7190  puzzle  05_2.cha 1 09 00 hacemos el puzzle ?
+allcorpora  7280  buf  06.cha 1 4 16 a ver , buf , si tiene pupa , uy , que pupa !
+allcorpora  7281  uf  06.cha 1 4 16 lo dijo Esther que tenías la pupa , si , uf , que pupa !
+allcorpora  7313  mm  06.cha 1 4 16 bien sentada y ahí , mm ?
+allcorpora  7358  mm  06.cha 1 4 16 mm .
+allcorpora  7841  cassette  06d.cha 1 11 00 me parece que cuando María * las cajitas de cassette tan bonitas que los juguetitos a * .
+allcorpora  7900  contexto  06d.cha 1 11 00 lo que más me alucina es que lo utiliza en el contexto adecuado .
+allcorpora  8368  mm  06_2.cha 1 09 08 mm .
+allcorpora  8409  mm  06_2.cha 1 09 08 mm , mano .
+allcorpora  8477  ss  06_2.cha 1 09 08 ss .
+allcorpora  8962  shh  07c.cha 2 0 00 oye , pero apaga el patito , * oye dile shh .
+allcorpora  9691  triángulo  07_2.cha 1 09 14 un triángulo para el sombrero .
+allcorpora  9696  triángulo  07_2.cha 1 09 14 mira , un triángulo , para el sombrero .
+allcorpora  9796  mm  07_2.cha 1 09 14 mm ?
+allcorpora  9864  vergüenza  07_2.cha 1 09 14 te da vergüenza ?
+allcorpora  10078  enfriar  08.cha 1 5 01 hum , está como caliente , Irene , no acaba de enfriar .
+allcorpora  10091  mm  08.cha 1 5 01 está bien ahora , mm ?
+allcorpora  10101  mm  08.cha 1 5 01 mm , que rico ?
+allcorpora  10165  mm  08.cha 1 5 01 una , mm .
+allcorpora  10178  mm  08.cha 1 5 01 no , ahora vamos a comer el yoghourt , vale , mm ?
+allcorpora  10198  mm  08.cha 1 5 01 mm !
+allcorpora  10229  mm  08.cha 1 5 01 mm ?
+allcorpora  10252  mm  08.cha 1 5 01 mm ?
+allcorpora  10270  shh  08.cha 1 5 01 shh !
+allcorpora  10314  mm  08.cha 1 5 01 mm , y la cunita de Irene ?
+allcorpora  10853  sandwich  08d.cha 2 01 00 quieres un sandwich ?
+allcorpora  10908  sandwich  08d.cha 2 01 00 qué te ha quitao un sandwich el Rey ?
+allcorpora  11047  herranz  08f.cha 2 01 00 María Herranz Silence .
+allcorpora  11486  mm  09.cha 1 5 15 mm !
+allcorpora  11510  mm  09.cha 1 5 15 mm , y luego que vamos a tomar ?
+allcorpora  11561  mm  09.cha 1 5 15 es que Marta le hizo el puré que está tan rico , mm !
+allcorpora  11575  mm  09.cha 1 5 15 mm !
+allcorpora  11577  mm  09.cha 1 5 15 mm ?
+allcorpora  11578  mm  09.cha 1 5 15 mm ?
+allcorpora  11579  mm  09.cha 1 5 15 mm ?
+allcorpora  11580  mm  09.cha 1 5 15 mm ?
+allcorpora  11581  mm  09.cha 1 5 15 mm ?
+allcorpora  11582  mm  09.cha 1 5 15 mm ?
+allcorpora  11583  mm  09.cha 1 5 15 mm ?
+allcorpora  11595  mm  09.cha 1 5 15 mm !
+allcorpora  11602  mm  09.cha 1 5 15 mm .
+allcorpora  11603  mm  09.cha 1 5 15 mm !
+allcorpora  11605  mm  09.cha 1 5 15 mm !
+allcorpora  11620  mm  09.cha 1 5 15 mm !
+allcorpora  11928  constipada  09b.cha 2 02 00 no , porque te pones constipada .
+allcorpora  12646  mm  09_2.cha 1 09 26 mm .
+allcorpora  12723  m  09_2.cha 1 09 26 m .
+allcorpora  12731  mm  09_2.cha 1 09 26 mm .
+allcorpora  12743  guau  09_2.cha 1 09 26 viene el perro , guau guau guau guau .
+allcorpora  12743  guau  09_2.cha 1 09 26 viene el perro , guau guau guau guau .
+allcorpora  12743  guau  09_2.cha 1 09 26 viene el perro , guau guau guau guau .
+allcorpora  12743  guau  09_2.cha 1 09 26 viene el perro , guau guau guau guau .
+allcorpora  12744  guau  09_2.cha 1 09 26 guau guau guau guau .
+allcorpora  12744  guau  09_2.cha 1 09 26 guau guau guau guau .
+allcorpora  12744  guau  09_2.cha 1 09 26 guau guau guau guau .
+allcorpora  12744  guau  09_2.cha 1 09 26 guau guau guau guau .
+allcorpora  12762  guau  09_2.cha 1 09 26 guau guau guau guau .
+allcorpora  12762  guau  09_2.cha 1 09 26 guau guau guau guau .
+allcorpora  12762  guau  09_2.cha 1 09 26 guau guau guau guau .
+allcorpora  12762  guau  09_2.cha 1 09 26 guau guau guau guau .
+allcorpora  12841  pingüíno  09_2.cha 1 09 26 y éste , un pingüíno .
+allcorpora  12842  pingüíno  09_2.cha 1 09 26 un pingüíno , que no has visto tú todavía .
+allcorpora  12846  umm  09_2.cha 1 09 26 umm , ñam ñam , un helado .
+allcorpora  13064  mm  10.cha 1 5 27 mm , y adiós ?
+allcorpora  13188  croissant  10a.cha 2 4 00 te has comido el croissant , María ?
+allcorpora  13189  croissant  10a.cha 2 4 00 que si te has comido tu croissant ?
+allcorpora  13198  construcciones  10a.cha 2 4 00 oye , y si jugamos con las construcciones .
+allcorpora  13199  construcciones  10a.cha 2 4 00 jugamos con las construcciones ?
+allcorpora  13213  construcciones  10a.cha 2 4 00 sí , pero con las construcciones , no ?
+allcorpora  13244  construcciones  10a.cha 2 4 00 cuánto te costó el cacharro de las construcciones ?
+allcorpora  13347  est  10c.cha 2 4 00 dónde est ay , qué susto !
+allcorpora  13537  t  10d.cha 2 4 00 t , t , t , t .
+allcorpora  13537  t  10d.cha 2 4 00 t , t , t , t .
+allcorpora  13537  t  10d.cha 2 4 00 t , t , t , t .
+allcorpora  13537  t  10d.cha 2 4 00 t , t , t , t .
+allcorpora  13538  t  10d.cha 2 4 00 t , t , t .
+allcorpora  13538  t  10d.cha 2 4 00 t , t , t .
+allcorpora  13538  t  10d.cha 2 4 00 t , t , t .
+allcorpora  13688  puzzle  10f.cha 2 4 00 te acuerdas que ayer tomabas un sorbito de leche por cada animalito de los del puzzle ?
+allcorpora  13692  puzzle  10f.cha 2 4 00 el puzzle .
+allcorpora  13693  puzzle  10f.cha 2 4 00 dónde está el puzzle ?
+allcorpora  13761  donald  10f.cha 2 4 00 y este pato , es el pato Donald ?
+allcorpora  13764  donald  10f.cha 2 4 00 son hijos de este pato Donald ?
+allcorpora  14040  poing  10m15.cha 0 10 00 poing se cayó .
+allcorpora  14042  ouch  10m15.cha 0 10 00 ouch !
+allcorpora  14131  vern  10m17.cha 0 10 00 vente guapo con estos de acá tenemos que jugar vern .
+allcorpora  14160  miua  10q02.cha 0 10 00 ay miua miau miau .
+allcorpora  14160  miau  10q02.cha 0 10 00 ay miua miau miau .
+allcorpora  14160  miau  10q02.cha 0 10 00 ay miua miau miau .
+allcorpora  14163  miau  10q02.cha 0 10 00 miau miau miau .
+allcorpora  14163  miau  10q02.cha 0 10 00 miau miau miau .
+allcorpora  14163  miau  10q02.cha 0 10 00 miau miau miau .
+allcorpora  14182  maxwell  10q04.cha 0 10 00 oye Maxwell .
+allcorpora  14189  maxwell  10q04.cha 0 10 00 oye Maxwell vamos a guardar ésto te parece ?
+allcorpora  14190  maswell  10q04.cha 0 10 00 mira Maswell se está tirando al agua .
+allcorpora  14192  güero  10q04.cha 0 10 00 éste mira mira que está haciendo el más güero con el * tan grandote precioso .
+allcorpora  14604  guaguau  10sb11.cha 0 10 00 el bebé el guaguau .
+allcorpora  14605  guaguau  10sb11.cha 0 10 00 guaguau .
+allcorpora  14766  tsi  10sb14.cha 0 10 00 tsi , tsi , tsi , tsi .
+allcorpora  14766  tsi  10sb14.cha 0 10 00 tsi , tsi , tsi , tsi .
+allcorpora  14766  tsi  10sb14.cha 0 10 00 tsi , tsi , tsi , tsi .
+allcorpora  14766  tsi  10sb14.cha 0 10 00 tsi , tsi , tsi , tsi .
+allcorpora  14991  mm  10_2.cha 1 10 03 mm .
+allcorpora  15165  mm  10_2.cha 1 10 03 mm .
+allcorpora  15201  mm  10_2.cha 1 10 03 mm mm .
+allcorpora  15201  mm  10_2.cha 1 10 03 mm mm .
+allcorpora  15269  tss  10_2.cha 1 10 03 tss .
+allcorpora  15372  monstruo  10_2.cha 1 10 03 y qué hace el monstruo Mendía ?
+allcorpora  15375  orgg  10_2.cha 1 10 03 orgg .
+allcorpora  15402  guaguau  10_2.cha 1 10 03 cómo que un guaguau ?
+allcorpora  15474  guagg  10_2.cha 1 10 03 guagg .
+allcorpora  15514  mm  11.cha 1 6 01 mm , que rico !
+allcorpora  15524  mm  11.cha 1 6 01 mm , tonta Alba ?
+allcorpora  15529  mm  11.cha 1 6 01 mm ?
+allcorpora  15539  mm  11.cha 1 6 01 mm , que rico !
+allcorpora  15570  mm  11.cha 1 6 01 mm .
+allcorpora  15571  mm  11.cha 1 6 01 mm .
+allcorpora  15948  chuf  11021.cha 1 10 21 chuf .
+allcorpora  15959  chof  11021.cha 1 10 21 chof .
+allcorpora  15968  chof  11021.cha 1 10 21 chof .
+allcorpora  15976  chof  11021.cha 1 10 21 chof .
+allcorpora  15992  chof  11021.cha 1 10 21 chof .
+allcorpora  16182  mm  11026.cha 1 10 26 mm .
+allcorpora  16288  slo  11026.cha 1 10 26 me slo sdas para mí ?
+allcorpora  16288  sdas  11026.cha 1 10 26 me slo sdas para mí ?
+allcorpora  16289  slo  11026.cha 1 10 26 te slo squieres quitar ?
+allcorpora  16289  squieres  11026.cha 1 10 26 te slo squieres quitar ?
+allcorpora  16291  slo  11026.cha 1 10 26 no te slo squites .
+allcorpora  16291  squites  11026.cha 1 10 26 no te slo squites .
+allcorpora  16355  slo  11026.cha 1 10 26 te slo sestoy diciendo .
+allcorpora  16360  mm  11026.cha 1 10 26 mm .
+allcorpora  16495  bs  11026.cha 1 10 26 hace bs .
+allcorpora  18305  mm  11107.cha 1 11 07 mm .
+allcorpora  18797  mm  11111.cha 1 11 11 mm .
+allcorpora  18799  mm  11111.cha 1 11 11 mm .
+allcorpora  18872  mm  11111.cha 1 11 11 mm .
+allcorpora  18906  mm  11111.cha 1 11 11 mm .
+allcorpora  19022  mm  11111.cha 1 11 11 mm qué rico el melocotón .
+allcorpora  19130  mm  11115.cha 1 11 15 mm .
+allcorpora  19198  gallinass  11115.cha 1 11 15 dos gallinass ?
+allcorpora  19300  mm  11115.cha 1 11 15 mm .
+allcorpora  19347  uf  11115.cha 1 11 15 uf .
+allcorpora  19348  uf  11115.cha 1 11 15 uf .
+allcorpora  19350  ss  11115.cha 1 11 15 ss .
+allcorpora  19508  guay  11115.cha 1 11 15 qué guay .
+allcorpora  19588  mm  11115.cha 1 11 15 mm !
+allcorpora  19590  mm  11115.cha 1 11 15 mm .
+allcorpora  19699  mm  11115.cha 1 11 15 melocotón , mm .
+allcorpora  19918  uf  11120.cha 1 11 20 uf .
+allcorpora  19948  mm  11120.cha 1 11 20 mm .
+allcorpora  20305  chgu  11125.cha 1 11 25 el señor del rastrillo cogía la paja y hacía chgu .
+allcorpora  20350  miau  11125.cha 1 11 25 miau como los gatos ?
+allcorpora  20694  mm  11128.cha 1 11 25 mm .
+allcorpora  20869  mm  11128.cha 1 11 25 mm .
+allcorpora  20870  mm  11128.cha 1 11 25 está mm .
+allcorpora  20959  mm  11128.cha 1 11 25 mm .
+allcorpora  21008  ff  11128.cha 1 11 25 hacía ff .
+allcorpora  21016  enfriar  11128.cha 1 11 25 vamos a enfriar lo .
+allcorpora  21052  chss  11128.cha 1 11 25 todos los niños así chss .
+allcorpora  21699  guagh  11_2.cha 1 10 13 guagh .
+allcorpora  21700  guagh  11_2.cha 1 10 13 viene el león , guagh , y se quiere comer a los perritos .
+allcorpora  21722  guau  11_2.cha 1 10 13 guau guau guau guau , queremos ir a la calle .
+allcorpora  21722  guau  11_2.cha 1 10 13 guau guau guau guau , queremos ir a la calle .
+allcorpora  21722  guau  11_2.cha 1 10 13 guau guau guau guau , queremos ir a la calle .
+allcorpora  21722  guau  11_2.cha 1 10 13 guau guau guau guau , queremos ir a la calle .
+allcorpora  21723  guau  11_2.cha 1 10 13 guau guau guau guau .
+allcorpora  21723  guau  11_2.cha 1 10 13 guau guau guau guau .
+allcorpora  21723  guau  11_2.cha 1 10 13 guau guau guau guau .
+allcorpora  21723  guau  11_2.cha 1 10 13 guau guau guau guau .
+allcorpora  21881  mm  11_2.cha 1 10 13 mm .
+allcorpora  22007  pingüíno  11_2.cha 1 10 13 un pingüíno .
+allcorpora  22008  pingüíno  11_2.cha 1 10 13 papá pingüíno , y el pingüíno hijo .
+allcorpora  22008  pingüíno  11_2.cha 1 10 13 papá pingüíno , y el pingüíno hijo .
+allcorpora  22010  pingüíno  11_2.cha 1 10 13 el bebé pingüíno .
+allcorpora  22011  pingüíno  11_2.cha 1 10 13 y ese es el papá pingüíno .
+allcorpora  22138  miau  11_2.cha 1 10 13 que dice , miau miau .
+allcorpora  22138  miau  11_2.cha 1 10 13 que dice , miau miau .
+allcorpora  22140  miau  11_2.cha 1 10 13 miau .
+allcorpora  22192  ring  11_2.cha 1 10 13 ring ring , llaman a la puerta .
+allcorpora  22192  ring  11_2.cha 1 10 13 ring ring , llaman a la puerta .
+allcorpora  22359  f  11_2.cha 1 10 13 y ya no tenemos más f .
+allcorpora  22443  ss  11_2.cha 1 10 13 ss .
+allcorpora  22608  mm  12.cha 1 6 16 mm , baila el niño .
+allcorpora  22609  mm  12.cha 1 6 16 mm , mm .
+allcorpora  22609  mm  12.cha 1 6 16 mm , mm .
+allcorpora  22632  mm  12.cha 1 6 16 mm que tiene el tonto , hija , que tiene el tonto ?
+allcorpora  22650  mm  12.cha 1 6 16 mm ?
+allcorpora  22652  mm  12.cha 1 6 16 mm , mm , mm .
+allcorpora  22652  mm  12.cha 1 6 16 mm , mm , mm .
+allcorpora  22652  mm  12.cha 1 6 16 mm , mm , mm .
+allcorpora  22655  mm  12.cha 1 6 16 mm ?
+allcorpora  22696  mm  12.cha 1 6 16 mm , estás seguro ?
+allcorpora  22856  perspectiva  12b.cha 2 6 00 ponte desde allí jugando desde el otro lado porque así tienes como una mejor perspectiva organística .
+allcorpora  23419  trunrr  12m08.cha 1 0 00 trunrr .
+allcorpora  23423  trunrr  12m08.cha 1 0 00 trunrr .
+allcorpora  23424  pii  12m08.cha 1 0 00 run pii pii pi coche run .
+allcorpora  23424  pii  12m08.cha 1 0 00 run pii pii pi coche run .
+allcorpora  23426  trrun  12m08.cha 1 0 00 trrun .
+allcorpora  23463  miau  12m08.cha 1 0 00 miau .
+allcorpora  23464  miau  12m08.cha 1 0 00 miau , miau .
+allcorpora  23464  miau  12m08.cha 1 0 00 miau , miau .
+allcorpora  23512  mjú  12m09.cha 1 0 00 mjú qué vamos hacer con éso a ver .
+allcorpora  23542  oing  12m09.cha 1 0 00 oing , oing , oing mira tla , tla , tla .
+allcorpora  23542  oing  12m09.cha 1 0 00 oing , oing , oing mira tla , tla , tla .
+allcorpora  23542  oing  12m09.cha 1 0 00 oing , oing , oing mira tla , tla , tla .
+allcorpora  23555  oing  12m09.cha 1 0 00 hola oing , oing .
+allcorpora  23555  oing  12m09.cha 1 0 00 hola oing , oing .
+allcorpora  23608  mjú  12m09.cha 1 0 00 mjú ?
+allcorpora  23724  güero  12m09.cha 1 0 00 Pedro güero ?
+allcorpora  23842  ach  12m12.cha 1 0 00 ach ach qué pasa ?
+allcorpora  23842  ach  12m12.cha 1 0 00 ach ach qué pasa ?
+allcorpora  23854  ach  12m12.cha 1 0 00 ach mira cómo se hace .
+allcorpora  23921  oing  12m13.cha 1 0 00 oing , oing .
+allcorpora  23921  oing  12m13.cha 1 0 00 oing , oing .
+allcorpora  23943  mj  12m13.cha 1 0 00 mj .
+allcorpora  23959  shshsh  12m13.cha 1 0 00 shshsh duérmelo .
+allcorpora  23971  sandwich  12m13.cha 1 0 00 mira así un sandwich le ponemos lechuga mira lechuga quesito .
+allcorpora  23980  shshsh  12m13.cha 1 0 00 duérmelo , duérmelo shshsh .
+allcorpora  24006  mmh  12m13.cha 1 0 00 es la ciruela ay qué rica mmh .
+allcorpora  24040  mmh  12m13.cha 1 0 00 mira mmh .
+allcorpora  24178  mmh  12q02.cha 1 0 00 mmh un guaguaú .
+allcorpora  24314  iiih  12q03.cha 1 0 00 mira Mariana vamos a jugar con éstas cosas bonitas a ver vamos a descubrir qué es ésto , iiih perro guau guau mira .
+allcorpora  24314  guau  12q03.cha 1 0 00 mira Mariana vamos a jugar con éstas cosas bonitas a ver vamos a descubrir qué es ésto , iiih perro guau guau mira .
+allcorpora  24314  guau  12q03.cha 1 0 00 mira Mariana vamos a jugar con éstas cosas bonitas a ver vamos a descubrir qué es ésto , iiih perro guau guau mira .
+allcorpora  24327  iiih  12q03.cha 1 0 00 a ver iiih qué es éste ?
+allcorpora  24331  miau  12q03.cha 1 0 00 no éste es el miau .
+allcorpora  24346  mm  12q03.cha 1 0 00 entonces me voy a comer ésta manzana mira am que rica manzana mm que rica .
+allcorpora  24350  mjú  12q03.cha 1 0 00 mjú cómetela , cómetela mm que rica verdad ?
+allcorpora  24350  mm  12q03.cha 1 0 00 mjú cómetela , cómetela mm que rica verdad ?
+allcorpora  24351  mm  12q03.cha 1 0 00 mm que sabrosa manzana .
+allcorpora  24402  iiih  12q03.cha 1 0 00 iiih mira un pepe lo llevan a dónde llevan a pepe ?
+allcorpora  24406  iiih  12q03.cha 1 0 00 iiih ay qué bonito !
+allcorpora  24410  iiih  12q03.cha 1 0 00 a ver vamos a ver ahora déjame verlo contigo iiih mira que va haciendo Enrique qué está haciendo Enrique ?
+allcorpora  24417  iiih  12q03.cha 1 0 00 iiih ay qué padre qué es eso ?
+allcorpora  24420  iiih  12q03.cha 1 0 00 iiih mira una flor mm ay que rico huele mm quieres olerla a ver ah que rico huele quieres ver otro ?
+allcorpora  24420  mm  12q03.cha 1 0 00 iiih mira una flor mm ay que rico huele mm quieres olerla a ver ah que rico huele quieres ver otro ?
+allcorpora  24420  mm  12q03.cha 1 0 00 iiih mira una flor mm ay que rico huele mm quieres olerla a ver ah que rico huele quieres ver otro ?
+allcorpora  24421  iiih  12q03.cha 1 0 00 iiih mira que bonito qué es éste que es ésto Mariana qué es ésto ?
+allcorpora  24426  iiih  12q03.cha 1 0 00 iiih una flor que bonita flor ay que bonitos dibujos !
+allcorpora  24435  iiih  12q03.cha 1 0 00 aquí mira , eso muy bien acá hay otro iiih mira se está rompiendo el cascaron y qué va a salir del cascaron un pollito , pio pio pio .
+allcorpora  24456  abrian  12q03.cha 1 0 00 hola porque no nos abrian la puerta ?
+allcorpora  24496  iiih  12q03.cha 1 0 00 iiih a ver vamos a encontrar uno mira lo que me encontré .
+allcorpora  24499  iiih  12q03.cha 1 0 00 iiih qué es esto vamos a ponerlos aquí .
+allcorpora  24501  iiih  12q03.cha 1 0 00 a ver qué hay iiih una nena es una nena ?
+allcorpora  24585  shsh  12q04.cha 1 0 00 guaguaú shsh .
+allcorpora  24611  perr  12q04.cha 1 0 00 a ver llama al perr al gatito .
+allcorpora  24789  sandwich  12q14.cha 1 0 00 mira um que rico sandwich .
+allcorpora  24915  mmm  12q16.cha 1 0 00 mmm que rico pero no se puede .
+allcorpora  24936  mmm  12q16.cha 1 0 00 dale de comer mmm .
+allcorpora  24938  mmm  12q16.cha 1 0 00 un bibi mmm .
+allcorpora  25028  nmucho  12q19.cha 1 0 00 no le gustan nmucho los juguetes le gustan más los peluchitos .
+allcorpora  25040  mh  12q20.cha 1 0 00 mh ?
+allcorpora  25089  sandwich  12q20.cha 1 0 00 mira el sandwich .
+allcorpora  25109  péinate  12sb02.cha 1 0 00 mira ten péinate que ya nos vamos .
+allcorpora  25176  ammm  12sb03.cha 1 0 00 ammm !
+allcorpora  25180  ammm  12sb03.cha 1 0 00 ammm !
+allcorpora  25181  ammm  12sb03.cha 1 0 00 ammm !
+allcorpora  25182  ammm  12sb03.cha 1 0 00 ammm !
+allcorpora  25183  ammm  12sb03.cha 1 0 00 ammm ammm !
+allcorpora  25183  ammm  12sb03.cha 1 0 00 ammm ammm !
+allcorpora  25185  ammm  12sb03.cha 1 0 00 ammm ammm !
+allcorpora  25185  ammm  12sb03.cha 1 0 00 ammm ammm !
+allcorpora  25386  mmm  12sb06.cha 1 0 00 mmm !
+allcorpora  25389  mmm  12sb06.cha 1 0 00 mmm !
+allcorpora  25429  mju  12sb06.cha 1 0 00 mju así .
+allcorpora  25484  mmm  12sb06.cha 1 0 00 mira se come sí mmm .
+allcorpora  25491  miau  12sb06.cha 1 0 00 miau miau .
+allcorpora  25491  miau  12sb06.cha 1 0 00 miau miau .
+allcorpora  25502  runn  12sb07.cha 1 0 00 runn .
+allcorpora  25640  mmh  12sb09.cha 1 0 00 mmh rica a ver tú ?
+allcorpora  25804  shit  12sb10.cha 1 0 00 shit shit .
+allcorpora  25804  shit  12sb10.cha 1 0 00 shit shit .
+allcorpora  25808  guau  12sb10.cha 1 0 00 guau guau guau .
+allcorpora  25808  guau  12sb10.cha 1 0 00 guau guau guau .
+allcorpora  25808  guau  12sb10.cha 1 0 00 guau guau guau .
+allcorpora  25815  pst  12sb10.cha 1 0 00 bebé pst pst .
+allcorpora  25815  pst  12sb10.cha 1 0 00 bebé pst pst .
+allcorpora  25816  guau  12sb10.cha 1 0 00 guau guau guau .
+allcorpora  25816  guau  12sb10.cha 1 0 00 guau guau guau .
+allcorpora  25816  guau  12sb10.cha 1 0 00 guau guau guau .
+allcorpora  25819  guau  12sb10.cha 1 0 00 gua gua guau guau .
+allcorpora  25819  guau  12sb10.cha 1 0 00 gua gua guau guau .
+allcorpora  25892  mmh  12sb10.cha 1 0 00 agua mmh qué rica verdad ?
+allcorpora  26451  pingüíno  12_2.cha 1 10 18 un pingüíno .
+allcorpora  26452  pingüínos  12_2.cha 1 10 18 hay dos pingüínos .
+allcorpora  26455  pingüínos  12_2.cha 1 10 18 y qué hacen los pingüínos ?
+allcorpora  26616  mm  12_2.cha 1 10 18 mm .
+allcorpora  26617  mm  12_2.cha 1 10 18 mm , el sol .
+allcorpora  26644  miau  12_2.cha 1 10 18 miau miau .
+allcorpora  26644  miau  12_2.cha 1 10 18 miau miau .
+allcorpora  26699  guau  12_2.cha 1 10 18 cuántos guau .
+allcorpora  26802  ss  12_2.cha 1 10 18 ss .
+allcorpora  26933  mm  13.cha 1 6 16 mm ?
+allcorpora  27251  t  13d.cha 2 8 00 muy bien y ahora vas a contar la película de E T que viste el otro día .
+allcorpora  27254  t  13d.cha 2 8 00 pero , porque E T era muy guapo ?
+allcorpora  27261  t  13d.cha 2 8 00 qué decía E T ?
+allcorpora  27267  t  13d.cha 2 8 00 pero , E T qué era ?
+allcorpora  27269  t  13d.cha 2 8 00 qué era E T ?
+allcorpora  27330  t  13d.cha 2 8 00 pero a ti te da miedo E T mi vida .
+allcorpora  27331  t  13d.cha 2 8 00 te da miedo a ti E T mi vida ?
+allcorpora  27332  t  13d.cha 2 8 00 si te da miedo E T .
+allcorpora  27333  t  13d.cha 2 8 00 pero si E T es muy bueno .
+allcorpora  27363  t  13e.cha 2 8 00 el que estaba con E T ?
+allcorpora  27799  abr  13_2.cha 1 10 25 y quién abr , quién va a brir el bote ?
+allcorpora  27827  mmm  13_2.cha 1 10 25 mmm ?
+allcorpora  28103  abriendo  13_2.cha 1 10 25 está Mendía abriendo la caja ?
+allcorpora  28308  triángulo  13_2.cha 1 10 25 amarillo , sí , es un triángulo amarillo .
+allcorpora  28447  brnn  14.cha 1 7 05 brnn brnn , a ver .
+allcorpora  28447  brnn  14.cha 1 7 05 brnn brnn , a ver .
+allcorpora  28452  abriendo  14.cha 1 7 05 no , eso ya sabes que no se puede andar abriendo y cerrando , eh , a ver .
+allcorpora  28467  pm  14.cha 1 7 05 a ver tu , toca porrón pom pm !
+allcorpora  29201  monstruíto  14_2.cha 1 11 00 este monstruíto .
+allcorpora  29245  ss  14_2.cha 1 11 00 ss .
+allcorpora  29264  chss  14_2.cha 1 11 00 eh chss chss .
+allcorpora  29264  chss  14_2.cha 1 11 00 eh chss chss .
+allcorpora  29420  mmm  14_2.cha 1 11 00 mmm ?
+allcorpora  29617  mm  14_2.cha 1 11 00 mm .
+allcorpora  29694  mmm  14_2.cha 1 11 00 mmm .
+allcorpora  29700  mm  14_2.cha 1 11 00 mm mm .
+allcorpora  29700  mm  14_2.cha 1 11 00 mm mm .
+allcorpora  29716  guaguau  14_2.cha 1 11 00 vale , pues es un guaguau .
+allcorpora  29719  guaguáu  14_2.cha 1 11 00 vale , pues es un guaguáu .
+allcorpora  29724  mmm  14_2.cha 1 11 00 mmm ?
+allcorpora  29728  mmm  14_2.cha 1 11 00 mmm .
+allcorpora  29770  mmm  14_2.cha 1 11 00 mmm .
+allcorpora  29789  mm  14_2.cha 1 11 00 mm ?
+allcorpora  29805  mmm  14_2.cha 1 11 00 mmm .
+allcorpora  29824  mm  14_2.cha 1 11 00 mm ?
+allcorpora  29827  mmm  14_2.cha 1 11 00 mmm .
+allcorpora  29913  mmm  14_2.cha 1 11 00 mmm .
+allcorpora  29958  tat  14_3.cha 1 4 00 tat .
+allcorpora  30060  mm  15.cha 1 7 05 mm , Cuqui , que ?
+allcorpora  30067  mm  15.cha 1 7 05 mm ?
+allcorpora  30079  mm  15.cha 1 7 05 mm , que hace mama con esto ?
+allcorpora  30318  cassette  15c.cha 3 6 00 era con cassette y ya no era ni bola .
+allcorpora  30380  contexto  15d.cha 3 6 00 en qué contexto vamos a hacer la película , qué es lo que vas a hacer ahora ?
+allcorpora  30514  pst  15e.cha 3 6 00 pst .
+allcorpora  30944  guaguáu  15_2.cha 1 11 06 cadena del guaguáu .
+allcorpora  30947  mm  15_2.cha 1 11 06 mm mm .
+allcorpora  30947  mm  15_2.cha 1 11 06 mm mm .
+allcorpora  31061  mm  15_2.cha 1 11 06 mm mm .
+allcorpora  31061  mm  15_2.cha 1 11 06 mm mm .
+allcorpora  31209  t  15_2.cha 1 11 06 qué está haciendo t ?
+allcorpora  31333  cds  15_2.cha 1 11 06 los vamos a guardar a la habitación los cds , los cuentos ?
+allcorpora  31415  mm  16.cha 1 7 05 mm .
+allcorpora  31419  mm  16.cha 1 7 05 mm , que estás haciendo ?
+allcorpora  31454  mm  16.cha 1 7 05 mm .
+allcorpora  31477  mm  16.cha 1 7 05 mm ?
+allcorpora  31549  hmm  16b.cha 3 7 00 mnn hmm .
+allcorpora  31604  quiers  16b.cha 3 7 00 no se que quiers que haga yo .
+allcorpora  31614  parking  16c.cha 3 7 00 un aparcamiento , un parking para los coches .
+allcorpora  31621  parking  16c.cha 3 7 00 un parking para aparcar ?
+allcorpora  31706  herranz  16d.cha 3 7 00 pero antes te llamaba María Herranz * .
+allcorpora  32055  mmm  16_2.cha 1 11 15 mmm ?
+allcorpora  32059  mmm  16_2.cha 1 11 15 mmm .
+allcorpora  32068  sss  16_2.cha 1 11 15 sss .
+allcorpora  32080  mm  16_2.cha 1 11 15 mm .
+allcorpora  32125  s  16_2.cha 1 11 15 y para qué va a s vas ?
+allcorpora  32211  mm  16_2.cha 1 11 15 mm .
+allcorpora  32299  chss  16_2.cha 1 11 15 eh , chss .
+allcorpora  32496  guau  16_2.cha 1 11 15 pero viene el perro , guau guau guau guau guau@o .
+allcorpora  32496  guau  16_2.cha 1 11 15 pero viene el perro , guau guau guau guau guau@o .
+allcorpora  32496  guau  16_2.cha 1 11 15 pero viene el perro , guau guau guau guau guau@o .
+allcorpora  32496  guau  16_2.cha 1 11 15 pero viene el perro , guau guau guau guau guau@o .
+allcorpora  32496  guau@o  16_2.cha 1 11 15 pero viene el perro , guau guau guau guau guau@o .
+allcorpora  32497  guau  16_2.cha 1 11 15 ladrando guau guau guau guau guau .
+allcorpora  32497  guau  16_2.cha 1 11 15 ladrando guau guau guau guau guau .
+allcorpora  32497  guau  16_2.cha 1 11 15 ladrando guau guau guau guau guau .
+allcorpora  32497  guau  16_2.cha 1 11 15 ladrando guau guau guau guau guau .
+allcorpora  32497  guau  16_2.cha 1 11 15 ladrando guau guau guau guau guau .
+allcorpora  32504  guau  16_2.cha 1 11 15 guau guau guau guau .
+allcorpora  32504  guau  16_2.cha 1 11 15 guau guau guau guau .
+allcorpora  32504  guau  16_2.cha 1 11 15 guau guau guau guau .
+allcorpora  32504  guau  16_2.cha 1 11 15 guau guau guau guau .
+allcorpora  32506  guau  16_2.cha 1 11 15 guau guau guau guau guau guau guau@o .
+allcorpora  32506  guau  16_2.cha 1 11 15 guau guau guau guau guau guau guau@o .
+allcorpora  32506  guau  16_2.cha 1 11 15 guau guau guau guau guau guau guau@o .
+allcorpora  32506  guau  16_2.cha 1 11 15 guau guau guau guau guau guau guau@o .
+allcorpora  32506  guau  16_2.cha 1 11 15 guau guau guau guau guau guau guau@o .
+allcorpora  32506  guau  16_2.cha 1 11 15 guau guau guau guau guau guau guau@o .
+allcorpora  32506  guau@o  16_2.cha 1 11 15 guau guau guau guau guau guau guau@o .
+allcorpora  32799  pcf  16_3.cha 1 7 00 pcf .
+allcorpora  32846  pcf  16_3.cha 1 7 00 pcf .
+allcorpora  32865  hmm  16_3.cha 1 7 00 hmm !
+allcorpora  32878  pcf  16_3.cha 1 7 00 pcf !
+allcorpora  32920  mm  17.cha 1 7 22 que está haciendo papa , mm ?
+allcorpora  32943  mm  17.cha 1 7 22 a ver , mm , que guapa !
+allcorpora  32964  mm  17.cha 1 7 22 mm , que va a hacer Irene ?
+allcorpora  33004  mm  17.cha 1 7 22 mm ?
+allcorpora  33079  mm  17.cha 1 7 22 mm , que quieres que haga mama ?
+allcorpora  33180  mm  17.cha 1 7 22 mm , de quien es esa pulsera ?
+allcorpora  33182  mm  17.cha 1 7 22 mm , como que no ?
+allcorpora  33204  perspectiva  17a.cha 3 10 00 vamos a hacer una perspectiva de formato .
+allcorpora  33290  input  17b.cha 3 10 00 observen selección del input .
+allcorpora  33291  input  17b.cha 3 10 00 selección del input , señores .
+allcorpora  33370  lingüística  17c.cha 3 10 00 diles algo acerca de la lingüística , del que no sé , lo que tú opines sobre el tema .
+allcorpora  33371  lingüística  17c.cha 3 10 00 básicamente , para ti , la lingüística , qué es , hija mía ?
+allcorpora  33374  lingüística  17c.cha 3 10 00 señores habrán observado que preciso , y que conciso ha sido esto resumen sobre la lingüística * .
+allcorpora  33473  p  17e.cha 3 10 00 parece una p .
+allcorpora  33474  p  17e.cha 3 10 00 es una mezcla entre una p y una b .
+allcorpora  33474  b  17e.cha 3 10 00 es una mezcla entre una p y una b .
+allcorpora  33475  p  17e.cha 3 10 00 es que mira , si le pones el redondelito más arriba es una p , y si se lo pone , con el redondelito más abajo es una b es así , con el redondelito abajo , ves ?
+allcorpora  33475  b  17e.cha 3 10 00 es que mira , si le pones el redondelito más arriba es una p , y si se lo pone , con el redondelito más abajo es una b es así , con el redondelito abajo , ves ?
+allcorpora  33477  p  17e.cha 3 10 00 no es una p ni una b .
+allcorpora  33477  b  17e.cha 3 10 00 no es una p ni una b .
+allcorpora  33487  m  17e.cha 3 10 00 ha puesto una m y una r , me parece .
+allcorpora  33487  r  17e.cha 3 10 00 ha puesto una m y una r , me parece .
+allcorpora  33499  n  17e.cha 3 10 00 ahora le pone una n al final y es el mío .
+allcorpora  33528  sexto  17f.cha 3 10 00 y al sexto suben ?
+allcorpora  33533  sexto  17f.cha 3 10 00 ahí tampoco , porque ese también es el sexto .
+allcorpora  33901  ss  17_2.cha 1 11 23 ss .
+allcorpora  33909  mm  17_2.cha 1 11 23 mm .
+allcorpora  34075  mm  17_2.cha 1 11 23 mm ?
+allcorpora  34079  mm  17_2.cha 1 11 23 mm .
+allcorpora  34114  triángulo  17_2.cha 1 11 23 un triángulo .
+allcorpora  34115  triángulo  17_2.cha 1 11 23 triángulo .
+allcorpora  34117  triángulo  17_2.cha 1 11 23 un triángulo .
+allcorpora  34127  triángulo  17_2.cha 1 11 23 un triángulo .
+allcorpora  34135  mm  17_2.cha 1 11 23 mm .
+allcorpora  34170  triángulo  17_2.cha 1 11 23 un triángulo .
+allcorpora  34324  tss  17_3.cha 1 9 00 tss , tss .
+allcorpora  34324  tss  17_3.cha 1 9 00 tss , tss .
+allcorpora  34350  pit  17_3.cha 1 9 00 el pit trompeta allí .
+allcorpora  34373  tss  17_3.cha 1 9 00 tss , Edu .
+allcorpora  34382  pcf  17_3.cha 1 9 00 pcf .
+allcorpora  34383  tss  17_3.cha 1 9 00 tss .
+allcorpora  34401  tss  17_3.cha 1 9 00 tss .
+allcorpora  34411  tss  17_3.cha 1 9 00 tss .
+allcorpora  34419  tss  17_3.cha 1 9 00 tss .
+allcorpora  34455  tss  17_3.cha 1 9 00 la rueda mira , tss , tss .
+allcorpora  34455  tss  17_3.cha 1 9 00 la rueda mira , tss , tss .
+allcorpora  34514  tss  17_3.cha 1 9 00 tss cuidado .
+allcorpora  34568  tss  17_3.cha 1 9 00 mira , tss .
+allcorpora  34570  tss  17_3.cha 1 9 00 tss , llama a papa .
+allcorpora  34584  tss  17_3.cha 1 9 00 tss , Edu .
+allcorpora  34589  tss  17_3.cha 1 9 00 mira , tss , tss .
+allcorpora  34589  tss  17_3.cha 1 9 00 mira , tss , tss .
+allcorpora  34645  tss  17_3.cha 1 9 00 tss , que se va .
+allcorpora  34663  guau  18.cha 1 7 22 guau gua , también ponemos , y que mas , que mas hija ?
+allcorpora  34691  guau  18.cha 1 7 22 y un gua guau .
+allcorpora  34697  mm  18.cha 1 7 22 mm .
+allcorpora  34700  guau  18.cha 1 7 22 gua guau en el plato está comiendo , si señor , está comiendo en el plato .
+allcorpora  34744  mm  18.cha 1 7 22 mm , eso le dices a Tina ?
+allcorpora  34752  guau  18.cha 1 7 22 un gua guau , si señor , hay un gua guau ahí .
+allcorpora  34752  guau  18.cha 1 7 22 un gua guau , si señor , hay un gua guau ahí .
+allcorpora  34780  guau  18.cha 1 7 22 un guau .
+allcorpora  34781  guau  18.cha 1 7 22 otro guau , que está , con quien está ?
+allcorpora  34784  guau  18.cha 1 7 22 este gua guau .
+allcorpora  34823  miau  18.cha 1 7 22 miau .
+allcorpora  34986  mm  18_2.cha 1 11 30 mm .
+allcorpora  35562  sinvergüenza  18_3.cha 2 0 00 oye Edu , eres un sinvergüenza .
+allcorpora  35696  mm  19_2.cha 2 0 06 ah , mm , qué lío tienes tú .
+allcorpora  35763  mm  19_2.cha 2 0 06 mm ?
+allcorpora  35922  mm  19_2.cha 2 0 06 mm ?
+allcorpora  35940  plaf  19_2.cha 2 0 06 y si le pisas y haces , plaf .
+allcorpora  35959  mm  19_2.cha 2 0 06 mm ?
+allcorpora  36049  mm  19_2.cha 2 0 06 mm ?
+allcorpora  36075  mm  19_2.cha 2 0 06 mm ?
+allcorpora  36087  mm  19_2.cha 2 0 06 mm ?
+allcorpora  36154  ahrrg  19_2.cha 2 0 06 ahrrg .
+allcorpora  36155  ahrrg  19_2.cha 2 0 06 ahrrg .
+allcorpora  36240  mm  19_2.cha 2 0 06 mm ?
+allcorpora  36248  mm  19_2.cha 2 0 06 mm ?
+allcorpora  36314  mm  19_2.cha 2 0 06 mm .
+allcorpora  36352  mm  19_2.cha 2 0 06 mm ?
+allcorpora  36377  mm  19_2.cha 2 0 06 mm ?
+allcorpora  36391  amm  19_2.cha 2 0 06 amm .
+allcorpora  36401  mm  19_2.cha 2 0 06 mm ?
+allcorpora  36460  pcf  19_3.cha 2 3 00 pcf .
+allcorpora  36494  uix  19_3.cha 2 3 00 uix !
+allcorpora  36555  pcf  19_3.cha 2 3 00 pcf .
+allcorpora  36591  pcf  19_3.cha 2 3 00 pcf .
+allcorpora  36616  pcf  19_3.cha 2 3 00 pcf !
+allcorpora  36632  pcf  19_3.cha 2 3 00 pcf !
+allcorpora  36645  pcf  19_3.cha 2 3 00 pcf .
+allcorpora  36666  pcf  19_3.cha 2 3 00 pcf .
+allcorpora  36814  mm  20.cha 1 8 09 mm ?
+allcorpora  36842  mm  20.cha 1 8 09 mm , ni idea , a ver que mas ?
+allcorpora  36868  mm  20.cha 1 8 09 que mas comes tu , mm , que mas comes tu para ser muy fuerte ?
+allcorpora  36896  mm  20.cha 1 8 09 mm .
+allcorpora  36901  yoghurt  20.cha 1 8 09 venga bebete ese agua , venga que tienes que tomar el yoghurt de fresa y tenemos que marchar para ir a ver a Alba .
+allcorpora  36906  shh  20.cha 1 8 09 shh , cuando mama dice no , no , y no !
+allcorpora  36928  yoghurt  20.cha 1 8 09 de que es este yoghurt cariño , de que es este Peti ?
+allcorpora  36935  mm  20.cha 1 8 09 mm ?
+allcorpora  36951  s  20.cha 1 8 09 el nombre de Jose que cuatro letras tiene , la jota , la o , la s , la e , Jose !
+allcorpora  36955  s  20.cha 1 8 09 la s .
+allcorpora  36957  m  20.cha 1 8 09 la m .
+allcorpora  36958  rr  20.cha 1 8 09 la rr , bien !
+allcorpora  37068  mm  20002.cha 2 0 2 mm qué rica .
+allcorpora  37375  cambrils  20004.cha 2 0 4 entonces ayer saliste en el , en el puerto de Cambrils en el barco .
+allcorpora  37634  mm  20006.cha 2 0 6 mm .
+allcorpora  38058  uf  20012.cha 2 0 12 uf .
+allcorpora  38296  mm  20014.cha 2 0 14 mm .
+allcorpora  38314  buf  20014.cha 2 0 14 buf .
+allcorpora  38335  pf  20014.cha 2 0 14 pf .
+allcorpora  38394  sofisitcados  20014.cha 2 0 14 estamos ya demasiado sofisitcados .
+allcorpora  38509  uf  20014.cha 2 0 14 uf .
+allcorpora  38616  conste  20019.cha 2 0 19 esto que no conste en acta eh ?
+allcorpora  38679  cond  20019.cha 2 0 19 sabes quién , quién cond ?
+allcorpora  38681  ss  20019.cha 2 0 19 ss .
+allcorpora  38692  uf  20019.cha 2 0 19 uf .
+allcorpora  38694  uf  20019.cha 2 0 19 uf .
+allcorpora  38696  uf  20019.cha 2 0 19 uf .
+allcorpora  38723  ss  20019.cha 2 0 19 ss .
+allcorpora  38737  mm  20019.cha 2 0 19 mm .
+allcorpora  38741  mm  20019.cha 2 0 19 mm .
+allcorpora  38743  mm  20019.cha 2 0 19 mm .
+allcorpora  39038  cp  20025.cha 2 0 25 ahí cp , come lechuga .
+allcorpora  39199  ppel  20025.cha 2 0 25 y qué hace el ppel ?
+allcorpora  39433  ent  20100.cha 2 1 00 la vaca ent el caballo entero .
+allcorpora  39976  mm  20104.cha 2 1 04 mm .
+allcorpora  40070  mm  20104.cha 2 1 04 mm .
+allcorpora  40105  mm  20104.cha 2 1 04 mm .
+allcorpora  40184  mm  20104.cha 2 1 04 mm .
+allcorpora  40432  mm  20112.cha 2 1 12 mm .
+allcorpora  40453  mm  20112.cha 2 1 12 mm .
+allcorpora  40508  mji  20112.cha 2 1 12 mji .
+allcorpora  40535  mm  20112.cha 2 1 12 mm .
+allcorpora  40565  mm  20112.cha 2 1 12 mm .
+allcorpora  40695  blurp  20112.cha 2 1 12 blurp .
+allcorpora  40792  buf  20112.cha 2 1 12 buf .
+allcorpora  40798  mm  20112.cha 2 1 12 mm .
+allcorpora  40889  mm  20112.cha 2 1 12 mm .
+allcorpora  40912  mm  20112.cha 2 1 12 mm .
+allcorpora  41022  enslada  20118.cha 2 1 18 quiere enslada aquí don Juan Apellido .
+allcorpora  41072  construía  20118.cha 2 1 18 qué construía ?
+allcorpora  41187  mm  20118.cha 2 1 18 mm .
+allcorpora  41246  mm  20118.cha 2 1 18 mm .
+allcorpora  41275  mm  20118.cha 2 1 18 mm .
+allcorpora  41539  crunch  20118.cha 2 1 18 que suena crunch .
+allcorpora  41573  mm  20118.cha 2 1 18 mm .
+allcorpora  41599  mm  20118.cha 2 1 18 mm .
+allcorpora  41774  mm  20121.cha 2 1 21 mm .
+allcorpora  41834  mm  20121.cha 2 1 21 mm .
+allcorpora  41937  mm  20121.cha 2 1 21 mm .
+allcorpora  42077  buf  20121.cha 2 1 21 tenía una cara buf .
+allcorpora  42078  buf  20121.cha 2 1 21 buf .
+allcorpora  42191  mm  20124.cha 2 1 24 mm .
+allcorpora  42479  b  20124.cha 2 1 24 a b c .
+allcorpora  42479  c  20124.cha 2 1 24 a b c .
+allcorpora  42481  d  20124.cha 2 1 24 d e .
+allcorpora  42556  abriendo  20126.cha 2 1 26 abriendo las puertas el azul ?
+allcorpora  42591  peugeot  20126.cha 2 1 26 es un Peugeot .
+allcorpora  42592  ford  20126.cha 2 1 26 pues parece un Ford .
+allcorpora  42593  renault  20126.cha 2 1 26 pero a lo mejor podría ser un Renault .
+allcorpora  42594  renault  20126.cha 2 1 26 este es un Renault Twingo .
+allcorpora  42595  peugeot  20126.cha 2 1 26 un Peugeot cuatro cientos cinco .
+allcorpora  42597  ford  20126.cha 2 1 26 un Ford Escort .
+allcorpora  42597  escort  20126.cha 2 1 26 un Ford Escort .
+allcorpora  42598  peugeot  20126.cha 2 1 26 un Peugeot cuatro cientos cinco .
+allcorpora  42611  pluf  20126.cha 2 1 26 cómo que pluf ?
+allcorpora  42618  mm  20126.cha 2 1 26 mm .
+allcorpora  42716  mm  20129.cha 2 1 29 mm .
+allcorpora  43037  mm  20201.cha 2 2 01 mm .
+allcorpora  43044  r  20201.cha 2 2 01 y su papá se llamaba R .
+allcorpora  43167  chris  20201.cha 2 2 01 Chris .
+allcorpora  43168  christopher  20201.cha 2 2 01 Christopher Robin .
+allcorpora  43178  r  20201.cha 2 2 01 y su hijo que se llama R .
+allcorpora  43179  ruth  20201.cha 2 2 01 Ruth .
+allcorpora  43499  mm  20201.cha 2 2 01 qué quiere decir mm ?
+allcorpora  44170  mm  20207.cha 2 2 07 mm .
+allcorpora  44177  munch  20207.cha 2 2 07 qué ha pasado , Munch Müller ?
+allcorpora  44177  müller  20207.cha 2 2 07 qué ha pasado , Munch Müller ?
+allcorpora  44192  uf  20207.cha 2 2 07 uf .
+allcorpora  44246  pof  20207.cha 2 2 07 cómo que pof ?
+allcorpora  44259  guay  20211.cha 2 2 11 mira qué guay .
+allcorpora  44277  mm  20211.cha 2 2 11 mm .
+allcorpora  44395  mm  20211.cha 2 2 11 mm .
+allcorpora  44862  l  20214.cha 2 2 14 en l .
+allcorpora  44863  l  20214.cha 2 2 14 una entrada en l .
+allcorpora  44877  l  20214.cha 2 2 14 te gusta la entrada en l ?
+allcorpora  44880  l  20214.cha 2 2 14 es una entrada en l .
+allcorpora  44896  l  20214.cha 2 2 14 encima de la l , sí .
+allcorpora  44913  triunfales  20214.cha 2 2 14 te estás tirando unos pedorretes , triunfales .
+allcorpora  44955  l  20214.cha 2 2 14 entra por la puerta que tiene forma de l .
+allcorpora  45210  mm  20216.cha 2 2 16 mm .
+allcorpora  45347  mm  20216.cha 2 2 16 mm .
+allcorpora  45668  mm  20222.cha 2 2 22 mm .
+allcorpora  45731  esc  20222.cha 2 2 22 estamos esc grabando con Javier .
+allcorpora  45972  mm  20222.cha 2 2 22 mm .
+allcorpora  45979  t  20222.cha 2 2 22 a t no .
+allcorpora  46010  ss  20222.cha 2 2 22 ss .
+allcorpora  46017  mm  20222.cha 2 2 22 mm ?
+allcorpora  46024  ss  20222.cha 2 2 22 ss .
+allcorpora  46193  mm  20224.cha 2 2 24 mm .
+allcorpora  46196  uf  20224.cha 2 2 24 uf .
+allcorpora  46379  bs  20224.cha 2 2 24 o de las que hacen bs ?
+allcorpora  46383  bs  20224.cha 2 2 24 y hace bs .
+allcorpora  46472  mm  20224.cha 2 2 24 mm .
+allcorpora  46491  mm  20224.cha 2 2 24 mm .
+allcorpora  46585  est  20224.cha 2 2 24 que así est que así se estropea , Juan .
+allcorpora  46713  ccoqueta  20230.cha 2 2 30 es Queta “ la vaca ccoqueta ” ?
+allcorpora  46715  missing  20230.cha 2 2 30 está missing ?
+allcorpora  46716  missing  20230.cha 2 2 30 está missing .
+allcorpora  46743  j  20230.cha 2 2 30 una j , sí .
+allcorpora  46744  j  20230.cha 2 2 30 una j de Juan .
+allcorpora  46766  j  20230.cha 2 2 30 yo te llevo ahora la j .
+allcorpora  46768  j  20230.cha 2 2 30 la j .
+allcorpora  46771  n  20230.cha 2 2 30 y la n .
+allcorpora  46781  j  20230.cha 2 2 30 la j de qué .
+allcorpora  46787  j  20230.cha 2 2 30 y j también de juguetes no ?
+allcorpora  46794  pingüino  20230.cha 2 2 30 qué haces , pingüino ?
+allcorpora  46824  m  20230.cha 2 2 30 pero si tienes tres m es .
+allcorpora  46865  clics  20230.cha 2 2 30 aquí hay más clics .
+allcorpora  46899  pingüino  20230.cha 2 2 30 hay que ver lo que me hace trabajar este pingüino .
+allcorpora  47173  mm  20303.cha 2 3 03 mm .
+allcorpora  47361  mm  20303.cha 2 3 03 mm .
+allcorpora  47369  guay  20303.cha 2 3 03 pero si la ducha está guay .
+allcorpora  47551  mm  20304.cha 2 3 04 mm .
+allcorpora  47557  mm  20304.cha 2 3 04 mm .
+allcorpora  47995  rex  20312.cha 2 3 12 son los dinosaurios Rex ?
+allcorpora  47996  rex  20312.cha 2 3 12 los dinosaurios Rec Rex .
+allcorpora  48043  mm  20312.cha 2 3 12 mm .
+allcorpora  48044  mm  20312.cha 2 3 12 mm .
+allcorpora  48055  construcciones  20312.cha 2 3 12 eso es un juego de construcciones .
+allcorpora  48069  mm  20312.cha 2 3 12 mm .
+allcorpora  48089  mm  20312.cha 2 3 12 mm .
+allcorpora  48101  mm  20312.cha 2 3 12 mm .
+allcorpora  48104  mm  20312.cha 2 3 12 mm .
+allcorpora  48214  mm  20312.cha 2 3 12 mm .
+allcorpora  48271  mm  20312.cha 2 3 12 mm .
+allcorpora  48292  mm  20312.cha 2 3 12 mm .
+allcorpora  48520  mm  20313.cha 2 3 13 mm .
+allcorpora  48523  mm  20313.cha 2 3 13 mm .
+allcorpora  48711  sandwich  20317.cha 2 3 17 un san , y un sandwich .
+allcorpora  48724  mm  20317.cha 2 3 17 mm .
+allcorpora  48736  mm  20317.cha 2 3 17 mm .
+allcorpora  48757  sandwich  20317.cha 2 3 17 un sandwich .
+allcorpora  48807  mm  20317.cha 2 3 17 mm .
+allcorpora  48820  mm  20317.cha 2 3 17 mm .
+allcorpora  48846  mm  20317.cha 2 3 17 mm .
+allcorpora  48850  mm  20317.cha 2 3 17 mm .
+allcorpora  48854  mm  20317.cha 2 3 17 mm .
+allcorpora  48952  ring  20317.cha 2 3 17 ese suena ring .
+allcorpora  49262  mm  20320.cha 2 3 20 mm .
+allcorpora  49362  christopher  20320.cha 2 3 20 Christopher Robins .
+allcorpora  49362  robins  20320.cha 2 3 20 Christopher Robins .
+allcorpora  49365  christopher  20320.cha 2 3 20 tienes un amigo que se llama Christopher Robins ?
+allcorpora  49365  robins  20320.cha 2 3 20 tienes un amigo que se llama Christopher Robins ?
+allcorpora  49395  ruth  20320.cha 2 3 20 Ruth y Canga .
+allcorpora  49396  ruth  20320.cha 2 3 20 no sé si la mamá se llama Canga y el niño Ruth o al revés .
+allcorpora  49451  mm  20320.cha 2 3 20 mm .
+allcorpora  49826  mm  20326.cha 2 3 26 mm .
+allcorpora  49893  mm  20326.cha 2 3 26 mm .
+allcorpora  49906  mm  20326.cha 2 3 26 mm .
+allcorpora  49936  prr  20326.cha 2 3 26 viene y hace prr .
+allcorpora  49962  chof  20326.cha 2 3 26 chof .
+allcorpora  50042  looping  20326.cha 2 3 26 que va a hacer un looping , Juan Apellido .
+allcorpora  50049  mm  20326.cha 2 3 26 mm .
+allcorpora  50052  pr  20326.cha 2 3 26 pr .
+allcorpora  50058  pr  20326.cha 2 3 26 pr .
+allcorpora  50064  chs  20326.cha 2 3 26 chs .
+allcorpora  50070  pr  20326.cha 2 3 26 pr .
+allcorpora  50075  chs  20326.cha 2 3 26 chs .
+allcorpora  50078  chs  20326.cha 2 3 26 chs .
+allcorpora  50084  pr  20326.cha 2 3 26 pr .
+allcorpora  50087  chs  20326.cha 2 3 26 chs .
+allcorpora  50089  chs  20326.cha 2 3 26 chs .
+allcorpora  50091  chs  20326.cha 2 3 26 chs .
+allcorpora  50154  mm  20326.cha 2 3 26 mm .
+allcorpora  50184  mm  20326.cha 2 3 26 mm .
+allcorpora  50212  mm  20326.cha 2 3 26 mm .
+allcorpora  50260  mm  20326.cha 2 3 26 mm .
+allcorpora  50271  mm  20326.cha 2 3 26 mm .
+allcorpora  50278  mm  20326.cha 2 3 26 mm .
+allcorpora  50311  mm  20326.cha 2 3 26 mm .
+allcorpora  50594  uf  20328.cha 2 3 28 uf .
+allcorpora  50990  mm  20402.cha 2 4 02 mm .
+allcorpora  50992  ss  20402.cha 2 4 02 ss .
+allcorpora  51030  construcción  20402.cha 2 4 02 quieres que hagamos una construcción ?
+allcorpora  51159  mm  20404.cha 2 4 04 mm .
+allcorpora  51160  mm  20404.cha 2 4 04 mm .
+allcorpora  51215  mm  20404.cha 2 4 04 mm .
+allcorpora  51385  pg  20410.cha 2 4 10 pg .
+allcorpora  51466  escond  20410.cha 2 4 10 dónde está escond ah , estaba escondida .
+allcorpora  51571  pr  20410.cha 2 4 10 con las turbulencias pr .
+allcorpora  51876  miau  20410.cha 2 4 10 miau .
+allcorpora  51893  guau  20410.cha 2 4 10 guau .
+allcorpora  51894  guau  20410.cha 2 4 10 guau .
+allcorpora  51902  guau  20410.cha 2 4 10 guau .
+allcorpora  51912  miau  20410.cha 2 4 10 miau .
+allcorpora  51916  marramamiau  20410.cha 2 4 10 sentadito en su tejado marramamiau miau .
+allcorpora  51916  miau  20410.cha 2 4 10 sentadito en su tejado marramamiau miau .
+allcorpora  51924  marramamiau  20410.cha 2 4 10 con un tejado marramamiau .
+allcorpora  51945  miau  20410.cha 2 4 10 miau guau .
+allcorpora  51945  guau  20410.cha 2 4 10 miau guau .
+allcorpora  51958  ps  20410.cha 2 4 10 ps .
+allcorpora  52029  marramamiau  20410.cha 2 4 10 se llama marramamiau .
+allcorpora  52031  marramamiau  20410.cha 2 4 10 sentadito en su tejado marramamiau miau .
+allcorpora  52031  miau  20410.cha 2 4 10 sentadito en su tejado marramamiau miau .
+allcorpora  52168  mm  20412.cha 2 4 12 mm .
+allcorpora  52218  guay  20412.cha 2 4 12 qué guay !
+allcorpora  52322  guay  20412.cha 2 4 12 qué guay .
+allcorpora  52330  guay  20412.cha 2 4 12 qué guay .
+allcorpora  52533  mm  20417.cha 2 4 17 mm .
+allcorpora  52640  miau  20417.cha 2 4 17 miau .
+allcorpora  52689  chaf  20417.cha 2 4 17 el de chaf .
+allcorpora  52743  miau  20417.cha 2 4 17 miau .
+allcorpora  52967  chs  20417.cha 2 4 17 chs .
+allcorpora  52971  chs  20417.cha 2 4 17 chs .
+allcorpora  52985  chs  20417.cha 2 4 17 chs .
+allcorpora  52990  chs  20417.cha 2 4 17 chs .
+allcorpora  53191  construyendo  20418.cha 2 4 18 qué estás construyendo ?
+allcorpora  53221  construcción  20418.cha 2 4 18 volvemos a hacer otro otra construcción ?
+allcorpora  53369  br  20418.cha 2 4 18 br .
+allcorpora  53555  mm  20424.cha 2 4 24 mm .
+allcorpora  53563  scrooge  20424.cha 2 4 24 y el señor malo era Evenezer Scrooge .
+allcorpora  53578  mm  20424.cha 2 4 24 mm .
+allcorpora  53640  mm  20424.cha 2 4 24 mm .
+allcorpora  53641  mm  20424.cha 2 4 24 mm .
+allcorpora  53761  mm  20424.cha 2 4 24 mm .
+allcorpora  53810  ps  20424.cha 2 4 24 ps .
+allcorpora  53909  ps  20424.cha 2 4 24 ps .
+allcorpora  54071  ss  20425.cha 2 4 25 ss .
+allcorpora  54093  guau  20425.cha 2 4 25 guau .
+allcorpora  54204  guau  20425.cha 2 4 25 y hace guau .
+allcorpora  54319  mnm  20425.cha 2 4 25 mnm .
+allcorpora  54366  ss  20425.cha 2 4 25 ss .
+allcorpora  54436  mm  20425.cha 2 4 25 mm .
+allcorpora  54727  scrooge  20429.cha 2 4 25 Evenezer Scrooge .
+allcorpora  54740  mm  20429.cha 2 4 25 mm ?
+allcorpora  54769  mm  20429.cha 2 4 25 mm .
+allcorpora  54957  ss  20429.cha 2 4 25 ss .
+allcorpora  54958  ss  20429.cha 2 4 25 como que ss ?
+allcorpora  55237  pingüino  20429.cha 2 4 25 que me como a este pingüino .
+allcorpora  55247  monstruoso  20429.cha 2 4 25 va a ser monstruoso .
+allcorpora  55252  monstruífero  20429.cha 2 4 25 monstruífero .
+allcorpora  55455  mm  20500.cha 2 5 00 mm .
+allcorpora  55462  mm  20500.cha 2 5 00 mm .
+allcorpora  55571  cambrils  20500.cha 2 5 00 y qué hacen en Cambrils ?
+allcorpora  55641  constipe  20500.cha 2 5 00 le pones un gorro para que no se constipe ?
+allcorpora  55673  cambrils  20500.cha 2 5 00 a Cambrils ?
+allcorpora  55677  cambrils  20500.cha 2 5 00 se van a cambiar de ropa a Cambrils ?
+allcorpora  55678  cambrils  20500.cha 2 5 00 pero o sea que sólo van a Cambrils a cambiar se de ropa ?
+allcorpora  55729  cambrils  20500.cha 2 5 00 todos juntos en la barca , en Cambrils .
+allcorpora  55887  mm  20500.cha 2 5 00 mm .
+allcorpora  55929  smith  20500.cha 2 5 00 el amigo del gigantón Smith .
+allcorpora  55932  mm  20500.cha 2 5 00 mm .
+allcorpora  55947  pingüino  20500.cha 2 5 00 qué haces ahora , pingüino ?
+allcorpora  56130  pingüino  20500.cha 2 5 00 oye , pingüino .
+allcorpora  56260  pof  20500.cha 2 5 00 no sabía yo que pof .
+allcorpora  56294  laisyiar  20500.cha 2 5 00 eres Gus Laisyiar ?
+allcorpora  56335  rex  20500.cha 2 5 00 eres el Rex ?
+allcorpora  56360  monstruos  20500.cha 2 5 00 al lugar donde viven los monstruos ?
+allcorpora  56361  max  20500.cha 2 5 00 como Max .
+allcorpora  56362  max  20500.cha 2 5 00 claro que me acuerdo , claro que me acuerdo de Max .
+allcorpora  56364  monstruos  20500.cha 2 5 00 qué le dice a los monstruos Max ?
+allcorpora  56364  max  20500.cha 2 5 00 qué le dice a los monstruos Max ?
+allcorpora  56365  monstruos  20500.cha 2 5 00 y los monstruos qué hacen ?
+allcorpora  56367  max  20500.cha 2 5 00 cuando Max les dice quietos qué hacen los monstruos ?
+allcorpora  56367  monstruos  20500.cha 2 5 00 cuando Max les dice quietos qué hacen los monstruos ?
+allcorpora  56369  max  20500.cha 2 5 00 y le nombraron a Max .
+allcorpora  56373  monstruos  20500.cha 2 5 00 de los monstruos .
+allcorpora  56374  monstruitos  20500.cha 2 5 00 quietos , monstruitos cuellicortos .
+allcorpora  56438  max  20500.cha 2 5 00 eso eso eso eso le dice Max , eso le dice Max a los monstruos ?
+allcorpora  56438  max  20500.cha 2 5 00 eso eso eso eso le dice Max , eso le dice Max a los monstruos ?
+allcorpora  56438  monstruos  20500.cha 2 5 00 eso eso eso eso le dice Max , eso le dice Max a los monstruos ?
+allcorpora  56440  max  20500.cha 2 5 00 qué dice Max ?
+allcorpora  56497  mm  20505.cha 2 5 05 mm .
+allcorpora  56500  constipado  20505.cha 2 5 05 ya se va a curar o no se va a curar ya ese constipado ?
+allcorpora  56536  constipado  20505.cha 2 5 05 con el constipado .
+allcorpora  56565  pingüino  20505.cha 2 5 05 eh , pingüino ?
+allcorpora  56602  pingüino  20505.cha 2 5 05 qué dices tú , pingüino ?
+allcorpora  56617  mm  20505.cha 2 5 05 mm .
+allcorpora  56640  fútbol  20505.cha 2 5 05 juega al fútbol con los chicos la paloma ?
+allcorpora  56769  mm  20505.cha 2 5 05 mm .
+allcorpora  56773  mm  20505.cha 2 5 05 mm .
+allcorpora  56798  max  20505.cha 2 5 05 le dices “ basta ya quieto ” como Max ?
+allcorpora  56851  monstruo  20505.cha 2 5 05 y hacemos , hacemos otro monstruo , además del león ?
+allcorpora  56854  monstruo  20505.cha 2 5 05 un monstruo feo .
+allcorpora  56873  montruos  20505.cha 2 5 05 y de pronto dicen “ y ahora montruos ” .
+allcorpora  56875  monstruos  20505.cha 2 5 05 y los monstruos se van a dormir .
+allcorpora  56891  monstruos  20505.cha 2 5 05 y los monstruos se despiertan .
+allcorpora  56895  max  20505.cha 2 5 05 Max se va .
+allcorpora  56897  max  20505.cha 2 5 05 le dicen “ oye , Max ” .
+allcorpora  56908  monstruos  20505.cha 2 5 05 y los monstruos se quedan tristes .
+allcorpora  56910  max  20505.cha 2 5 05 y Max cuando llega a su casa .
+allcorpora  56920  max  20505.cha 2 5 05 y ahora Max se va a dormir , en su cama .
+allcorpora  56944  monstruo  20505.cha 2 5 05 le vas a poner alas a tu monstruo ?
+allcorpora  56983  max  20505.cha 2 5 05 la barca de Max .
+allcorpora  56984  monstruo  20505.cha 2 5 05 y el monstruo cuellicorto este .
+allcorpora  56986  monstruo  20505.cha 2 5 05 es todo rojo este monstruo ?
+allcorpora  56990  monstruo  20505.cha 2 5 05 no monta en el barco el monstruo ?
+allcorpora  56991  monstruo  20505.cha 2 5 05 es malo el monstruo ?
+allcorpora  56996  monstruo  20505.cha 2 5 05 por qué es malo el monstruo ?
+allcorpora  56999  monstruo  20505.cha 2 5 05 le ladra el perrillo al monstruo ?
+allcorpora  57001  monstruo  20505.cha 2 5 05 pobre monstruo .
+allcorpora  57005  monstruo  20505.cha 2 5 05 qué te pasa , monstruo ?
+allcorpora  57011  monstruos  20505.cha 2 5 05 y se lo lleva aquí donde hay otros monstruos y aquí están todos muy contentos .
+allcorpora  57095  ff  20505.cha 2 5 05 ff .
+allcorpora  57097  ff  20505.cha 2 5 05 ff .
+allcorpora  57111  mmonstruo  20505.cha 2 5 05 y podemos meter también al pequeño mmonstruo este que está muy triste .
+allcorpora  57122  monstruo  20505.cha 2 5 05 un monstruo pequeñito ?
+allcorpora  57142  monstruo  20505.cha 2 5 05 le vas a poner a ese monstruo chiquitito las alas ?
+allcorpora  57341  potter  20505.cha 2 5 05 como Harry Potter .
+allcorpora  57441  pingüino  20505.cha 2 5 05 oye , pingüino .
+allcorpora  57484  pingüino  20505.cha 2 5 05 pingüino .
+allcorpora  57485  pingüino  20505.cha 2 5 05 pingüino .
+allcorpora  57543  mm  20507.cha 2 5 07 mm .
+allcorpora  57568  mm  20507.cha 2 5 07 mm .
+allcorpora  57753  mm  20507.cha 2 5 07 y cuando lo rompas me dirás “ no funciona ” y te diré mm .
+allcorpora  57863  monstruos  20514.cha 2 5 14 y los monstruos buenos ?
+allcorpora  57877  mm  20514.cha 2 5 14 mm .
+allcorpora  57995  chuf  20514.cha 2 5 14 chuf .
+allcorpora  58031  mm  20514.cha 2 5 14 mm .
+allcorpora  58053  mm  20514.cha 2 5 14 mm .
+allcorpora  58076  mm  20514.cha 2 5 14 mm .
+allcorpora  58102  gs  20514.cha 2 5 14 gs .
+allcorpora  58125  cambrils  20514.cha 2 5 14 viven en Cambrils ?
+allcorpora  58127  cambrils  20514.cha 2 5 14 quién vive en Cambrils ?
+allcorpora  58286  mm  20514.cha 2 5 14 mm .
+allcorpora  58321  abstracto  20514.cha 2 5 14 abstracto .
+allcorpora  58354  ffs  20514.cha 2 5 14 ffs .
+allcorpora  58355  ffs  20514.cha 2 5 14 ffs .
+allcorpora  58503  guay  20517.cha 2 5 17 anda qué guay .
+allcorpora  58536  uf  20517.cha 2 5 17 uf .
+allcorpora  58537  chof  20517.cha 2 5 17 chof .
+allcorpora  58690  mm  20517.cha 2 5 17 mm .
+allcorpora  58774  mm  20518.cha 2 5 18 mm .
+allcorpora  58881  abriendo  20518.cha 2 5 18 me he pasado toda la tarde abriendo la boca .
+allcorpora  58897  mm  20518.cha 2 5 18 mm .
+allcorpora  58950  construir  20518.cha 2 5 18 como no sé construir yo deshago .
+allcorpora  58962  construir  20518.cha 2 5 18 estoy porque tú nunca me ayudas a construir .
+allcorpora  59248  mm  20521.cha 2 5 21 mm .
+allcorpora  59415  roschard  20521.cha 2 5 21 es como las láminas del Roschard .
+allcorpora  59478  mm  20521.cha 2 5 21 mm .
+allcorpora  59636  mm  20521.cha 2 5 21 mm .
+allcorpora  59648  mm  20521.cha 2 5 21 mm una vieja .
+allcorpora  59749  plaf  20521.cha 2 5 21 abre el cocodrilo y plaf ?
+allcorpora  59800  mm  20521.cha 2 5 21 mm .
+allcorpora  59843  mm  20521.cha 2 5 21 mm .
+allcorpora  59845  mm  20521.cha 2 5 21 mm .
+allcorpora  59866  mm  20521.cha 2 5 21 mm .
+allcorpora  59905  mm  20521.cha 2 5 21 mm .
+allcorpora  60062  chaf  20521.cha 2 5 21 y hace chaf .
+allcorpora  60105  chaf  20521.cha 2 5 21 chaf .
+allcorpora  60115  plonc  20521.cha 2 5 21 y plonc .
+allcorpora  60178  mm  20521.cha 2 5 21 mm .
+allcorpora  60228  mm  20521.cha 2 5 21 la mía sabe mm .
+allcorpora  60237  mm  20521.cha 2 5 21 mm .
+allcorpora  60296  mm  20521.cha 2 5 21 mm .
+allcorpora  60699  mant  20528.cha 2 5 28 en la mant fuera de la manta vas a coger frío eh ?
+allcorpora  60743  mm  20528.cha 2 5 28 mm .
+allcorpora  61103  guau  20m02.cha 1 8 00 un gua guau .
+allcorpora  61136  ssh  20m02.cha 1 8 00 hay y ahora que estan ssh dormiditos vamos a contarles un cuento .
+allcorpora  61232  m  20m02.cha 1 8 00 aquí m .
+allcorpora  61258  m  20m02.cha 1 8 00 m tiene hambre el bebé .
+allcorpora  61265  captsup  20m02.cha 1 8 00 oye pero quiere con captsup .
+allcorpora  61322  clock  20m02.cha 1 8 00 el caballo como hace clock , clock , clock .
+allcorpora  61322  clock  20m02.cha 1 8 00 el caballo como hace clock , clock , clock .
+allcorpora  61322  clock  20m02.cha 1 8 00 el caballo como hace clock , clock , clock .
+allcorpora  61343  n  20m02.cha 1 8 00 n .
+allcorpora  61390  tsss  20m03.cha 1 8 00 tsss qué más ?
+allcorpora  61393  amm  20m03.cha 1 8 00 amm que rica .
+allcorpora  61406  ammm  20m03.cha 1 8 00 mira , ammm que rico !
+allcorpora  61412  amm  20m03.cha 1 8 00 a ver esta , amm .
+allcorpora  61435  sandwich  20m03.cha 1 8 00 a ver vamos a preparar un sandwich .
+allcorpora  61437  mmm  20m03.cha 1 8 00 mmm .
+allcorpora  61444  mmm  20m03.cha 1 8 00 mmm .
+allcorpora  61479  oinc  20m03.cha 1 8 00 oinc , oinc , oinc .
+allcorpora  61479  oinc  20m03.cha 1 8 00 oinc , oinc , oinc .
+allcorpora  61479  oinc  20m03.cha 1 8 00 oinc , oinc , oinc .
+allcorpora  61490  guau  20m03.cha 1 8 00 guau , guau .
+allcorpora  61490  guau  20m03.cha 1 8 00 guau , guau .
+allcorpora  61544  guau  20m03.cha 1 8 00 hola guau , guau , guau .
+allcorpora  61544  guau  20m03.cha 1 8 00 hola guau , guau , guau .
+allcorpora  61544  guau  20m03.cha 1 8 00 hola guau , guau , guau .
+allcorpora  61549  miau  20m03.cha 1 8 00 un gato miau .
+allcorpora  61560  mmh  20m04.cha 1 8 00 sí y ahora mamá se toma el chocolate mmh tu quieres ?
+allcorpora  61577  bluagh  20m04.cha 1 8 00 bluagh no lo muerdas , es de juguete .
+allcorpora  61580  sandwich  20m04.cha 1 8 00 hacemos un sandwich ?
+allcorpora  61581  sandwich  20m04.cha 1 8 00 ven vamos a hacer un sandwich , agarramos el pan .
+allcorpora  61587  sandwich  20m04.cha 1 8 00 donde quedó el jitomate para el sandwich ?
+allcorpora  61591  plat  20m04.cha 1 8 00 entonces pongo el plat , el plato , el pan le ponemos mantequilla .
+allcorpora  61593  mmh  20m04.cha 1 8 00 y ahora me lo como , ahum mmh qué rico sandwich .
+allcorpora  61593  sandwich  20m04.cha 1 8 00 y ahora me lo como , ahum mmh qué rico sandwich .
+allcorpora  61594  sandwich  20m04.cha 1 8 00 tú quieres sandwich , quieres una mordidita ?
+allcorpora  61595  sandwich  20m04.cha 1 8 00 una mordidita de sandwich .
+allcorpora  61596  mmh  20m04.cha 1 8 00 cómo dices mmh .
+allcorpora  61600  mmh  20m04.cha 1 8 00 mmh .
+allcorpora  61601  mmh  20m04.cha 1 8 00 mmh .
+allcorpora  61646  mmhm  20m04.cha 1 8 00 mmhm la resbaladilla .
+allcorpora  61710  m  20m05.cha 1 8 00 m a ver vamos a ver que hay ahi ense ame .
+allcorpora  61712  mj  20m05.cha 1 8 00 mj .
+allcorpora  61725  miau  20m05.cha 1 8 00 miau .
+allcorpora  61726  mj  20m05.cha 1 8 00 mj .
+allcorpora  61729  mj  20m05.cha 1 8 00 mj acá orale .
+allcorpora  61736  mj  20m05.cha 1 8 00 mj .
+allcorpora  61780  mj  20m05.cha 1 8 00 mj de juego así .
+allcorpora  61782  mm  20m05.cha 1 8 00 mm riquisimas .
+allcorpora  61791  mh  20m05.cha 1 8 00 mh ?
+allcorpora  61797  mh  20m05.cha 1 8 00 mh riquísimas !
+allcorpora  61825  pinz  20m05.cha 1 8 00 son unas pinz unas una llave para arreglar el co camión .
+allcorpora  61887  sandwich  20m06.cha 1 8 00 quieres un sandwich am !
+allcorpora  61898  sandwich  20m06.cha 1 8 00 ay cómete tu sandwich !
+allcorpora  61900  sandwich  20m06.cha 1 8 00 aquí qué rico sandwich .
+allcorpora  61911  mm  20m06.cha 1 8 00 mm dónde vas a poner la leche ?
+allcorpora  61918  sandwich  20m06.cha 1 8 00 ay que rico café yo quiero sandwich .
+allcorpora  61919  sandwich  20m06.cha 1 8 00 quieres sandwich ?
+allcorpora  61925  mmm  20m06.cha 1 8 00 mmm qué rica leche .
+allcorpora  61930  muuu  20m06.cha 1 8 00 no la vaca sabes cómo hace muuu .
+allcorpora  61938  quick  20m06.cha 1 8 00 ya le pusiste a la leche quick ?
+allcorpora  61942  sh  20m06.cha 1 8 00 sh duérmete bebé oye y esto qué es es un perrito arf .
+allcorpora  61942  arf  20m06.cha 1 8 00 sh duérmete bebé oye y esto qué es es un perrito arf .
+allcorpora  61960  shh  20m06.cha 1 8 00 esto es para servir café shh me sirves café ?
+allcorpora  61961  mmmm  20m06.cha 1 8 00 gracias gracias mmmm .
+allcorpora  61962  mmm  20m06.cha 1 8 00 mmm qué rico !
+allcorpora  61987  muuu  20m06.cha 1 8 00 muuu muuu .
+allcorpora  61987  muuu  20m06.cha 1 8 00 muuu muuu .
+allcorpora  61994  rrrrrr  20m06.cha 1 8 00 rrrrrr .
+allcorpora  61995  rrrrr  20m06.cha 1 8 00 rrrrr .
+allcorpora  62014  rrrrr  20m06.cha 1 8 00 hay va el se or rrrrr .
+allcorpora  62020  arf  20m06.cha 1 8 00 arf arf no te comas mi camión !
+allcorpora  62020  arf  20m06.cha 1 8 00 arf arf no te comas mi camión !
+allcorpora  62131  est  20m07.cha 1 8 00 qué es est .
+allcorpora  62132  ammh  20m07.cha 1 8 00 ammh ammh .
+allcorpora  62132  ammh  20m07.cha 1 8 00 ammh ammh .
+allcorpora  62148  mmn  20m07.cha 1 8 00 mmn .
+allcorpora  62167  dt  20m07.cha 1 8 00 dt dt .
+allcorpora  62167  dt  20m07.cha 1 8 00 dt dt .
+allcorpora  62168  amm  20m07.cha 1 8 00 hazle amm .
+allcorpora  62169  amm  20m07.cha 1 8 00 amm dile .
+allcorpora  62186  amm  20m07.cha 1 8 00 amm amm ong ong .
+allcorpora  62186  amm  20m07.cha 1 8 00 amm amm ong ong .
+allcorpora  62186  ong  20m07.cha 1 8 00 amm amm ong ong .
+allcorpora  62186  ong  20m07.cha 1 8 00 amm amm ong ong .
+allcorpora  62206  amm  20m07.cha 1 8 00 amm tómatela .
+allcorpora  62261  mmh  20m07.cha 1 8 00 mmh se cayó .
+allcorpora  62362  verd  20m08.cha 1 8 00 no verd .
+allcorpora  62379  muuuu  20m08.cha 1 8 00 muuuu !
+allcorpora  62382  pshpsh  20m08.cha 1 8 00 la leche que te tomas es de las vacas pshpsh .
+allcorpora  62418  ammm  20m08.cha 1 8 00 ammm !
+allcorpora  62419  ammm  20m08.cha 1 8 00 ammm !
+allcorpora  62476  rrrrr  20m08.cha 1 8 00 qué mas ya se va el camión ya se va el camión rrrrr .
+allcorpora  62477  rrrr  20m08.cha 1 8 00 va a ir a la casa o a dónde a dónde va el camión rrrr ?
+allcorpora  62516  mmm  20m20.cha 1 8 00 mmm qué rico .
+allcorpora  62521  ammm  20m20.cha 1 8 00 ammm tu quieres ?
+allcorpora  62522  amm  20m20.cha 1 8 00 amm .
+allcorpora  62523  amm  20m20.cha 1 8 00 amm que rico !
+allcorpora  62529  shh  20m20.cha 1 8 00 la bebé shh está dormida .
+allcorpora  62586  miau  20m20.cha 1 8 00 un pollito pio pio pio aquí un gatito miau miau miau aquí un conejito jjjj y un perrito guau guau guau .
+allcorpora  62586  miau  20m20.cha 1 8 00 un pollito pio pio pio aquí un gatito miau miau miau aquí un conejito jjjj y un perrito guau guau guau .
+allcorpora  62586  miau  20m20.cha 1 8 00 un pollito pio pio pio aquí un gatito miau miau miau aquí un conejito jjjj y un perrito guau guau guau .
+allcorpora  62586  jjjj  20m20.cha 1 8 00 un pollito pio pio pio aquí un gatito miau miau miau aquí un conejito jjjj y un perrito guau guau guau .
+allcorpora  62586  guau  20m20.cha 1 8 00 un pollito pio pio pio aquí un gatito miau miau miau aquí un conejito jjjj y un perrito guau guau guau .
+allcorpora  62586  guau  20m20.cha 1 8 00 un pollito pio pio pio aquí un gatito miau miau miau aquí un conejito jjjj y un perrito guau guau guau .
+allcorpora  62586  guau  20m20.cha 1 8 00 un pollito pio pio pio aquí un gatito miau miau miau aquí un conejito jjjj y un perrito guau guau guau .
+allcorpora  62632  guaguáu  20m21.cha 1 8 00 guaguáu .
+allcorpora  62734  sandwich  20m21.cha 1 8 00 es un sandwich .
+allcorpora  62735  sandwich  20m21.cha 1 8 00 cómo le ponemos el sandwich ?
+allcorpora  62740  sandwich  20m21.cha 1 8 00 a uno le hacemos un sandwich .
+allcorpora  62881  sandwich  20q09.cha 1 8 00 quién se va a comer este sandwich ?
+allcorpora  62892  shshsh  20q09.cha 1 8 00 hazle así shshsh .
+allcorpora  63005  sandwich  20q10.cha 1 8 00 tá rico vamos a hacer un sandwich ?
+allcorpora  63006  sandwich  20q10.cha 1 8 00 hacemos un sandwich o tú que quieres ?
+allcorpora  63009  sandwich  20q10.cha 1 8 00 vamos a hacer un sandwich mira .
+allcorpora  63011  sandwich  20q10.cha 1 8 00 quieres hacer un sandwich de .
+allcorpora  63045  shh  20q10.cha 1 8 00 mira vamos a hacer que se duerma el bebito shh .
+allcorpora  63062  mmh  20q10.cha 1 8 00 mmh que se hace con .
+allcorpora  63081  mh  20q10.cha 1 8 00 mh ?
+allcorpora  63090  runn  20q10.cha 1 8 00 runn .
+allcorpora  63095  runn  20q10.cha 1 8 00 ah y el camión se va runn .
+allcorpora  63120  mm  20q11.cha 1 8 00 iii qué es esto mm ?
+allcorpora  63134  mj  20q11.cha 1 8 00 mj ?
+allcorpora  63197  mm  20q11.cha 1 8 00 mm !
+allcorpora  63206  m  20q11.cha 1 8 00 m que sabrosa lechuga !
+allcorpora  63214  sh  20q11.cha 1 8 00 sh que rico pan !
+allcorpora  63254  m  20q11.cha 1 8 00 m que caray hombre * .
+allcorpora  63265  m  20q11.cha 1 8 00 m que rico , que rico esta ese pan carambas !
+allcorpora  63317  aut  20q11.cha 1 8 00 aut am am am .
+allcorpora  63406  ammm  20q12.cha 1 8 00 híjole ammm está rico .
+allcorpora  63466  muuu  20q12.cha 1 8 00 muuu muuu .
+allcorpora  63466  muuu  20q12.cha 1 8 00 muuu muuu .
+allcorpora  63467  muuu  20q12.cha 1 8 00 muuu hola Diana .
+allcorpora  63472  uuuu  20q12.cha 1 8 00 uuuu mira soy un changuito .
+allcorpora  63485  m  20q13.cha 1 8 00 m .
+allcorpora  63488  betty  20q13.cha 1 8 00 a ver fuerte porque no oigo se oye Betty ?
+allcorpora  63579  m  20q13.cha 1 8 00 m ?
+allcorpora  63582  m  20q13.cha 1 8 00 a ver hazle m m .
+allcorpora  63582  m  20q13.cha 1 8 00 a ver hazle m m .
+allcorpora  63591  shh  20q13.cha 1 8 00 agua shh y para mi ?
+allcorpora  63597  m  20q13.cha 1 8 00 m ?
+allcorpora  63599  m  20q13.cha 1 8 00 m !
+allcorpora  63602  m  20q13.cha 1 8 00 m sabroso verdad ?
+allcorpora  63605  sta  20q13.cha 1 8 00 ai sta .
+allcorpora  63613  sandwich  20q13.cha 1 8 00 vamos a hacer un sandwich .
+allcorpora  63628  mm  20q13.cha 1 8 00 mm que sabroso .
+allcorpora  63651  mj  20q13.cha 1 8 00 mj .
+allcorpora  63658  m  20q13.cha 1 8 00 y el peine dónde dónde está el peine m .
+allcorpora  63812  mmh  20q14.cha 1 8 00 mmh .
+allcorpora  63816  mmh  20q14.cha 1 8 00 mmh qué rico !
+allcorpora  63950  itzia  20q16.cha 1 8 00 Itzia te gusta subirte a la resbaladilla ?
+allcorpora  63952  itzia  20q16.cha 1 8 00 oye Itzia mira !
+allcorpora  63959  itzia  20q16.cha 1 8 00 un conejo cómo hacen los conejos Itzia ?
+allcorpora  63963  itziar  20q16.cha 1 8 00 oye Itziar te ense o otros juguetitos que tengo por aquí .
+allcorpora  63988  itzier  20q16.cha 1 8 00 oye Itzier guardamos ésto para jugar con otra cosita ?
+allcorpora  64006  mj  20q16.cha 1 8 00 mj .
+allcorpora  64010  itziar  20q16.cha 1 8 00 ahora tú vas a comer Itziar .
+allcorpora  64012  itzier  20q16.cha 1 8 00 quién va a comer Itzier o la bebé ?
+allcorpora  64016  itziar  20q16.cha 1 8 00 hay aquí hay mucha comida Itziar aquí esta el queso el jitomate el pan .
+allcorpora  64023  mm  20q16.cha 1 8 00 mm qué rica agua .
+allcorpora  64026  mmm  20q16.cha 1 8 00 mmm .
+allcorpora  64029  itziar  20q16.cha 1 8 00 y cómo come Itziar sopita ?
+allcorpora  64030  itziar  20q16.cha 1 8 00 cómo come Itziar la sopita ?
+allcorpora  64031  m  20q16.cha 1 8 00 m qué rica .
+allcorpora  64045  itziar  20q16.cha 1 8 00 qué estás comiendo Itziar ?
+allcorpora  64048  mj  20q16.cha 1 8 00 mj leche ?
+allcorpora  64052  m  20q16.cha 1 8 00 m que rico .
+allcorpora  64054  m  20q16.cha 1 8 00 m que rica sopita .
+allcorpora  64057  mj  20q16.cha 1 8 00 mj hay que bien come el pan .
+allcorpora  64062  itziar  20q16.cha 1 8 00 Itziar mira .
+allcorpora  64064  itziar  20q16.cha 1 8 00 Itziar míra .
+allcorpora  64066  itziar  20q16.cha 1 8 00 mira itziar mira .
+allcorpora  64067  itziar  20q16.cha 1 8 00 mira Itziar gorda .
+allcorpora  64069  itziar  20q16.cha 1 8 00 mira itziar .
+allcorpora  64072  itziar  20q16.cha 1 8 00 Itziar Itziar .
+allcorpora  64072  itziar  20q16.cha 1 8 00 Itziar Itziar .
+allcorpora  64073  itziar  20q16.cha 1 8 00 mira mira itziar .
+allcorpora  64075  itziar  20q16.cha 1 8 00 ya viste Itziar .
+allcorpora  64080  itziar  20q16.cha 1 8 00 hola Itziar .
+allcorpora  64081  itziar  20q16.cha 1 8 00 hola Itziar yo soy el oso me das un beso ?
+allcorpora  64085  itziar  20q16.cha 1 8 00 hola Itziar .
+allcorpora  64089  itziar  20q16.cha 1 8 00 hola Itziar .
+allcorpora  64091  itziar  20q16.cha 1 8 00 dónde esta la vaca Itziar ?
+allcorpora  64093  itziar  20q16.cha 1 8 00 hola Itziar .
+allcorpora  64143  itziar  20q16.cha 1 8 00 hola Itziar .
+allcorpora  64148  itziar  20q16.cha 1 8 00 mira Itziar te voy a presentar un amiguito .
+allcorpora  64149  itziar  20q16.cha 1 8 00 tengo un amiguito Itziar lo quieres conocer ?
+allcorpora  64151  itziar  20q16.cha 1 8 00 hola Itziar .
+allcorpora  64153  itziar  20q16.cha 1 8 00 hola itziar .
+allcorpora  64155  itziar  20q16.cha 1 8 00 oye Itziar ya no estás enojada ?
+allcorpora  64162  itziar  20q16.cha 1 8 00 oye Itziar Itziar .
+allcorpora  64162  itziar  20q16.cha 1 8 00 oye Itziar Itziar .
+allcorpora  64163  itziar  20q16.cha 1 8 00 a mí me gusta comer pierna Itziar .
+allcorpora  64222  n  20q17.cha 1 8 00 oye tu tambi n vas a un árbol .
+allcorpora  64269  mj  20q17.cha 1 8 00 es un pan mj .
+allcorpora  64296  ste  20q17.cha 1 8 00 hay ste platito ponlo aquí .
+allcorpora  64404  shh  20q18.cha 1 8 00 shh .
+allcorpora  64412  mm  20q18.cha 1 8 00 mm ijole .
+allcorpora  64430  m  20q18.cha 1 8 00 para que ella sepa que son m ?
+allcorpora  64437  mm  20q18.cha 1 8 00 mm ?
+allcorpora  64440  mm  20q18.cha 1 8 00 mm ?
+allcorpora  64464  mm  20q18.cha 1 8 00 mm qué es Barbara ?
+allcorpora  64472  sandwich  20q18.cha 1 8 00 hacemos un sandwich ?
+allcorpora  64491  shh  20q18.cha 1 8 00 duérmelo shh .
+allcorpora  64492  sandwich  20q18.cha 1 8 00 ahora tu haz el sandwich sale !
+allcorpora  64497  mm  20q18.cha 1 8 00 mm ya está dormido el bebé mira ya está dormido .
+allcorpora  64505  m  20q18.cha 1 8 00 este que es m ?
+allcorpora  64507  mj  20q18.cha 1 8 00 mj y éste ?
+allcorpora  64521  uuaa  20q18.cha 1 8 00 muu muu ay uuaa uuaa .
+allcorpora  64521  uuaa  20q18.cha 1 8 00 muu muu ay uuaa uuaa .
+allcorpora  64529  mm  20q18.cha 1 8 00 mm que rico .
+allcorpora  64543  mmmh  20q19.cha 1 8 00 mmmh .
+allcorpora  64601  shsh  20q19.cha 1 8 00 shsh está dormida , está dormida .
+allcorpora  64621  shshsh  20q19.cha 1 8 00 shshsh .
+allcorpora  64629  birrbirr  20q19.cha 1 8 00 birrbirr ay se cayó .
+allcorpora  64634  brrbrr  20q19.cha 1 8 00 brrbrr .
+allcorpora  64667  sandwich  20q19.cha 1 8 00 ahí está el otro sandwich .
+allcorpora  64699  oiy  20q19.cha 1 8 00 oiy .
+allcorpora  64709  guag  20q19.cha 1 8 00 guag .
+allcorpora  64711  puag  20q19.cha 1 8 00 puag puag .
+allcorpora  64711  puag  20q19.cha 1 8 00 puag puag .
+allcorpora  64720  lna  20q19.cha 1 8 00 te como lna mano .
+allcorpora  64776  isacc  20q22.cha 1 8 00 a ver vamos a abrocharle el zapato a Isacc .
+allcorpora  64844  sandwich  20q22.cha 1 8 00 preparamos un sandwich de a mentiritas mira .
+allcorpora  64845  mj  20q22.cha 1 8 00 mj .
+allcorpora  64852  mh  20q22.cha 1 8 00 mh sopa mh .
+allcorpora  64852  mh  20q22.cha 1 8 00 mh sopa mh .
+allcorpora  64872  runn  20q22.cha 1 8 00 runn .
+allcorpora  64874  runn  20q22.cha 1 8 00 no se salga del tapete runn .
+allcorpora  64875  runn  20q22.cha 1 8 00 runn .
+allcorpora  64877  runn  20q22.cha 1 8 00 runn .
+allcorpora  64903  mm  20sb01.cha 1 8 00 mm que están haciendo ?
+allcorpora  65041  sandwich  20sb01.cha 1 8 00 mira éste es un sandwich mira .
+allcorpora  65042  mhm  20sb01.cha 1 8 00 si mira mhm .
+allcorpora  65056  juaj  20sb01.cha 1 8 00 juaj te va morder guau .
+allcorpora  65056  guau  20sb01.cha 1 8 00 juaj te va morder guau .
+allcorpora  65057  ruauf  20sb01.cha 1 8 00 y otro ruauf .
+allcorpora  65061  guau  20sb01.cha 1 8 00 guau .
+allcorpora  65062  guau  20sb01.cha 1 8 00 otro ahora te va a comer el piecito guau .
+allcorpora  65063  mm  20sb01.cha 1 8 00 mm ahí te va ahí te va .
+allcorpora  65064  guau  20sb01.cha 1 8 00 guau vente no te vayas mira .
+allcorpora  65066  guau  20sb01.cha 1 8 00 guau vente , vente mira .
+allcorpora  65067  guau  20sb01.cha 1 8 00 guau .
+allcorpora  65456  mjm  20sb03.cha 1 8 00 mjm cucharita .
+allcorpora  65858  m  20sb06.cha 1 8 00 m ?
+allcorpora  65926  mh  20sb06.cha 1 8 00 porqué no tienes ganas de jugar mh ?
+allcorpora  65937  itzayana  20sb06.cha 1 8 00 que hacemos Itzayana ?
+allcorpora  65994  shh  20sb06.cha 1 8 00 shh .
+allcorpora  66053  mh  20sb07.cha 1 8 00 mh ira acá está el papá , papá .
+allcorpora  66054  mno  20sb07.cha 1 8 00 mno una cazuelita ira .
+allcorpora  66068  mh  20sb07.cha 1 8 00 mh ?
+allcorpora  66081  mh  20sb07.cha 1 8 00 mh .
+allcorpora  66130  mj  20sb07.cha 1 8 00 un carro mj un carro ira .
+allcorpora  66165  mh  20sb07.cha 1 8 00 mh ?
+allcorpora  66178  mmh  20sb07.cha 1 8 00 chile mmh .
+allcorpora  66201  mmh  20sb07.cha 1 8 00 mmh .
+allcorpora  66207  mh  20sb07.cha 1 8 00 mh que rico !
+allcorpora  66224  mh  20sb07.cha 1 8 00 mh ira .
+allcorpora  66245  shsh  20sb08.cha 1 8 00 así mira shsh Dali así mira shsh no ?
+allcorpora  66245  shsh  20sb08.cha 1 8 00 así mira shsh Dali así mira shsh no ?
+allcorpora  66281  shh  20sb08.cha 1 8 00 no no lo saques así así mira shh .
+allcorpora  66299  sandwich  20sb08.cha 1 8 00 como se llaman papas vamos a hacer un sandwich .
+allcorpora  66345  mmm  20sb08.cha 1 8 00 dale de comer a la mamá mira aquí está su comida de la mamá mmm dale de comer al papá .
+allcorpora  66356  mmm  20sb08.cha 1 8 00 a ver mmm mmm .
+allcorpora  66356  mmm  20sb08.cha 1 8 00 a ver mmm mmm .
+allcorpora  66579  miau  20sb10.cha 1 8 00 el miau ?
+allcorpora  66607  mmm  20sb10.cha 1 8 00 mmm qué rico aquí que te doy ?
+allcorpora  66641  muuu  20sb10.cha 1 8 00 muuu muu .
+allcorpora  66643  muuu  20sb10.cha 1 8 00 ora ora ora muuu .
+allcorpora  66645  muuu  20sb10.cha 1 8 00 muuu cómo hacen .
+allcorpora  66647  muuu  20sb10.cha 1 8 00 qué es ésto ira muuu .
+allcorpora  66650  ammm  20sb10.cha 1 8 00 ammm ya se la comió .
+allcorpora  66654  ammm  20sb10.cha 1 8 00 más otra ammm ya se la comió otra hay que rico .
+allcorpora  66658  mmm  20sb10.cha 1 8 00 mmm qué rico !
+allcorpora  66661  mmm  20sb10.cha 1 8 00 mmm qué rica !
+allcorpora  66666  mmm  20sb10.cha 1 8 00 mmm guárdalos sí papi ?
+allcorpora  66691  mmm  20sb10.cha 1 8 00 los bebés mira dales de comer dales sopita mira mmm .
+allcorpora  67048  mm  20_2.cha 2 00 13 mm , casi , casi , casi .
+allcorpora  67258  mm  20_2.cha 2 00 13 mm zampa , zampa .
+allcorpora  67462  mm  20_2.cha 2 00 13 mm .
+allcorpora  67518  tchss  20_2.cha 2 00 13 tchss , tschss , Mendía , eso no !
+allcorpora  67518  tschss  20_2.cha 2 00 13 tchss , tschss , Mendía , eso no !
+allcorpora  67691  eduard  20_3.cha 2 4 00 Eduard no , no .
+allcorpora  68136  mmm  21_2.cha 2 00 20 mmm mm mm .
+allcorpora  68136  mm  21_2.cha 2 00 20 mmm mm mm .
+allcorpora  68136  mm  21_2.cha 2 00 20 mmm mm mm .
+allcorpora  68246  vergüenza  21_2.cha 2 00 20 te da vergüenza ?
+allcorpora  68477  constipado  21_2.cha 2 00 20 está constipado , eh ?
+allcorpora  68660  m  21_2.cha 2 00 20 ahora hay que m .
+allcorpora  68736  tchs  21_2.cha 2 00 20 tchs , tchs , tchs , no .
+allcorpora  68736  tchs  21_2.cha 2 00 20 tchs , tchs , tchs , no .
+allcorpora  68736  tchs  21_2.cha 2 00 20 tchs , tchs , tchs , no .
+allcorpora  68871  puzzle  21_3.cha 2 7 00 no quieres hacer el puzzle con la tata , Edu ?
+allcorpora  68876  tssi  21_3.cha 2 7 00 tssi !
+allcorpora  68882  tss  21_3.cha 2 7 00 tss , tss , no te pases Edu .
+allcorpora  68882  tss  21_3.cha 2 7 00 tss , tss , no te pases Edu .
+allcorpora  68915  tss  21_3.cha 2 7 00 no tss , Edu tss !
+allcorpora  68915  tss  21_3.cha 2 7 00 no tss , Edu tss !
+allcorpora  68932  tss  21_3.cha 2 7 00 tss , Edu !
+allcorpora  68972  tss  21_3.cha 2 7 00 ey , tss , no me das un beso ?
+allcorpora  68991  tss  21_3.cha 2 7 00 tss , Edu , ey !
+allcorpora  69005  mm  22.cha 1 8 26 mm ?
+allcorpora  69014  scobby  22.cha 1 8 26 como la que haces tu en Scobby ?
+allcorpora  69029  uff  22.cha 1 8 26 uff , que difícil , que difícil , casi , casi .
+allcorpora  69051  hiii  22.cha 1 8 26 ahí arriba , hiii , cuidado !
+allcorpora  69074  mm  22.cha 1 8 26 pero que quieres hacer con la foto , que quieres ver , mm , que quieres ver ?
+allcorpora  69109  shh  22.cha 1 8 26 oye , shh !
+allcorpora  69141  charlott  22.cha 1 8 26 Charlott .
+allcorpora  69159  sco  22.cha 1 8 26 la tapa de Sco .
+allcorpora  69161  scobby  22.cha 1 8 26 en la cabeza de Scobby .
+allcorpora  69176  mm  22.cha 1 8 26 que miras cariño , mm ?
+allcorpora  69222  scobby  22.cha 1 8 26 que le pasó a Scobby ?
+allcorpora  69229  scobby  22.cha 1 8 26 por que no juegas al corro de la patata con Scobby ?
+allcorpora  69231  scobby  22.cha 1 8 26 con la cabeza de Scobby ?
+allcorpora  69250  scobby  22.cha 1 8 26 uy , pobrecita que le cayó Scobby encima !
+allcorpora  69339  puzzle  22_2.cha 2 00 30 vas a hacer un puzzle ?
+allcorpora  69622  mm  22_2.cha 2 00 30 mm .
+allcorpora  69731  ding  22_2.cha 2 00 30 ding dong .
+allcorpora  69731  dong  22_2.cha 2 00 30 ding dong .
+allcorpora  69895  ss  22_2.cha 2 00 30 ss .
+allcorpora  69966  mm  22_2.cha 2 00 30 mm .
+allcorpora  70261  tss  22_3.cha 2 10 00 ya , tss !
+allcorpora  70283  buf  22_3.cha 2 10 00 ya esta , buf !
+allcorpora  70312  rítmica  22_3.cha 2 10 00 en gimnasia rítmica .
+allcorpora  70353  tss  22_3.cha 2 10 00 Edu , Edu , tss , espera voy a traer el coche que esta en el vado , eh .
+allcorpora  70417  tss  22_3.cha 2 10 00 tss , tss , donde vas ?
+allcorpora  70417  tss  22_3.cha 2 10 00 tss , tss , donde vas ?
+allcorpora  70460  mm  23.cha 1 9 10 mm , como dijo papa que se llamaba ?
+allcorpora  70485  mm  23.cha 1 9 10 mm , no sabes , no sabes .
+allcorpora  70501  ritmo  23.cha 1 9 10 como lleva el ritmo .
+allcorpora  70502  mm  23.cha 1 9 10 mm .
+allcorpora  70562  mm  23.cha 1 9 10 mm .
+allcorpora  70627  scobby  23.cha 1 9 10 a Scobby !
+allcorpora  70628  scobby  23.cha 1 9 10 y después de Scobby a .
+allcorpora  70629  scobby  23.cha 1 9 10 el jaboncito , si , pero después de Scobby a .
+allcorpora  70699  mm  23_2.cha 2 01 07 mm ?
+allcorpora  70713  puzzle  23_2.cha 2 01 07 quién te ha enseñao a hacer ese puzzle ?
+allcorpora  70767  mmm  23_2.cha 2 01 07 mmm , mm , pero eso no está .
+allcorpora  70767  mm  23_2.cha 2 01 07 mmm , mm , pero eso no está .
+allcorpora  70909  construcción  23_2.cha 2 01 07 jugamos a la construcción ésta , hasta que venga mamá ?
+allcorpora  71011  mm  23_2.cha 2 01 07 mm .
+allcorpora  71025  mat  23_2.cha 2 01 07 no hagas eso , que nos va a mat .
+allcorpora  71030  mm  23_2.cha 2 01 07 mm .
+allcorpora  71074  sss  23_2.cha 2 01 07 sss .
+allcorpora  71076  mm  23_2.cha 2 01 07 mm ?
+allcorpora  71106  mm  23_2.cha 2 01 07 mm , mm .
+allcorpora  71106  mm  23_2.cha 2 01 07 mm , mm .
+allcorpora  71148  mm  23_2.cha 2 01 07 mm , mm .
+allcorpora  71148  mm  23_2.cha 2 01 07 mm , mm .
+allcorpora  71228  puzzles  23_2.cha 2 01 07 puzzles ?
+allcorpora  71260  puzzle  23_2.cha 2 01 07 está reconcentrada con el puzzle .
+allcorpora  71829  mm  24.cha 1 9 28 mm ?
+allcorpora  71892  buff  24.cha 1 9 28 buff , buff , cuéntale cántale al dinero la canción de Marisol sol sol a ver si se agarra .
+allcorpora  71892  buff  24.cha 1 9 28 buff , buff , cuéntale cántale al dinero la canción de Marisol sol sol a ver si se agarra .
+allcorpora  71901  puf  24.cha 1 9 28 puf , esto es inútil yo creo que esto es inútil , voy a llamar a Pipo y a Pi Pepa , como se llaman Irene ?
+allcorpora  71954  shh  24.cha 1 9 28 una vez , shh , una vez .
+allcorpora  71955  shh  24.cha 1 9 28 oye Irene , escuchame , shh .
+allcorpora  71972  puf  24.cha 1 9 28 puf !
+allcorpora  72045  puf  24.cha 1 9 28 puf !
+allcorpora  72051  shh  24.cha 1 9 28 shh , escuchame , escuchame , escuchame , vamos a hacer una magia , como ?
+allcorpora  72053  shh  24.cha 1 9 28 shh , vamos a hacer una magia , a ver .
+allcorpora  72077  mm  24_2.cha 2 01 13 mm .
+allcorpora  72081  mm  24_2.cha 2 01 13 mm ?
+allcorpora  72085  mm  24_2.cha 2 01 13 mm .
+allcorpora  72134  mm  24_2.cha 2 01 13 mm .
+allcorpora  72159  mm  24_2.cha 2 01 13 mm ?
+allcorpora  72199  puzzles  24_2.cha 2 01 13 sacamos uno de los puzzles , Mendía ?
+allcorpora  72227  mm  24_2.cha 2 01 13 mm .
+allcorpora  72281  puzzle  24_2.cha 2 01 13 pues entonces no jugamos con el puzzle ?
+allcorpora  72319  puzzle  24_2.cha 2 01 13 hacemos otro puzzle ?
+allcorpora  72569  mm  24_2.cha 2 01 13 mm , qué bien , de paseo , ahora !
+allcorpora  72624  richard  24_3.cha 3 10 00 que le haga una foto al Richard ?
+allcorpora  72630  richard  24_3.cha 3 10 00 no le gusta que le hagan fotos al Richard ?
+allcorpora  72732  batman  24_3.cha 3 10 00 pero si es del , es del Batman , no ?
+allcorpora  72788  uf  24_3.cha 3 10 00 uf !
+allcorpora  72998  scobby  25.cha 1 9 28 haz un aserrín aserrán al gatito , aquí en la orejina de Scobby , a ver .
+allcorpora  73000  uff  25.cha 1 9 28 uff , no por favor !
+allcorpora  73002  scobby  25.cha 1 9 28 en la oreja de Scobby .
+allcorpora  73034  miau  25.cha 1 9 28 claro , El señor don gato , marrama miau miau miau , como este .
+allcorpora  73034  miau  25.cha 1 9 28 claro , El señor don gato , marrama miau miau miau , como este .
+allcorpora  73034  miau  25.cha 1 9 28 claro , El señor don gato , marrama miau miau miau , como este .
+allcorpora  73046  mm  25.cha 1 9 28 venga , mira , vamos a hacerle una , una gamberrada , hazle aserrín aserrán cogiéndolo por el rabo , mm ?
+allcorpora  73641  mm  25_2.cha 2 01 21 mm .
+allcorpora  73748  men^dí^a  25_2.cha 2 01 21 Men^dí^a .
+allcorpora  73940  p  26.cha 1 10 16 la p , muy bien .
+allcorpora  73966  aumm  26.cha 1 10 16 aumm , a cenar !
+allcorpora  73979  mm  26.cha 1 10 16 mm , que rico , que rico !
+allcorpora  73980  mm  26.cha 1 10 16 mm , que rico , que rico !
+allcorpora  73987  mm  26.cha 1 10 16 mm , que rico el pescadin , mm , que rico el pescadin .
+allcorpora  73987  mm  26.cha 1 10 16 mm , que rico el pescadin , mm , que rico el pescadin .
+allcorpora  73992  mm  26.cha 1 10 16 mm , mm , que rico el pescadin , mm , mm , que rico el pescadin .
+allcorpora  73992  mm  26.cha 1 10 16 mm , mm , que rico el pescadin , mm , mm , que rico el pescadin .
+allcorpora  73992  mm  26.cha 1 10 16 mm , mm , que rico el pescadin , mm , mm , que rico el pescadin .
+allcorpora  73992  mm  26.cha 1 10 16 mm , mm , que rico el pescadin , mm , mm , que rico el pescadin .
+allcorpora  73994  mm  26.cha 1 10 16 mm , que rico el jamón !
+allcorpora  73998  mm  26.cha 1 10 16 mm , que rico !
+allcorpora  74003  mm  26.cha 1 10 16 mm , que rico el puré de espinacas , mm , que rico !
+allcorpora  74003  mm  26.cha 1 10 16 mm , que rico el puré de espinacas , mm , que rico !
+allcorpora  74011  mm  26.cha 1 10 16 mm , María de la O , cántamela .
+allcorpora  74025  mm  26.cha 1 10 16 mm .
+allcorpora  74207  puzzle  26_2.cha 2 01 27 quieres hacer el puzzle nuevo ?
+allcorpora  74234  mm  26_2.cha 2 01 27 mm .
+allcorpora  74299  mm  26_2.cha 2 01 27 mm .
+allcorpora  74416  mm  26_2.cha 2 01 27 mm .
+allcorpora  74419  mm  26_2.cha 2 01 27 mm .
+allcorpora  74424  mm  26_2.cha 2 01 27 mm .
+allcorpora  74538  mm  26_2.cha 2 01 27 mm .
+allcorpora  74706  guau  26_2.cha 2 01 27 guau , guau , guau .
+allcorpora  74706  guau  26_2.cha 2 01 27 guau , guau , guau .
+allcorpora  74706  guau  26_2.cha 2 01 27 guau , guau , guau .
+allcorpora  74717  grr  26_2.cha 2 01 27 grr .
+allcorpora  74719  grr  26_2.cha 2 01 27 grr .
+allcorpora  74746  mm  26_2.cha 2 01 27 mm .
+allcorpora  74795  mm  26_2.cha 2 01 27 mm .
+allcorpora  74810  iiií  26_2.cha 2 01 27 iiií .
+allcorpora  74811  iiií  26_2.cha 2 01 27 iiií .
+allcorpora  74840  aurg  26_2.cha 2 01 27 aurg .
+allcorpora  74856  miau  26_2.cha 2 01 27 miau , miau .
+allcorpora  74856  miau  26_2.cha 2 01 27 miau , miau .
+allcorpora  74885  argg  26_2.cha 2 01 27 argg .
+allcorpora  74929  áhi  26_2.cha 2 01 27 tenemos por áhi un puzzle pendiente , Mendía .
+allcorpora  74929  puzzle  26_2.cha 2 01 27 tenemos por áhi un puzzle pendiente , Mendía .
+allcorpora  74932  cuatr  26_2.cha 2 01 27 cuatr .
+allcorpora  74957  puzzle  26_2.cha 2 01 27 tienes ahí otro puzzle , sin empezar .
+allcorpora  75008  mm  27.cha 1 10 29 y luego que estuviste haciendo en la calle Corrida , mm ?
+allcorpora  75011  guay  27.cha 1 10 29 en el coche que guay , que guay , jugaste , eh ?
+allcorpora  75011  guay  27.cha 1 10 29 en el coche que guay , que guay , jugaste , eh ?
+allcorpora  75022  mm  27.cha 1 10 29 que te dijo Lola , cariño , mm ?
+allcorpora  75023  mm  27.cha 1 10 29 mm , que rico está !
+allcorpora  75092  chss  27_2.cha 2 02 05 no , chss chss , que no hemos cerrado esto !
+allcorpora  75092  chss  27_2.cha 2 02 05 no , chss chss , que no hemos cerrado esto !
+allcorpora  75204  buf  27_2.cha 2 02 05 buf buf .
+allcorpora  75204  buf  27_2.cha 2 02 05 buf buf .
+allcorpora  75390  agg  27_2.cha 2 02 05 agg .
+allcorpora  75459  uf  27_2.cha 2 02 05 uf , respira , respira .
+allcorpora  75587  rect  27_2.cha 2 02 05 un rect .
+allcorpora  75666  mm  27_2.cha 2 02 05 mm ?
+allcorpora  75696  mm  27_2.cha 2 02 05 mm .
+allcorpora  75839  mm  28.cha 1 10 29 mm .
+allcorpora  75844  mm  28.cha 1 10 29 mm .
+allcorpora  75856  guay  28.cha 1 10 29 y entonces lo fun lo gastes en el coche que guay , que guay , claro !
+allcorpora  75856  guay  28.cha 1 10 29 y entonces lo fun lo gastes en el coche que guay , que guay , claro !
+allcorpora  75903  mm  28m10.cha 2 4 00 mm ?
+allcorpora  75924  rrr  28m10.cha 2 4 00 ya rrr rrr .
+allcorpora  75924  rrr  28m10.cha 2 4 00 ya rrr rrr .
+allcorpora  75934  mmjj  28m10.cha 2 4 00 mmjj .
+allcorpora  75947  m  28m10.cha 2 4 00 m mira .
+allcorpora  75951  padr  28m10.cha 2 4 00 ijole eres muy buena para hacer torres , te salen muy padr muy grandes .
+allcorpora  76035  p  28m10.cha 2 4 00 eso y la p que es ?
+allcorpora  76051  sandwich  28m10.cha 2 4 00 tu no quieres tengo hambre me haces un sandwich me haces un sandwich am gracias pero quiero un sandwich con pan queso jitomate pepino pero el pan hay aqui esta toma el plato para que lo pongas aqui mm quieres ?
+allcorpora  76051  sandwich  28m10.cha 2 4 00 tu no quieres tengo hambre me haces un sandwich me haces un sandwich am gracias pero quiero un sandwich con pan queso jitomate pepino pero el pan hay aqui esta toma el plato para que lo pongas aqui mm quieres ?
+allcorpora  76051  sandwich  28m10.cha 2 4 00 tu no quieres tengo hambre me haces un sandwich me haces un sandwich am gracias pero quiero un sandwich con pan queso jitomate pepino pero el pan hay aqui esta toma el plato para que lo pongas aqui mm quieres ?
+allcorpora  76051  mm  28m10.cha 2 4 00 tu no quieres tengo hambre me haces un sandwich me haces un sandwich am gracias pero quiero un sandwich con pan queso jitomate pepino pero el pan hay aqui esta toma el plato para que lo pongas aqui mm quieres ?
+allcorpora  76054  sandwich  28m10.cha 2 4 00 ay se me cayó mi sandwich , gracias .
+allcorpora  76108  mmh  28m11.cha 2 4 00 ay mmh que ricas amch amch .
+allcorpora  76108  amch  28m11.cha 2 4 00 ay mmh que ricas amch amch .
+allcorpora  76108  amch  28m11.cha 2 4 00 ay mmh que ricas amch amch .
+allcorpora  76116  uhmn  28m11.cha 2 4 00 uhmn qué rico gracias .
+allcorpora  76123  mmhn  28m11.cha 2 4 00 mmhn .
+allcorpora  76126  mmm  28m11.cha 2 4 00 mmm .
+allcorpora  76128  mmm  28m11.cha 2 4 00 mmm .
+allcorpora  76129  mmm  28m11.cha 2 4 00 mmm .
+allcorpora  76155  mm  28m11.cha 2 4 00 mm todavía no cabe .
+allcorpora  76254  oinc  28m12.cha 2 4 00 oinc oinc .
+allcorpora  76254  oinc  28m12.cha 2 4 00 oinc oinc .
+allcorpora  76298  uich  28m12.cha 2 4 00 uich .
+allcorpora  76310  guau  28m12.cha 2 4 00 guau guau guau guau .
+allcorpora  76310  guau  28m12.cha 2 4 00 guau guau guau guau .
+allcorpora  76310  guau  28m12.cha 2 4 00 guau guau guau guau .
+allcorpora  76310  guau  28m12.cha 2 4 00 guau guau guau guau .
+allcorpora  76311  guau  28m12.cha 2 4 00 ay guau guau guau guau .
+allcorpora  76311  guau  28m12.cha 2 4 00 ay guau guau guau guau .
+allcorpora  76311  guau  28m12.cha 2 4 00 ay guau guau guau guau .
+allcorpora  76311  guau  28m12.cha 2 4 00 ay guau guau guau guau .
+allcorpora  76341  est  28m12.cha 2 4 00 est eso !
+allcorpora  76363  aich  28m12.cha 2 4 00 aich .
+allcorpora  76407  mm  28m12.cha 2 4 00 mm mira que rico .
+allcorpora  76424  mm  28m12.cha 2 4 00 yo voy a comer mm .
+allcorpora  76537  luch  28m13.cha 2 4 00 eso ahora toma agüita ándale te vas comer tu luch ándale .
+allcorpora  76570  constanza  28m14.cha 2 4 00 hola Constanza cuántos a os tienes ?
+allcorpora  76578  constanza  28m14.cha 2 4 00 mira Constanza un caballito .
+allcorpora  76583  muuu  28m14.cha 2 4 00 ay sí y éste hace muuu .
+allcorpora  76587  constanza  28m14.cha 2 4 00 y éstas una se ora Constanza .
+allcorpora  76603  constanza  28m14.cha 2 4 00 jugamos con éste Constanza a ver pícale aquí .
+allcorpora  76611  constanza  28m14.cha 2 4 00 a ver cuéntame Constanza .
+allcorpora  76621  constanza  28m14.cha 2 4 00 a ver pásame el rojo Constanza .
+allcorpora  76625  constanza  28m14.cha 2 4 00 tienes hambres Constanza ?
+allcorpora  76626  sandwich  28m14.cha 2 4 00 hacemos un sandwich ay que rico !
+allcorpora  76628  constanza  28m14.cha 2 4 00 Constanza quieres comer ?
+allcorpora  76630  constanza  28m14.cha 2 4 00 a ver Constanza vamos a dormir al bebé lo dormimos ?
+allcorpora  76631  constanza  28m14.cha 2 4 00 le damos de comer Constanza ?
+allcorpora  76633  constanza  28m14.cha 2 4 00 a ver Constanza vamos a guardar los cubos aquí me ayudas ?
+allcorpora  76635  constanza  28m14.cha 2 4 00 hola Constanza cuántos a os tienes ?
+allcorpora  76661  guaguau  28m15.cha 2 4 00 guaguau guau guau guauguau .
+allcorpora  76661  guau  28m15.cha 2 4 00 guaguau guau guau guauguau .
+allcorpora  76661  guau  28m15.cha 2 4 00 guaguau guau guau guauguau .
+allcorpora  76665  oinc  28m15.cha 2 4 00 ay oinc oinc oinc oinc .
+allcorpora  76665  oinc  28m15.cha 2 4 00 ay oinc oinc oinc oinc .
+allcorpora  76665  oinc  28m15.cha 2 4 00 ay oinc oinc oinc oinc .
+allcorpora  76665  oinc  28m15.cha 2 4 00 ay oinc oinc oinc oinc .
+allcorpora  76704  uch  28m15.cha 2 4 00 uch ay tres .
+allcorpora  76723  umm  28m15.cha 2 4 00 umm qué rico pan verdad mi amor .
+allcorpora  76734  umm  28m15.cha 2 4 00 mira umm qué rico .
+allcorpora  76802  construímos  28m16.cha 2 4 00 la construímos ?
+allcorpora  76803  construír  28m16.cha 2 4 00 ayudáme a construír la granja .
+allcorpora  76869  mmh  28m16.cha 2 4 00 mmh nada ?
+allcorpora  76931  mmhn  28m16.cha 2 4 00 mmhn está rico ?
+allcorpora  76937  sandwich  28m16.cha 2 4 00 oye si hacemos éste está padrísimo gonzálo para hacer el sandwich en la noche .
+allcorpora  76938  sandwich  28m16.cha 2 4 00 cómo hacemos el sandwich ésta es lechuga ésta es una lechuga .
+allcorpora  76950  sandwich  28m16.cha 2 4 00 querías tapar el sandwich verdad ?
+allcorpora  76955  mmhm  28m16.cha 2 4 00 mmhm mmhm .
+allcorpora  76955  mmhm  28m16.cha 2 4 00 mmhm mmhm .
+allcorpora  76979  m  28m17.cha 2 4 00 m ya viste ?
+allcorpora  76987  m  28m17.cha 2 4 00 m el papá y quién es ?
+allcorpora  77022  m  28m17.cha 2 4 00 m no cabe .
+allcorpora  77026  uch  28m17.cha 2 4 00 hay va hay va uch .
+allcorpora  77057  uich  28m17.cha 2 4 00 uich ay ay ay .
+allcorpora  77069  mm  28m17.cha 2 4 00 mm poin .
+allcorpora  77081  mj  28m17.cha 2 4 00 mj .
+allcorpora  77095  sandwich  28m17.cha 2 4 00 haber hazte un sandwich .
+allcorpora  77099  sof  28m17.cha 2 4 00 que me dijiste no no te oigo Sof que me dijiste .
+allcorpora  77103  mj  28m17.cha 2 4 00 mj .
+allcorpora  77107  entons  28m17.cha 2 4 00 entons no es limón verdad ?
+allcorpora  77143  oing  28m18.cha 2 4 00 oing oing .
+allcorpora  77143  oing  28m18.cha 2 4 00 oing oing .
+allcorpora  77153  oing  28m18.cha 2 4 00 oing oing falto yo .
+allcorpora  77153  oing  28m18.cha 2 4 00 oing oing falto yo .
+allcorpora  77163  oing  28m18.cha 2 4 00 oing oing tú quién eres ?
+allcorpora  77163  oing  28m18.cha 2 4 00 oing oing tú quién eres ?
+allcorpora  77223  oing  28m18.cha 2 4 00 oing ?
+allcorpora  77224  oing  28m18.cha 2 4 00 oing .
+allcorpora  77329  ammm  28q01.cha 2 4 00 ammm qué rico no me das hijo ?
+allcorpora  77337  ammm  28q01.cha 2 4 00 ammm te gustó ?
+allcorpora  77354  mmmm  28q01.cha 2 4 00 mmmm .
+allcorpora  77361  mmm  28q01.cha 2 4 00 mmm te gustó hijo ?
+allcorpora  77403  mm  28q02.cha 2 4 00 mm ?
+allcorpora  77446  k  28q02.cha 2 4 00 yo veo K pura Mary cómo le hago para ver a Kurosh ?
+allcorpora  77586  tsuru  28q02.cha 2 4 00 es un tsuru o un cutlas ?
+allcorpora  77587  volkswagen  28q02.cha 2 4 00 es un Volkswagen .
+allcorpora  77607  aamm  28q02.cha 2 4 00 aamm !
+allcorpora  77625  what  28q02.cha 2 4 00 what is that ?
+allcorpora  77625  that  28q02.cha 2 4 00 what is that ?
+allcorpora  77642  sandwich  28q02.cha 2 4 00 oye aquí está el pan vamos a hacer un sandwich .
+allcorpora  77649  sandwich  28q02.cha 2 4 00 oh oh que rico sandwich a ver yo mmm es delicioso , ya se acabó el sandwich o vas a hacer otro ?
+allcorpora  77649  mmm  28q02.cha 2 4 00 oh oh que rico sandwich a ver yo mmm es delicioso , ya se acabó el sandwich o vas a hacer otro ?
+allcorpora  77649  sandwich  28q02.cha 2 4 00 oh oh que rico sandwich a ver yo mmm es delicioso , ya se acabó el sandwich o vas a hacer otro ?
+allcorpora  77651  sandwich  28q02.cha 2 4 00 a ver hazle un sandwich a Nasha .
+allcorpora  77652  sandwich  28q02.cha 2 4 00 hazle un sandwich a Nasha para que se lo lleve a la escuela .
+allcorpora  77663  m  28q03.cha 2 4 00 m llave .
+allcorpora  77664  mmj  28q03.cha 2 4 00 mmj .
+allcorpora  77715  s  28q03.cha 2 4 00 s te llenaste de pastel vamos a limpiarle la carita porque se lleno de pastel .
+allcorpora  77750  mm  28q03.cha 2 4 00 mm ?
+allcorpora  77753  m  28q03.cha 2 4 00 ese es m .
+allcorpora  77756  m  28q03.cha 2 4 00 ese es un color este m ijole que color es ?
+allcorpora  77758  m  28q03.cha 2 4 00 m a !
+allcorpora  77789  mm  28q03.cha 2 4 00 mm amm esta rico ?
+allcorpora  77789  amm  28q03.cha 2 4 00 mm amm esta rico ?
+allcorpora  77790  amm  28q03.cha 2 4 00 amm esta rico ?
+allcorpora  77801  mmm  28q03.cha 2 4 00 mmm deme también un platano porfavor .
+allcorpora  77802  mmm  28q03.cha 2 4 00 mmm como hacen los changuitos ?
+allcorpora  77810  mjj  28q03.cha 2 4 00 mjj porfavor .
+allcorpora  77812  mmm  28q03.cha 2 4 00 dos no namas una gracias mmm delicioso .
+allcorpora  77842  amm  28q03.cha 2 4 00 amm hora si a ver hasle asi que coma .
+allcorpora  77847  amm  28q03.cha 2 4 00 hola me como tu pata mejor te voy a morder tu cachete y me sigues mordiendo amm .
+allcorpora  77935  betty  28q04.cha 2 4 00 esa se llama Betty .
+allcorpora  77959  esncontré  28q04.cha 2 4 00 nadamás una hoja eh qué pasó a ver cómo se llamó el pajarito le puso nombre mira ya se ve bien contento hijito con la ni a que está jugando y la ni a dijo ya sé éste pajarito yo me lo esncontré y es mio y se va a llamar .
+allcorpora  77990  entons  28q04.cha 2 4 00 el pajarito le está ayudando a ella le esta ayudando a hacer su tarea entons que paso que el pajarito se fué pero regresaba a visitarla verdad .
+allcorpora  78008  sandwich  28q04.cha 2 4 00 ay mira el sandwich ya lo viste yo ya lo vi que rico .
+allcorpora  78012  sand  28q04.cha 2 4 00 es como el sand que te parece si le ponemos la lechuga adentro .
+allcorpora  78018  entons  28q04.cha 2 4 00 vamos a dárselo de comer a esta ni ita pero está dormida ahorita entons vamos a gurdarselo en un plato .
+allcorpora  78051  sandwich  28q04.cha 2 4 00 hijo que rico está el sandwich no te lo quieres comer tú ?
+allcorpora  78175  m  28q05.cha 2 4 00 a lo mejor con ese podemos hacer m agarrar un tornillito y darle vueltas , y darle vueltas .
+allcorpora  78292  hotcakes  28q05.cha 2 4 00 está preparando hotcakes ?
+allcorpora  78295  mm  28q05.cha 2 4 00 pastel eh mm y qué hay aquí ?
+allcorpora  78304  mj  28q05.cha 2 4 00 mj .
+allcorpora  78324  mj  28q05.cha 2 4 00 mj .
+allcorpora  78328  mj  28q05.cha 2 4 00 mj .
+allcorpora  78334  mj  28q05.cha 2 4 00 mj .
+allcorpora  78446  sandwich  28q06.cha 2 4 00 a ver hazme un sandwich Sergio quiero comer .
+allcorpora  78464  sandwich  28q06.cha 2 4 00 pepinos pónle a tu sandwich .
+allcorpora  78537  betty  28q07.cha 2 4 00 oye le decimos a Betty que nos preste los guiñoles ?
+allcorpora  78590  runn  28q07.cha 2 4 00 runn .
+allcorpora  78600  ruunn  28q07.cha 2 4 00 ruunn .
+allcorpora  78622  sandwich  28q07.cha 2 4 00 mira es el queso para el pan para hacer un sandwich .
+allcorpora  78627  amm  28q07.cha 2 4 00 amm !
+allcorpora  78643  aich  28q07.cha 2 4 00 aich !
+allcorpora  78836  mj  28q09.cha 2 4 00 mj .
+allcorpora  78891  sandwich  28q09.cha 2 4 00 mira voy a hacer un sandwich .
+allcorpora  78892  sandwich  28q09.cha 2 4 00 sandwich con pan tomate y lechuga .
+allcorpora  78908  pshh  28q09.cha 2 4 00 a ver yo le pongo agua pshh ahí va .
+allcorpora  78971  mmm  28q19.cha 2 4 00 un pastel mmm .
+allcorpora  78987  muuu  28q19.cha 2 4 00 muuu .
+allcorpora  79004  sandwich  28q19.cha 2 4 00 qué te parece si hacemos un sandwich ?
+allcorpora  79039  sandwich  28q19.cha 2 4 00 mira yo voy hacer una sandwich porque está bien rico .
+allcorpora  79044  sandwich  28q19.cha 2 4 00 tú hazme un sandwich al fin que yo un tengo hambre de a mentiritas ándale .
+allcorpora  79176  sandwich  28q20.cha 2 4 00 me haces un sandwich sí ?
+allcorpora  79182  sandwich  28q20.cha 2 4 00 ya me hiciste mi sandwich ?
+allcorpora  79282  guau  28sb01.cha 2 4 00 a es un guau .
+allcorpora  79684  amm  28sb03.cha 2 4 00 amm .
+allcorpora  79724  shh  28sb05.cha 2 4 00 shh .
+allcorpora  79915  sandwich  28sb06.cha 2 4 00 qué quieres un sandwich ?
+allcorpora  79925  mh  28sb06.cha 2 4 00 mh ira mira que bonito niñito .
+allcorpora  79993  shhh  28sb07.cha 2 4 00 sí shhh se van a dormir .
+allcorpora  79994  shhh  28sb07.cha 2 4 00 shhh se van a dormir .
+allcorpora  80060  mmm  28sb07.cha 2 4 00 cómete la dona mmm qué rica dona .
+allcorpora  80070  mmm  28sb07.cha 2 4 00 come así mira mmm .
+allcorpora  80147  guaguau  28sb08.cha 2 4 00 ay con el guaguau .
+allcorpora  80166  mj  28sb08.cha 2 4 00 mj pon los platos , y las tazas .
+allcorpora  80168  mj  28sb08.cha 2 4 00 mj a ver .
+allcorpora  80180  mj  28sb08.cha 2 4 00 mj .
+allcorpora  80191  sandwich  28sb08.cha 2 4 00 es pan para hacer un sandwich .
+allcorpora  80193  sandwich  28sb08.cha 2 4 00 hora ponle , ponle el queso a tu sandwich .
+allcorpora  80287  manz  28sb09.cha 2 4 00 la manz la manzana ponla en el plato aquí está mira .
+allcorpora  80430  sandwich  28sb10.cha 2 4 00 ten un sandwich muérdele .
+allcorpora  80529  sandwich  28sb11.cha 2 4 00 ahora vas a darle éste un sandwich .
+allcorpora  80531  sandwich  28sb11.cha 2 4 00 dónde está el sandwich ?
+allcorpora  80563  m  28sb12.cha 2 4 00 te gustan los coches m ?
+allcorpora  80574  scarlett  28sb12.cha 2 4 00 que guapa a dónde vas a ir Scarlett ?
+allcorpora  80586  scarlett  28sb12.cha 2 4 00 y a dónde van a ir a pasear Scarlett ?
+allcorpora  80587  mj  28sb12.cha 2 4 00 mj a su casa ?
+allcorpora  80601  scarlett  28sb12.cha 2 4 00 si pero acá porque si no no vas a salir en la tele Scarlett y luego .
+allcorpora  80606  scarlett  28sb12.cha 2 4 00 mira Scarlett mira !
+allcorpora  80694  scarlett  28sb12.cha 2 4 00 hola Scarlett pum hola Scarlett pum .
+allcorpora  80694  scarlett  28sb12.cha 2 4 00 hola Scarlett pum hola Scarlett pum .
+allcorpora  80695  scarlett  28sb12.cha 2 4 00 mira mira Scarlett ay ya te comiste la fruta .
+allcorpora  80704  sandwich  28sb12.cha 2 4 00 mira un pan un sandwich quieres cometelo cometelo .
+allcorpora  80705  scarlett  28sb12.cha 2 4 00 mira Scarlett .
+allcorpora  80717  scarlett  28sb12.cha 2 4 00 entonces yo no quiero jugar contigo mira Scarlett .
+allcorpora  80721  sandwich  28sb12.cha 2 4 00 comase su sandwich te lo vas a comer .
+allcorpora  80735  mh  28sb12.cha 2 4 00 mh ?
+allcorpora  80737  scarlett  28sb12.cha 2 4 00 mira Scarlett ahora hazla tu hazla tu .
+allcorpora  80765  puzzle  28_2.cha 2 02 12 qué , hacemos un puzzle ?
+allcorpora  80777  puzzle  28_2.cha 2 02 12 ahora vamos a hacer un puzzle , vale ?
+allcorpora  80797  puzzlees  28_2.cha 2 02 12 quieres que juguemos a los puzzlees ?
+allcorpora  80804  puzzle  28_2.cha 2 02 12 se lo va a quedar papá este puzzle .
+allcorpora  80923  striptease  28_2.cha 2 02 12 aquí haciendo un striptease al vecindario , que no hay cortinas .
+allcorpora  81141  mm  28_2.cha 2 02 12 mm .
+allcorpora  81228  puzzle  28_2.cha 2 02 12 qué quieres , jugar con el puzzle , o pintar ?
+allcorpora  81339  ch  28_2.cha 2 02 12 Mendía , hay que quitar la ch , hay que quitar el jersey , la ropita , pa bañarse .
+allcorpora  81341  mm  28_2.cha 2 02 12 mm , qué silencio !
+allcorpora  81533  mm  29.cha 1 11 01 a ver que hiciste , mm ?
+allcorpora  81549  mm  29.cha 1 11 01 mm !
+allcorpora  81573  mmm  29_2.cha 2 02 20 mmm .
+allcorpora  81665  letr  29_2.cha 2 02 20 la letr .
+allcorpora  81669  prr  29_2.cha 2 02 20 prr .
+allcorpora  81683  mm  29_2.cha 2 02 20 mm .
+allcorpora  81726  puzzle  29_2.cha 2 02 20 con el puzzle ?
+allcorpora  81727  puzzle  29_2.cha 2 02 20 el libro puzzle nuevo ?
+allcorpora  81785  puzzle  29_2.cha 2 02 20 ahora vamos a hacer el puzzle de color azul .
+allcorpora  81837  mm  29_2.cha 2 02 20 mm .
+allcorpora  81875  mm  29_2.cha 2 02 20 mm .
+allcorpora  81892  puzzle  29_2.cha 2 02 20 qué bonito es este puzzle , Mendía .
+allcorpora  81932  mm  29_2.cha 2 02 20 mm .
+allcorpora  81954  puzzle  29_2.cha 2 02 20 vamos a hacer este puzzle , venga .
+allcorpora  81957  puzzle  29_2.cha 2 02 20 venga , vamos a colocar el puzzle naranja .
+allcorpora  81968  puzzle  29_2.cha 2 02 20 pero tenemos que hacer el puzzle , primero .
+allcorpora  81974  puzzle  29_2.cha 2 02 20 busca las esquinas , busca las esquinas , del puzzle .
+allcorpora  81981  puzzle  29_2.cha 2 02 20 puzzle .
+allcorpora  81982  puzzle  29_2.cha 2 02 20 puzzle sí .
+allcorpora  81985  puzzle  29_2.cha 2 02 20 cuando terminemos el puzzle , hacemos una voltereta .
+allcorpora  82022  puzzle  29_2.cha 2 02 20 pues no hay voltereta , como no hemos terminao el puzzle .
+allcorpora  82055  mm  29_2.cha 2 02 20 mm .
+allcorpora  82060  puzzle  29_2.cha 2 02 20 vamos a terminar este puzzle .
+allcorpora  82201  mm  30.cha 1 11 13 mm ?
+allcorpora  82243  mm  30.cha 1 11 13 mm .
+allcorpora  82276  mm  30.cha 1 11 13 mm .
+allcorpora  82284  mm  30.cha 1 11 13 mm , que otra cosa hay ahí al lado de la osita ?
+allcorpora  82293  brnn  30.cha 1 11 13 brnn brnn brnn .
+allcorpora  82293  brnn  30.cha 1 11 13 brnn brnn brnn .
+allcorpora  82293  brnn  30.cha 1 11 13 brnn brnn brnn .
+allcorpora  82299  mm  30.cha 1 11 13 mm ?
+allcorpora  82320  uff  30.cha 1 11 13 uy , uff !
+allcorpora  82328  haff  30.cha 1 11 13 haff , Irene vas a romperte la crisma !
+allcorpora  82378  mm  30.cha 1 11 13 mm .
+allcorpora  82386  robert  30.cha 1 11 13 ahora Robert , Roberto .
+allcorpora  82388  robert  30.cha 1 11 13 buscamos ahora a Robert , que es eso dime que hay ahí ?
+allcorpora  82399  robert  30.cha 1 11 13 mira , visto a Robert .
+allcorpora  82400  robert  30.cha 1 11 13 visto Robert ?
+allcorpora  82435  mm  30.cha 1 11 13 mm .
+allcorpora  82483  mm  30.cha 1 11 13 mm ?
+allcorpora  82553  puf  30.cha 1 11 13 mira , mira , mira , puf !
+allcorpora  82613  guaguáu  30_2.cha 2 02 28 pero qué hace el guaguáu en el carro , a ver ?
+allcorpora  82614  guaguáu  30_2.cha 2 02 28 el guaguáu , qué hace en el carro el guaguáu@c ?
+allcorpora  82614  guaguáu@c  30_2.cha 2 02 28 el guaguáu , qué hace en el carro el guaguáu@c ?
+allcorpora  82619  guaguáu  30_2.cha 2 02 28 y qué va a hacer en el jardín el guaguáu ?
+allcorpora  82905  guaguáu  30_2.cha 2 02 28 es mío ya ese guaguáu .
+allcorpora  83025  áhi  30_2.cha 2 02 28 y Gruñon es el otro perrito , que se ha ido por áhi , a que sí ?
+allcorpora  83197  mm  31.cha 1 11 30 mm .
+allcorpora  83231  mm  31.cha 1 11 30 mm , y en el otro lado ?
+allcorpora  83359  puf  31.cha 1 11 30 ahora se sienta Niko , puf !
+allcorpora  83381  mm  31.cha 1 11 30 mm .
+allcorpora  83386  mm  31.cha 1 11 30 mm .
+allcorpora  83442  striptease  31_2.cha 2 03 03 venga , vamos a hacer , un striptease , para Silvia .
+allcorpora  83522  puzzle  31_2.cha 2 03 03 vamos al salón , y hacemos un puzzle .
+allcorpora  83525  puzzle  31_2.cha 2 03 03 ése es un libro puzzle , sí .
+allcorpora  83558  sandwich  31_2.cha 2 03 03 un sandwich .
+allcorpora  83560  sandwich  31_2.cha 2 03 03 y de qué era el sandwich que te llevó papá ?
+allcorpora  83578  puzzle  31_2.cha 2 03 03 el puzzle ?
+allcorpora  83589  puzzle  31_2.cha 2 03 03 y vas a hacer toda la tarde el mismo puzzle ?
+allcorpora  83664  mm  31_2.cha 2 03 03 mm .
+allcorpora  83700  puzzle  31_2.cha 2 03 03 claro , es que es en este puzzle se caen .
+allcorpora  83776  sandwich  31_2.cha 2 03 03 el sandwich , que no está .
+allcorpora  83782  sandwich  31_2.cha 2 03 03 y dice el oso , no os llevéis mi sandwich .
+allcorpora  83784  mmm  31_2.cha 2 03 03 mmm .
+allcorpora  83808  sandwich  31_2.cha 2 03 03 tenemos que buscar el sandwich , que se nos ha perdido .
+allcorpora  83812  sandwich  31_2.cha 2 03 03 su merienda es el sandwich .
+allcorpora  83943  mm  31_2.cha 2 03 03 mm .
+allcorpora  83963  mm  31_2.cha 2 03 03 mm .
+allcorpora  83986  puzzle  31_2.cha 2 03 03 en este puzzle no se caen .
+allcorpora  84074  mm  32.cha 2 0 13 mm , y después ?
+allcorpora  84121  mm  32.cha 2 0 13 mm ?
+allcorpora  84126  pingüinos  32.cha 2 0 13 se llaman pingüinos .
+allcorpora  84132  mm  32.cha 2 0 13 mm , que le dijo , luna , luna .
+allcorpora  84137  pingüinos  32.cha 2 0 13 estos eran pingüinos .
+allcorpora  84141  mm  32.cha 2 0 13 mm , bañándose , y esto que hay aquí que son ?
+allcorpora  84201  mm  32.cha 2 0 13 mm .
+allcorpora  84207  mm  32.cha 2 0 13 mm .
+allcorpora  84212  buff  32.cha 2 0 13 buff , ese es un poco complicado .
+allcorpora  84252  eight  32.cha 2 0 13 one , one , two , three , four , five , seven , eight , nine , ten .
+allcorpora  84287  uff  32.cha 2 0 13 uff , como pesa !
+allcorpora  84292  uff  32.cha 2 0 13 uff , muchas letras tiene .
+allcorpora  84300  mm  32.cha 2 0 13 mm , mm , mm , que es eso ?
+allcorpora  84300  mm  32.cha 2 0 13 mm , mm , mm , que es eso ?
+allcorpora  84300  mm  32.cha 2 0 13 mm , mm , mm , que es eso ?
+allcorpora  84635  mmm  32_2.cha 2 03 09 mmm .
+allcorpora  84686  guay  33.cha 2 0 28 en el coche que guay , que guay , claro !
+allcorpora  84686  guay  33.cha 2 0 28 en el coche que guay , que guay , claro !
+allcorpora  84709  mm  33.cha 2 0 28 mm .
+allcorpora  84718  mm  33.cha 2 0 28 mm .
+allcorpora  84744  mm  33.cha 2 0 28 mm .
+allcorpora  84746  mm  33.cha 2 0 28 mm , y el de los tres gochinos ?
+allcorpora  85026  guau  33.cha 2 0 28 guau guau , guau gua , guau gua !
+allcorpora  85026  guau  33.cha 2 0 28 guau guau , guau gua , guau gua !
+allcorpora  85026  guau  33.cha 2 0 28 guau guau , guau gua , guau gua !
+allcorpora  85026  guau  33.cha 2 0 28 guau guau , guau gua , guau gua !
+allcorpora  85047  mm  33.cha 2 0 28 a ver si encuentro mas cositas guapas , mm , que esto ?
+allcorpora  85085  sandwich  33.cha 2 0 28 un sandwich ?
+allcorpora  85089  sandwich  33.cha 2 0 28 hoy quies comer un sandwich ?
+allcorpora  85108  m  34.cha 2 1 18 una m .
+allcorpora  85110  m  34.cha 2 1 18 oye , y la m con la e ?
+allcorpora  85115  rr  34.cha 2 1 18 la rr , muy bien .
+allcorpora  85128  p  34.cha 2 1 18 primero ponemos una p , y luego ponemos una , a , la p con la a ?
+allcorpora  85128  p  34.cha 2 1 18 primero ponemos una p , y luego ponemos una , a , la p con la a ?
+allcorpora  85152  n  34.cha 2 1 18 es verdad y una n ahí !
+allcorpora  85183  mm  34.cha 2 1 18 mm , bueno !
+allcorpora  85245  spaghetti  34.cha 2 1 18 un spaghetti ?
+allcorpora  85337  mm  35.cha 2 1 29 mm , tortillina .
+allcorpora  85373  mm  35.cha 2 1 29 mm .
+allcorpora  85391  pieinos  35.cha 2 1 29 no , no , no , no quites los pieinos , que , que es lo que tienen ?
+allcorpora  85394  puf  35.cha 2 1 29 como el otro día , puf , como se enfado , eh ?
+allcorpora  85395  puf  35.cha 2 1 29 puf !
+allcorpora  85476  puag  35.cha 2 1 29 puag , pringosisima , egg !
+allcorpora  85476  egg  35.cha 2 1 29 puag , pringosisima , egg !
+allcorpora  85548  mm  36.cha 2 2 14 mm .
+allcorpora  85564  mm  36.cha 2 2 14 mm .
+allcorpora  85566  mm  36.cha 2 2 14 mm .
+allcorpora  85576  mm  36.cha 2 2 14 mm .
+allcorpora  85580  mm  36.cha 2 2 14 mm , solo se quedan estos dos , este .
+allcorpora  85591  mm  36.cha 2 2 14 mm !
+allcorpora  85594  mm  36.cha 2 2 14 mm .
+allcorpora  85609  mm  36.cha 2 2 14 mm !
+allcorpora  85614  mm  36.cha 2 2 14 mm ?
+allcorpora  85625  mm  36.cha 2 2 14 mm !
+allcorpora  85662  mm  36.cha 2 2 14 mm .
+allcorpora  85725  scobby  36.cha 2 2 14 si , además ahora después de cenar te vas a poner en Scobby .
+allcorpora  85734  mm  36.cha 2 2 14 mm ?
+allcorpora  85808  scobby  36.cha 2 2 14 luego en Scobby podemos jugar con el pie pero ahora hay que acabar de comer tranquilamente .
+allcorpora  85888  mm  36.cha 2 2 14 mm .
+allcorpora  85890  mm  36.cha 2 2 14 mm .
+allcorpora  85929  scobby  36.cha 2 2 14 en Scobby , la preparamos .
+allcorpora  85969  mmm  36mc13.cha 3 0 00 mmm yo tengo hambre .
+allcorpora  86009  jugr  36mc13.cha 3 0 00 quieres jugr con otr cosa Rocío ?
+allcorpora  86009  otr  36mc13.cha 3 0 00 quieres jugr con otr cosa Rocío ?
+allcorpora  86052  sandwich  36mc14.cha 3 0 00 bueno oye mamá yo quiero que me hagas un sandwich .
+allcorpora  86054  sandwich  36mc14.cha 3 0 00 ponle ponle jitomate por favor a mi sandwich y ponle lechuga dónde está la lechuga mamá ?
+allcorpora  86055  mmh  36mc14.cha 3 0 00 eso mmh qué rico .
+allcorpora  86063  sandwich  36mc14.cha 3 0 00 yo mientras me como mi sandwich y tú le das su lechita sale ?
+allcorpora  86064  mmh  36mc14.cha 3 0 00 mmh pero nos faltó ésto mira .
+allcorpora  86066  mmh  36mc14.cha 3 0 00 mmh qué rico está el sandwich que me hiciste mamá .
+allcorpora  86066  sandwich  36mc14.cha 3 0 00 mmh qué rico está el sandwich que me hiciste mamá .
+allcorpora  86076  mmh  36mc14.cha 3 0 00 mmh qué rico ahora yo te voy a invitar una lechita de las mías sale ?
+allcorpora  86081  mmh  36mc14.cha 3 0 00 mmh me ganaste qué rico .
+allcorpora  86088  mmh  36mc14.cha 3 0 00 mmh éstos son pepinos .
+allcorpora  86090  mmh  36mc14.cha 3 0 00 mmh qué rico ahora dale fruta no ?
+allcorpora  86093  mmh  36mc14.cha 3 0 00 bueno yo le doy le voy a dar de esta fruta al bebé mmh qué rica .
+allcorpora  86097  mjú  36mc14.cha 3 0 00 mjú .
+allcorpora  86098  splash  36mc14.cha 3 0 00 splash .
+allcorpora  86099  mjú  36mc14.cha 3 0 00 mjú .
+allcorpora  86116  mjú  36mc14.cha 3 0 00 mjú .
+allcorpora  86124  mjú  36mc14.cha 3 0 00 mjú a ver qué aparece mira .
+allcorpora  86130  mjú  36mc14.cha 3 0 00 mjú .
+allcorpora  86138  mjú  36mc14.cha 3 0 00 mjú .
+allcorpora  86140  múu  36mc14.cha 3 0 00 múu .
+allcorpora  86146  oing  36mc14.cha 3 0 00 oing oing .
+allcorpora  86146  oing  36mc14.cha 3 0 00 oing oing .
+allcorpora  86349  mjm  36mc16.cha 3 0 00 mjm .
+allcorpora  86369  guau  36mc16.cha 3 0 00 guau , guau .
+allcorpora  86369  guau  36mc16.cha 3 0 00 guau , guau .
+allcorpora  86370  guau  36mc16.cha 3 0 00 no me cierres guau no , no que bueno que me dejaste salir .
+allcorpora  86372  jhuajh  36mc16.cha 3 0 00 jhuajh o qué es ?
+allcorpora  86373  miauu  36mc16.cha 3 0 00 miauu .
+allcorpora  86375  guau  36mc16.cha 3 0 00 guau , guau .
+allcorpora  86375  guau  36mc16.cha 3 0 00 guau , guau .
+allcorpora  86376  miau  36mc16.cha 3 0 00 pio miau hola Jorgito !
+allcorpora  86377  guau  36mc16.cha 3 0 00 guau adios , hola Jorge !
+allcorpora  86381  guau  36mc16.cha 3 0 00 guau hola Jorge si carne .
+allcorpora  86383  guau  36mc16.cha 3 0 00 guau gracias que rico .
+allcorpora  86384  mmm  36mc16.cha 3 0 00 mmm quiero lechita .
+allcorpora  86403  mhm  36mc16.cha 3 0 00 mhm .
+allcorpora  86410  mm  36mc16.cha 3 0 00 mm ?
+allcorpora  86412  mjú  36mc16.cha 3 0 00 mjú .
+allcorpora  86420  mmm  36mc17.cha 3 0 00 a ver le voy a poner mmm .
+allcorpora  86435  mmh  36mc17.cha 3 0 00 mmh .
+allcorpora  86472  mhm  36mc17.cha 3 0 00 mhm .
+allcorpora  86500  mhm  36mc17.cha 3 0 00 mhm .
+allcorpora  86504  aich  36mc17.cha 3 0 00 aich ah .
+allcorpora  86538  mhm  36mc19.cha 3 0 00 mhm .
+allcorpora  86540  miau  36mc19.cha 3 0 00 miau .
+allcorpora  86547  mjm  36mc19.cha 3 0 00 mjm .
+allcorpora  86566  iiii  36mc19.cha 3 0 00 hace iiii .
+allcorpora  86573  mj  36mc19.cha 3 0 00 mj .
+allcorpora  86578  oing  36mc19.cha 3 0 00 oing oing .
+allcorpora  86578  oing  36mc19.cha 3 0 00 oing oing .
+allcorpora  86592  mj  36mc19.cha 3 0 00 mj .
+allcorpora  86626  stephanía  36mc20.cha 3 0 00 no que me lo ibas a contar stephanía ?
+allcorpora  86642  stephanía  36mc20.cha 3 0 00 no Stephanía ?
+allcorpora  86705  sandwich  36mc20.cha 3 0 00 yo me voy a hacer mi sandwich , que rico , me voy a servir lechita .
+allcorpora  86727  stephanie  36mc20.cha 3 0 00 a ver stephanie cual quieres cantar ?
+allcorpora  86752  shh  36mc21.cha 3 0 00 a ver , shh .
+allcorpora  86783  monstruo  36mc21.cha 3 0 00 un monstruo pulpo se llama pulpo .
+allcorpora  86865  miau  36mc22.cha 3 0 00 está pio pio miau , guau .
+allcorpora  86865  guau  36mc22.cha 3 0 00 está pio pio miau , guau .
+allcorpora  86866  miau  36mc22.cha 3 0 00 miau .
+allcorpora  86950  mmh  36mc22.cha 3 0 00 mmh ?
+allcorpora  87003  oing  36mc22.cha 3 0 00 oing oing .
+allcorpora  87003  oing  36mc22.cha 3 0 00 oing oing .
+allcorpora  87004  oing  36mc22.cha 3 0 00 oing hola pepe quién eres ?
+allcorpora  87034  shh  36mc22.cha 3 0 00 shh ven siéntate aquí .
+allcorpora  87042  guaguau  36mc22.cha 3 0 00 éste es un perrito hace guaguau .
+allcorpora  87075  mhm  36qc01.cha 3 0 00 mhm mira .
+allcorpora  87077  sandwich  36qc01.cha 3 0 00 hacemos un sandwich .
+allcorpora  87082  sandwich  36qc01.cha 3 0 00 vamos a ponerselo al sandwich .
+allcorpora  87087  sandwich  36qc01.cha 3 0 00 vamos a hacer un sandwich sale .
+allcorpora  87113  umm  36qc01.cha 3 0 00 umm no .
+allcorpora  87141  betty  36qc01.cha 3 0 00 se llama Betty y su ratón .
+allcorpora  87254  mj  36qc01.cha 3 0 00 mj .
+allcorpora  87287  m  36qc03.cha 3 0 00 qué me vas a preparar m ?
+allcorpora  87291  sandwich  36qc03.cha 3 0 00 un queso y que te parece si me haces un sandwich yo quiero comer .
+allcorpora  87294  m  36qc03.cha 3 0 00 m que tendrá frio ?
+allcorpora  87295  m  36qc03.cha 3 0 00 m no le gusta verdad ?
+allcorpora  87296  m  36qc03.cha 3 0 00 m eso muy bien .
+allcorpora  87299  sandwich  36qc03.cha 3 0 00 dáme un sandwich .
+allcorpora  87300  sandwich  36qc03.cha 3 0 00 dáme , dáme preparame un sandwich .
+allcorpora  87304  m  36qc03.cha 3 0 00 m si que rico .
+allcorpora  87309  sandwich  36qc03.cha 3 0 00 pues yo creo que yo ya veo que como que tienes ya todo listo para hacer un sandwich .
+allcorpora  87310  sandwich  36qc03.cha 3 0 00 eshe es el sandwich .
+allcorpora  87313  sandwich  36qc03.cha 3 0 00 bueno pues prepárame un sandwich por que yo ya quiero comer .
+allcorpora  87314  m  36qc03.cha 3 0 00 m orale mi amor prepárame un sandwich .
+allcorpora  87314  sandwich  36qc03.cha 3 0 00 m orale mi amor prepárame un sandwich .
+allcorpora  87317  m  36qc03.cha 3 0 00 m ?
+allcorpora  87318  sandwich  36qc03.cha 3 0 00 así nada mas me los vas a hacer uy que feo tu sandwich Mariana yo lo quiero con jitomate y con queso y con lechuga mira esta es la lechuga y estos son los pepinillos .
+allcorpora  87369  betty  36qc03.cha 3 0 00 yo veo a Betty .
+allcorpora  87371  betty  36qc03.cha 3 0 00 yo veo a Betty .
+allcorpora  87372  betty  36qc03.cha 3 0 00 pero mira yo veo a Betty .
+allcorpora  87401  m  36qc05.cha 3 0 00 m que rico .
+allcorpora  87437  mmm  36qc05.cha 3 0 00 mmm que rico .
+allcorpora  87442  m  36qc05.cha 3 0 00 m ándale .
+allcorpora  87453  shh  36qc05.cha 3 0 00 shh .
+allcorpora  87509  sandwich  36qc06.cha 3 0 00 hazme un sandwich .
+allcorpora  87519  m  36qc06.cha 3 0 00 mira aquí está el queso m .
+allcorpora  87523  m  36qc06.cha 3 0 00 m yo quiero .
+allcorpora  87524  m  36qc06.cha 3 0 00 m que rico !
+allcorpora  87528  m  36qc06.cha 3 0 00 ahora a ver qué le damos de comer tiene hambre m qué le damos ?
+allcorpora  87532  what  36qc06.cha 3 0 00 what is ?
+allcorpora  87539  m  36qc06.cha 3 0 00 m si te gusta arrancarlas ?
+allcorpora  87604  betty  36qc06.cha 3 0 00 pues llevatelo Betty de una vez por favor .
+allcorpora  87621  mh  36qc07.cha 3 0 00 mh ?
+allcorpora  87633  m  36qc07.cha 3 0 00 m qué es ?
+allcorpora  87636  sandwich  36qc07.cha 3 0 00 es un sandwich .
+allcorpora  87650  m  36qc07.cha 3 0 00 m cómo esta ?
+allcorpora  87652  m  36qc07.cha 3 0 00 m ?
+allcorpora  87657  m  36qc07.cha 3 0 00 m ?
+allcorpora  87659  mm  36qc07.cha 3 0 00 a ver mm qué rica agua .
+allcorpora  87724  m  36qc07.cha 3 0 00 m .
+allcorpora  87756  construyendo  36qc07.cha 3 0 00 qué está construyendo oiga ?
+allcorpora  87757  construyendo  36qc07.cha 3 0 00 qué está construyendo ?
+allcorpora  87845  shh  36qc08.cha 3 0 00 shh shh .
+allcorpora  87845  shh  36qc08.cha 3 0 00 shh shh .
+allcorpora  87854  enfriar  36qc08.cha 3 0 00 lo vas a enfriar ?
+allcorpora  87892  hmn  36qc08.cha 3 0 00 hmn !
+allcorpora  87916  mhm  36qc08.cha 3 0 00 mhm .
+allcorpora  87933  mmhn  36qc08.cha 3 0 00 ay que mmhn mmhn .
+allcorpora  87933  mmhn  36qc08.cha 3 0 00 ay que mmhn mmhn .
+allcorpora  87990  m  36qc08.cha 3 0 00 m conejo .
+allcorpora  87994  mperro  36qc08.cha 3 0 00 mperro ?
+allcorpora  88051  sandwich  36qc09.cha 3 0 00 un sandwich pero házmelo con jitomate ponle jitomate al sandwich .
+allcorpora  88051  sandwich  36qc09.cha 3 0 00 un sandwich pero házmelo con jitomate ponle jitomate al sandwich .
+allcorpora  88166  sandwich  36qc10.cha 3 0 00 a ver un sandwich .
+allcorpora  88189  iiih  36qc10.cha 3 0 00 iiih .
+allcorpora  88193  iiih  36qc10.cha 3 0 00 iiih !
+allcorpora  88229  muuu  36qc10.cha 3 0 00 muuu .
+allcorpora  88248  iiih  36qc10.cha 3 0 00 iiih ya me lo quitaste bueno vamos a metéte tú uno y yo otro .
+allcorpora  88411  mju  36qc11.cha 3 0 00 mju .
+allcorpora  88413  sandwich  36qc11.cha 3 0 00 hay mira puedes hacer un sandwich .
+allcorpora  88414  sandwich  36qc11.cha 3 0 00 un sandwich .
+allcorpora  88419  mmm  36qc11.cha 3 0 00 mmm ?
+allcorpora  88436  m  36qc11.cha 3 0 00 haber m que rica .
+allcorpora  88438  catsup  36qc11.cha 3 0 00 y catsup .
+allcorpora  88494  mmm  36qc11.cha 3 0 00 hueso mmm .
+allcorpora  88566  sandwich  36qc12.cha 3 0 00 mira un sandwich que padre está .
+allcorpora  88589  sandwich  36qc12.cha 3 0 00 quieres un sandwich sale ?
+allcorpora  88590  sandwich  36qc12.cha 3 0 00 Hazael quieres un sandwich de jamón y lechuga ?
+allcorpora  88593  sanwdich  36qc12.cha 3 0 00 sí pues es un sanwdich de jamón con este queso con lechuga .
+allcorpora  88621  abriendo  36qc12.cha 3 0 00 sí per también esta abriendo la cortina verdad ?
+allcorpora  88630  encotntró  36qc12.cha 3 0 00 mira pues al llegar a la escuela con mucha ilusión no encotntró a su mu eco el ratón qué es esto ?
+allcorpora  88670  click  36qc12.cha 3 0 00 los conejos hacen así mira click y el conejo miauu .
+allcorpora  88670  miauu  36qc12.cha 3 0 00 los conejos hacen así mira click y el conejo miauu .
+allcorpora  88689  mju  36qc12.cha 3 0 00 mju ?
+allcorpora  88719  m  36qc12.cha 3 0 00 a m a mí ?
+allcorpora  88755  mhm  36sb01.cha 3 0 00 mhm .
+allcorpora  88768  mhm  36sb01.cha 3 0 00 mhm mira .
+allcorpora  88840  mmh  36sb01.cha 3 0 00 mmh ?
+allcorpora  88896  mjú  36sb01.cha 3 0 00 mjú .
+allcorpora  89037  mj  36sb03.cha 3 0 00 mj .
+allcorpora  89038  betty  36sb03.cha 3 0 00 a ver pero habla un poquito más fuerte para que Betty te escuche .
+allcorpora  89051  mj  36sb03.cha 3 0 00 mj hora yo le doy vuelta .
+allcorpora  89053  mj  36sb03.cha 3 0 00 mj .
+allcorpora  89096  mj  36sb03.cha 3 0 00 mj .
+allcorpora  89107  mj  36sb03.cha 3 0 00 mj .
+allcorpora  89163  mhm  36sb04.cha 3 0 00 mhm .
+allcorpora  89193  mhm  36sb04.cha 3 0 00 un platáno mhm .
+allcorpora  89195  mhm  36sb04.cha 3 0 00 una cunita mhm .
+allcorpora  89264  mhm  36sb04.cha 3 0 00 mhm .
+allcorpora  89286  mmh  36sb04.cha 3 0 00 mmh qué hay ?
+allcorpora  89302  mmh  36sb04.cha 3 0 00 mmh ?
+allcorpora  89359  mmh  36sb05.cha 3 0 00 ira , ira eh mmh son muchas cositas que están por aquí .
+allcorpora  89467  shh  36sb05.cha 3 0 00 que pasó eh shh bebé qué pasó ?
+allcorpora  89527  acomòdalo  36sb05.cha 3 0 00 acomòdalo .
+allcorpora  89529  acomòdalo  36sb05.cha 3 0 00 acomòdalo .
+allcorpora  89654  l  36sb05.cha 3 0 00 la sandía cuá l es ?
+allcorpora  89665  estàs  36sb05.cha 3 0 00 muchacho mudo estàs bien mudo .
+allcorpora  89755  màs  36sb05.cha 3 0 00 a ver saca que màs hay .
+allcorpora  89766  papà  36sb05.cha 3 0 00 sí que los niños se iban de paseo con su papà ?
+allcorpora  89780  sì  36sb05.cha 3 0 00 aquí yo los sentaba a los niños sì ?
+allcorpora  89797  sh  36sb05.cha 3 0 00 no los jarros aquí sh sh .
+allcorpora  89797  sh  36sb05.cha 3 0 00 no los jarros aquí sh sh .
+allcorpora  89879  bat  36sb06.cha 3 0 00 por ejemplo aquí mira él está pateando el balón y aquí él le está pegando a esta pelota con el bat ya viste ?
+allcorpora  89885  mjú  36sb06.cha 3 0 00 mjú .
+allcorpora  89889  mjú  36sb06.cha 3 0 00 mjú .
+allcorpora  89893  mjú  36sb06.cha 3 0 00 mjú .
+allcorpora  89894  mjú  36sb06.cha 3 0 00 mjú unos patines .
+allcorpora  89915  mjú  36sb06.cha 3 0 00 mjú y él ?
+allcorpora  89926  mjú  36sb06.cha 3 0 00 mjú .
+allcorpora  89993  mjú  36sb06.cha 3 0 00 mjú poquito .
+allcorpora  90003  mjú  36sb06.cha 3 0 00 mjú .
+allcorpora  90142  mjú  36sb07.cha 3 0 00 mjú .
+allcorpora  90187  sandwich  36sb08.cha 3 0 00 un sandwich una pierna de pollo un elote qué quieres ?
+allcorpora  90260  m  36sb08.cha 3 0 00 m se lo llevaron ?
+allcorpora  90281  mj  36sb08.cha 3 0 00 mj aquí hay más mira .
+allcorpora  90282  mj  36sb08.cha 3 0 00 mj .
+allcorpora  90284  mj  36sb08.cha 3 0 00 mj .
+allcorpora  90287  mj  36sb08.cha 3 0 00 mj .
+allcorpora  90325  mj  36sb09.cha 3 0 00 un palo mj y éstas qué son ?
+allcorpora  90376  mj  36sb09.cha 3 0 00 mj .
+allcorpora  90383  mj  36sb09.cha 3 0 00 mj .
+allcorpora  90389  mh  36sb09.cha 3 0 00 mh .
+allcorpora  90403  mj  36sb09.cha 3 0 00 mj .
+allcorpora  90411  mj  36sb09.cha 3 0 00 mj .
+allcorpora  90420  mj  36sb09.cha 3 0 00 mj ésta es otra nena él es un niño éste es otro bebé .
+allcorpora  90421  mj  36sb09.cha 3 0 00 mj .
+allcorpora  90422  mj  36sb09.cha 3 0 00 mj .
+allcorpora  90489  mj  36sb11.cha 3 0 00 mj .
+allcorpora  90490  mhm  36sb11.cha 3 0 00 mhm a ver vamos a darle la vuelta .
+allcorpora  90497  mhm  36sb11.cha 3 0 00 mhm .
+allcorpora  90510  mj  36sb11.cha 3 0 00 mj .
+allcorpora  90516  fut  36sb11.cha 3 0 00 ah jugando fut bol .
+allcorpora  90527  mh  36sb11.cha 3 0 00 mh ?
+allcorpora  90591  triángulo  36sb12.cha 3 0 00 un triángulo .
+allcorpora  90603  mmh  36sb12.cha 3 0 00 mmh éso qué es ?
+allcorpora  90690  hot  36sb12.cha 3 0 00 un hot cakes .
+allcorpora  90691  hot  36sb12.cha 3 0 00 hot cakes .
+allcorpora  90717  mmh  36sb12.cha 3 0 00 mmh las pinzas .
+allcorpora  90806  scobby  37.cha 2 2 29 es Scobby .
+allcorpora  90808  scobby  37.cha 2 2 29 vamos a ver lo que hace aquí Scobby en estos , en estos .
+allcorpora  90810  scobby  37.cha 2 2 29 y que está haciendo Scobby ?
+allcorpora  90815  scobby  37.cha 2 2 29 ahí , que está haciendo Scobby ?
+allcorpora  90824  scobby  37.cha 2 2 29 mira los amigos de Scobby , que están haciendo ?
+allcorpora  90832  scobby  37.cha 2 2 29 a Scobby y otros perrinos .
+allcorpora  90945  mm  37.cha 2 2 29 mm !
+allcorpora  90989  puf  37.cha 2 2 29 puf , y mira , mira , mira cuantas cosas !
+allcorpora  91272  mm  38.cha 2 3 13 mm .
+allcorpora  91293  mm  38.cha 2 3 13 mm .
+allcorpora  91371  scobby  38.cha 2 3 13 te traigo a Scobby , y lo haces aquí , eh ?
+allcorpora  91372  scobby  38.cha 2 3 13 lo , lo haces jugando con Scobby ?
+allcorpora  91391  guau  38.cha 2 3 13 el gua guau ?
+allcorpora  91393  guau  38.cha 2 3 13 el gua guau , se me hizo raro , eh ?
+allcorpora  91423  schutz  38.cha 2 3 13 ah , en la calle Schutz , bueno .
+allcorpora  91484  friisísimo  38.cha 2 3 13 uy , friísimo , friisísimo , super friisísimo .
+allcorpora  91484  friisísimo  38.cha 2 3 13 uy , friísimo , friisísimo , super friisísimo .
+allcorpora  91565  guau  38.cha 2 3 13 quien lo llaman gua guau , hija ?
+allcorpora  91602  guau  38.cha 2 3 13 lo del gua guau está quedando .
+allcorpora  91604  guau  38.cha 2 3 13 eso de gua guau .
+allcorpora  91612  mm  38.cha 2 3 13 mm .
+allcorpora  91613  miau  38.cha 2 3 13 que hace miau miau .
+allcorpora  91613  miau  38.cha 2 3 13 que hace miau miau .
+allcorpora  91626  mm  38.cha 2 3 13 mm .
+allcorpora  91649  perspectiva  38.cha 2 3 13 es que ahora lo estás viendo desde otra perspectiva , hija .
+allcorpora  91653  guau  38.cha 2 3 13 pero desde cuando le llamas gua guau ?
+allcorpora  91691  mm  38.cha 2 3 13 mm ?
+allcorpora  91793  mm  39.cha 2 3 28 mm .
+allcorpora  91818  chups  39.cha 2 3 28 no , no es un chupa chups .
+allcorpora  91825  mm  39.cha 2 3 28 mm ?
+allcorpora  91866  mm  39.cha 2 3 28 mm .
+allcorpora  92015  mm  40.cha 2 4 13 mm .
+allcorpora  92031  mm  40.cha 2 4 13 mm .
+allcorpora  92147  mm  41.cha 2 4 13 mm .
+allcorpora  92194  mm  41.cha 2 4 13 mm .
+allcorpora  92238  vergüenza  41.cha 2 4 13 que vergüenza !
+allcorpora  92252  pingüino  41.cha 2 4 13 todo lo que tenemos , el pingüino ala , ala .
+allcorpora  92257  pingüino  41.cha 2 4 13 como se llama el pingüino ?
+allcorpora  92299  mm  41.cha 2 4 13 tienes que comer un poquito , y si lo encuentras te lo coges tu , mm ?
+allcorpora  92343  ding  42.cha 2 4 28 ah , los Bambis del ding dong , venga .
+allcorpora  92343  dong  42.cha 2 4 28 ah , los Bambis del ding dong , venga .
+allcorpora  92449  viina  42.cha 2 4 28 es una viina .
+allcorpora  92455  viina  42.cha 2 4 28 con la viina , que accidente tuvimos ?
+allcorpora  92536  bruff  42.cha 2 4 28 bruff !
+allcorpora  92539  platform  42.cha 2 4 28 platform .
+allcorpora  92540  platform  42.cha 2 4 28 platform , a que no sabes en que está en inglés o en español , platform ?
+allcorpora  92540  platform  42.cha 2 4 28 platform , a que no sabes en que está en inglés o en español , platform ?
+allcorpora  92541  platform  42.cha 2 4 28 claro , en inglés , está en inglés , platform .
+allcorpora  92547  mm  42.cha 2 4 28 mm .
+allcorpora  92653  monstruo  42.cha 2 4 28 encuentra un monstruo .
+allcorpora  92658  monstruo  42.cha 2 4 28 no , a ver si te acuerda tu , no me acuerdo que le dice el monstruo a Alicia .
+allcorpora  92662  monstruo  42.cha 2 4 28 ah , la coge ella no se la da el monstruo .
+allcorpora  92672  mm  42.cha 2 4 28 mm ?
+allcorpora  92709  belenn  42.cha 2 4 28 y se la contaste a al , Portal de Belenn este que hiciste , la película ?
+allcorpora  92725  mm  42.cha 2 4 28 mm .
+allcorpora  92734  mm  42.cha 2 4 28 mm .
+allcorpora  92848  mm  43.cha 2 5 13 a ver , si la sabes cantar tu , a ver si te acuerdas , mm ?
+allcorpora  93057  mm  43.cha 2 5 13 mm .
+allcorpora  93143  mm  44.cha 2 5 13 mm .
+allcorpora  93158  mm  44.cha 2 5 13 mm .
+allcorpora  93180  mm  44.cha 2 5 13 mm ?
+allcorpora  93184  mm  44.cha 2 5 13 mm .
+allcorpora  93190  mm  44.cha 2 5 13 mm .
+allcorpora  93202  mm  44.cha 2 5 13 a que no sabes de que va disfrazado , mm ?
+allcorpora  93245  prnn  44.cha 2 5 13 prnn .
+allcorpora  93294  mm  44.cha 2 5 13 mm .
+allcorpora  93305  mm  44.cha 2 5 13 mm .
+allcorpora  93306  mm  44.cha 2 5 13 mm .
+allcorpora  93335  mm  44.cha 2 5 13 mm , mm , mm !
+allcorpora  93335  mm  44.cha 2 5 13 mm , mm , mm !
+allcorpora  93335  mm  44.cha 2 5 13 mm , mm , mm !
+allcorpora  93379  mm  45.cha 2 5 27 mm .
+allcorpora  93396  mm  45.cha 2 5 27 mm ?
+allcorpora  93405  mm  45.cha 2 5 27 mm .
+allcorpora  93409  mm  45.cha 2 5 27 mm .
+allcorpora  93414  snif  45.cha 2 5 27 snif , snif , snif !
+allcorpora  93414  snif  45.cha 2 5 27 snif , snif , snif !
+allcorpora  93414  snif  45.cha 2 5 27 snif , snif , snif !
+allcorpora  93428  mm  45.cha 2 5 27 bueno si , a quien viste en la calle hoy , mm ?
+allcorpora  93430  mm  45.cha 2 5 27 mm ?
+allcorpora  93536  mm  45.cha 2 5 27 mm ?
+allcorpora  93548  mm  45.cha 2 5 27 anda , y no les preguntamos si tenían a Asterix y Obelix , vaya fallo , mm ?
+allcorpora  93559  mm  45.cha 2 5 27 mm .
+allcorpora  93587  mm  45.cha 2 5 27 ah , al principe no lo vi , mm ?
+allcorpora  93608  mm  45.cha 2 5 27 mm ?
+allcorpora  93622  scobby  45.cha 2 5 27 es la misma que la de Scobby ?
+allcorpora  93623  scobby  45.cha 2 5 27 cual es la madastra de Scobby ?
+allcorpora  93624  scobby  45.cha 2 5 27 el perrin Scobby tiene una madastra también , mala .
+allcorpora  93627  socbby  45.cha 2 5 27 que lio , no se cual es la de Socbby .
+allcorpora  93637  mm  45.cha 2 5 27 mm .
+allcorpora  93648  mm  45.cha 2 5 27 mm .
+allcorpora  93666  mm  45.cha 2 5 27 y sobre , sobre con las madastras , si , con todos , con las madastras , con los niños y con todos , mm ?
+allcorpora  93671  mm  45.cha 2 5 27 mm .
+allcorpora  93677  mm  45.cha 2 5 27 mm .
+allcorpora  93706  mm  45.cha 2 5 27 mm .
+allcorpora  93721  mm  45.cha 2 5 27 mm .
+allcorpora  93815  s  46.cha 2 6 12 s , que es una sorpresa .
+allcorpora  93847  puf  46.cha 2 6 12 huele un poco a mezcla , si , a mezcla entre plastico y colonia , ay , puf !
+allcorpora  93941  mm  46.cha 2 6 12 mm .
+allcorpora  94093  mm  46.cha 2 6 12 mm ?
+allcorpora  94132  mm  47.cha 2 6 26 mm !
+allcorpora  94148  mm  47.cha 2 6 26 mm .
+allcorpora  94155  mm  47.cha 2 6 26 mm !
+allcorpora  94194  mm  47.cha 2 6 26 mm .
+allcorpora  94195  mm  47.cha 2 6 26 mm , vaya Barbie mas guapa !
+allcorpora  94199  mm  47.cha 2 6 26 mm , me da un poco de miedo , ay , ay , ay !
+allcorpora  94251  mm  47.cha 2 6 26 mm .
+allcorpora  94252  mm  47.cha 2 6 26 mm .
+allcorpora  94352  mm  47.cha 2 6 26 mm .
+allcorpora  94369  gnomo  47.cha 2 6 26 un gnomo de Bea , y que hace ese gnomo ?
+allcorpora  94369  gnomo  47.cha 2 6 26 un gnomo de Bea , y que hace ese gnomo ?
+allcorpora  94396  mm  47.cha 2 6 26 mm .
+allcorpora  94531  mm  47.cha 2 6 26 mm .
+allcorpora  94535  mm  47.cha 2 6 26 mm .
+allcorpora  94541  mm  47.cha 2 6 26 mm .
+allcorpora  94588  mm  48.cha 2 7 09 mm .
+allcorpora  94589  mm  48.cha 2 7 09 mm .
+allcorpora  94668  mm  48.cha 2 7 09 mm .
+allcorpora  94672  mm  48.cha 2 7 09 mm .
+allcorpora  94678  mm  48.cha 2 7 09 mm .
+allcorpora  94680  mm  48.cha 2 7 09 mm .
+allcorpora  94681  mm  48.cha 2 7 09 mm .
+allcorpora  94703  mm  48.cha 2 7 09 mm .
+allcorpora  94704  mm  48.cha 2 7 09 mm .
+allcorpora  94718  mm  48.cha 2 7 09 mm .
+allcorpora  94719  mm  48.cha 2 7 09 mm .
+allcorpora  94720  mm  48.cha 2 7 09 mm .
+allcorpora  94722  mm  48.cha 2 7 09 mm .
+allcorpora  94765  mm  48.cha 2 7 09 mm , mm , mm !
+allcorpora  94765  mm  48.cha 2 7 09 mm , mm , mm !
+allcorpora  94765  mm  48.cha 2 7 09 mm , mm , mm !
+allcorpora  94766  mm  48.cha 2 7 09 mm , mm , mm !
+allcorpora  94766  mm  48.cha 2 7 09 mm , mm , mm !
+allcorpora  94766  mm  48.cha 2 7 09 mm , mm , mm !
+allcorpora  94811  mm  48.cha 2 7 09 mm .
+allcorpora  94825  spaghettis  48.cha 2 7 09 spaghettis .
+allcorpora  94828  spaghettis  48.cha 2 7 09 hacía , y tiraba por el spaghettis pa arriba , que se los daba el cocinero , te acuerdas ?
+allcorpora  94831  mm  48.cha 2 7 09 mm .
+allcorpora  94833  mm  48.cha 2 7 09 mm .
+allcorpora  94864  mm  48.cha 2 7 09 mm , mm .
+allcorpora  94864  mm  48.cha 2 7 09 mm , mm .
+allcorpora  94876  spaghettis  48.cha 2 7 09 está en reserva , pero me tienes que comer bien la carne con spaghettis , eh !
+allcorpora  94895  mm  48.cha 2 7 09 mm .
+allcorpora  94900  mm  48.cha 2 7 09 mm .
+allcorpora  94910  mm  48.cha 2 7 09 mm .
+allcorpora  94911  mm  48.cha 2 7 09 mm .
+allcorpora  94922  mm  48.cha 2 7 09 mm .
+allcorpora  94936  mm  48.cha 2 7 09 mm , no hables con la boca llena !
+allcorpora  94943  mm  48.cha 2 7 09 mm .
+allcorpora  94968  mm  48.cha 2 7 09 mm .
+allcorpora  94970  qu  48.cha 2 7 09 no quieres qu ete llame Irenita la fantastica ?
+allcorpora  94981  mm  48.cha 2 7 09 mm , mastica bien , mastica .
+allcorpora  95005  mm  48.cha 2 7 09 mm .
+allcorpora  95022  mm  48.cha 2 7 09 mm , mm .
+allcorpora  95022  mm  48.cha 2 7 09 mm , mm .
+allcorpora  95040  spaghettis  48.cha 2 7 09 te gusta y los spaghettis con carne como los de hoy con * , no te gustan ?
+allcorpora  95042  mm  48.cha 2 7 09 mm .
+allcorpora  95062  mm  49.cha 2 7 28 mm .
+allcorpora  95068  mm  49.cha 2 7 28 claro , bueno , y ahora te lo dejo solo cuando estás conmigo , mm ?
+allcorpora  95120  mm  49.cha 2 7 28 mm .
+allcorpora  95134  tchs  49.cha 2 7 28 a ver , esto te la habré , tchs , te la habré mami , no , porque la estás abriendo al revés !
+allcorpora  95134  abriendo  49.cha 2 7 28 a ver , esto te la habré , tchs , te la habré mami , no , porque la estás abriendo al revés !
+allcorpora  95137  mm  49.cha 2 7 28 mm .
+allcorpora  95142  mm  49.cha 2 7 28 mm .
+allcorpora  95147  mm  49.cha 2 7 28 mm .
+allcorpora  95148  mm  49.cha 2 7 28 mm .
+allcorpora  95204  uff  49.cha 2 7 28 no , vídeo va a decir está diciendo , uff , que niña mas maleducada estoy grabando !
+allcorpora  95256  guau  49.cha 2 7 28 gua guau gua .
+allcorpora  95262  mm  49.cha 2 7 28 mm , y que hicieron allí ?
+allcorpora  95275  mm  49.cha 2 7 28 mm .
+allcorpora  95444  mm  49.cha 2 7 28 mm .
+allcorpora  95626  fútbol  50.cha 2 8 14 fútbol .
+allcorpora  95627  fútbol  50.cha 2 8 14 no sabes lo que es fútbol ?
+allcorpora  95628  fútbol  50.cha 2 8 14 que es fútbol ?
+allcorpora  95644  buff  50.cha 2 8 14 buff , cada casita es distinta esta es un chalet , esta es un breakhouse .
+allcorpora  95644  chalet  50.cha 2 8 14 buff , cada casita es distinta esta es un chalet , esta es un breakhouse .
+allcorpora  95739  mm  50.cha 2 8 14 mm .
+allcorpora  95740  construcción  50.cha 2 8 14 esto es un juego de construcción .
+allcorpora  95741  construir  50.cha 2 8 14 para construir cosas .
+allcorpora  95829  construcción  50.cha 2 8 14 un juego de construcción también ?
+allcorpora  95830  críquet  50.cha 2 8 14 uy , eso es un juego de críquet , es un poco , hum , pa jugar .
+allcorpora  95836  mm  50.cha 2 8 14 mm .
+allcorpora  95858  buff  50.cha 2 8 14 buff , pero cabra el elefante en la cuna ?
+allcorpora  95864  mm  50.cha 2 8 14 mm .
+allcorpora  95922  and  51.cha 2 8 27 green and grey .
+allcorpora  95924  mm  51.cha 2 8 27 mm , esto no es tan fácil , eh ?
+allcorpora  95929  stickers  51.cha 2 8 27 es que no se como es hija , esto de los stickers .
+allcorpora  95988  mm  51.cha 2 8 27 mm .
+allcorpora  96019  mm  51.cha 2 8 27 mm .
+allcorpora  96065  mm  51.cha 2 8 27 cuenta lo que hay aquí en este cuadro , en esta página , que hay , tu que ves en la página , mm ?
+allcorpora  96068  mm  51.cha 2 8 27 mm .
+allcorpora  96070  mm  51.cha 2 8 27 mm .
+allcorpora  96071  mm  51.cha 2 8 27 mm .
+allcorpora  96114  mm  51.cha 2 8 27 mm , mm , mm .
+allcorpora  96114  mm  51.cha 2 8 27 mm , mm , mm .
+allcorpora  96114  mm  51.cha 2 8 27 mm , mm , mm .
+allcorpora  96126  six  51.cha 2 8 27 six , seven .
+allcorpora  96156  roquefort  51.cha 2 8 27 Roquefort ?
+allcorpora  96157  roquefort  51.cha 2 8 27 pero bueno , que está haciendo ahí Roquefort ?
+allcorpora  96163  mm  51.cha 2 8 27 mm .
+allcorpora  96167  mm  51.cha 2 8 27 mm , mm , esa boca fea es la que pone el mayordomo , esa , esa !
+allcorpora  96167  mm  51.cha 2 8 27 mm , mm , esa boca fea es la que pone el mayordomo , esa , esa !
+allcorpora  96169  mm  51.cha 2 8 27 mm .
+allcorpora  96175  piug  51.cha 2 8 27 eh , piug , piug , piug !
+allcorpora  96175  piug  51.cha 2 8 27 eh , piug , piug , piug !
+allcorpora  96175  piug  51.cha 2 8 27 eh , piug , piug , piug !
+allcorpora  96192  mm  51.cha 2 8 27 mm .
+allcorpora  96223  bruff  51.cha 2 8 27 pero bueno , se le va a quemar este dedo gordo , se le va a poner , bruff !
+allcorpora  96243  and  51.cha 2 8 27 and , what color is this ?
+allcorpora  96243  what  51.cha 2 8 27 and , what color is this ?
+allcorpora  96244  what  51.cha 2 8 27 what color is this ?
+allcorpora  96245  what  51.cha 2 8 27 Irene , what color is this ?
+allcorpora  96249  what  51.cha 2 8 27 Irene , what color is this ?
+allcorpora  96250  not  51.cha 2 8 27 no , this is not black .
+allcorpora  96250  black  51.cha 2 8 27 no , this is not black .
+allcorpora  96273  roquefort  51.cha 2 8 27 y Roquefort , y Fru fru ?
+allcorpora  96275  mm  51.cha 2 8 27 mm , ah , si .
+allcorpora  96286  nafallet  51.cha 2 8 27 Napoleon y Nafallet .
+allcorpora  96289  nafallet  51.cha 2 8 27 no , Napoleon no tiene cara de morder , pero Nafallet .
+allcorpora  96290  uau  51.cha 2 8 27 ah , está diciendo , uau , uau , uau !
+allcorpora  96290  uau  51.cha 2 8 27 ah , está diciendo , uau , uau , uau !
+allcorpora  96290  uau  51.cha 2 8 27 ah , está diciendo , uau , uau , uau !
+allcorpora  96313  mm  51.cha 2 8 27 mm !
+allcorpora  96318  mm  51.cha 2 8 27 mm , mm , mm , mm !
+allcorpora  96318  mm  51.cha 2 8 27 mm , mm , mm , mm !
+allcorpora  96318  mm  51.cha 2 8 27 mm , mm , mm , mm !
+allcorpora  96318  mm  51.cha 2 8 27 mm , mm , mm , mm !
+allcorpora  96321  mm  51.cha 2 8 27 mm ?
+allcorpora  96326  and  51.cha 2 8 27 and now , please , what colour is this ?
+allcorpora  96326  what  51.cha 2 8 27 and now , please , what colour is this ?
+allcorpora  96327  mm  51.cha 2 8 27 mm , mm , mm , mm !
+allcorpora  96327  mm  51.cha 2 8 27 mm , mm , mm , mm !
+allcorpora  96327  mm  51.cha 2 8 27 mm , mm , mm , mm !
+allcorpora  96327  mm  51.cha 2 8 27 mm , mm , mm , mm !
+allcorpora  96328  but  51.cha 2 8 27 yes , but , what colour is this , please ?
+allcorpora  96328  what  51.cha 2 8 27 yes , but , what colour is this , please ?
+allcorpora  96329  what  51.cha 2 8 27 this , what color is this ?
+allcorpora  96331  what  51.cha 2 8 27 what color is this ?
+allcorpora  96332  what  51.cha 2 8 27 what color is this ?
+allcorpora  96333  it  51.cha 2 8 27 orange , no , it is no orange , what colour is this ?
+allcorpora  96333  what  51.cha 2 8 27 orange , no , it is no orange , what colour is this ?
+allcorpora  96334  what  51.cha 2 8 27 come on , what colour is this ?
+allcorpora  96335  thats  51.cha 2 8 27 blue , oh , thats well , its .
+allcorpora  96335  its  51.cha 2 8 27 blue , oh , thats well , its .
+allcorpora  96346  mm  51.cha 2 8 27 mm ?
+allcorpora  96369  mm  51.cha 2 8 27 mm .
+allcorpora  96447  pink  52.cha 2 9 11 pink , si .
+allcorpora  96448  transparent  52.cha 2 9 11 uy , esto es transparente , transparent , ves ?
+allcorpora  96449  transparent  52.cha 2 9 11 transparent , mira como brilla Irene !
+allcorpora  96451  pink  52.cha 2 9 11 brilla , esto es pink , si .
+allcorpora  96454  pink  52.cha 2 9 11 pink , también .
+allcorpora  96456  pink  52.cha 2 9 11 es todo pink !
+allcorpora  96458  pink  52.cha 2 9 11 porque tu también vas todo de pink .
+allcorpora  96459  and  52.cha 2 9 11 red , yellow , and this ?
+allcorpora  96460  and  52.cha 2 9 11 green , and this ?
+allcorpora  96461  what  52.cha 2 9 11 what colour is this ?
+allcorpora  96463  and  52.cha 2 9 11 and this , what colour is this ?
+allcorpora  96463  what  52.cha 2 9 11 and this , what colour is this ?
+allcorpora  96466  and  52.cha 2 9 11 and what colour is this ?
+allcorpora  96466  what  52.cha 2 9 11 and what colour is this ?
+allcorpora  96472  black  52.cha 2 9 11 black .
+allcorpora  96479  abriendo  52.cha 2 9 11 a ver , ah , si es que la estamos abriendo por el revés !
+allcorpora  96482  abriendo  52.cha 2 9 11 ah , no , la estábamos abriendo bien !
+allcorpora  96553  platform  52.cha 2 9 11 platform , muy bien , very good !
+allcorpora  96554  platform  52.cha 2 9 11 venga , vamos a dejar aquí la platform , venga .
+allcorpora  96662  mm  52.cha 2 9 11 mm , mm , mm .
+allcorpora  96662  mm  52.cha 2 9 11 mm , mm , mm .
+allcorpora  96662  mm  52.cha 2 9 11 mm , mm , mm .
+allcorpora  96669  last  52.cha 2 9 11 y , the last one .
+allcorpora  96724  mm  52.cha 2 9 11 mm , mm , bueno .
+allcorpora  96724  mm  52.cha 2 9 11 mm , mm , bueno .
+allcorpora  96756  sinvergüenza  52.cha 2 9 11 que sinvergüenza , y mira pa mi , pa hacer sufrir a mama !
+allcorpora  96757  sinvergüenza  52.cha 2 9 11 ay , que sinvergüenza es !
+allcorpora  96781  iiii  52.cha 2 9 11 iiii , me hice pupa !
+allcorpora  96812  buff  52.cha 2 9 11 ay , si hija , pero donde van , buff , los regalos de reyes ya hace tiempo , tragémos muchas cosas !
+allcorpora  96821  sif  52.cha 2 9 11 pareces Sif !
+allcorpora  96822  sif  52.cha 2 9 11 pareces Sif !
+allcorpora  96823  sif  52.cha 2 9 11 tu que eres como Sif o como Ande ?
+allcorpora  96856  mm  52.cha 2 9 11 mm .
+allcorpora  96860  mm  52.cha 2 9 11 mm , y Bambi que dijo ?
+allcorpora  96891  platform  52.cha 2 9 11 ah , que tienes que poner el platform .
+allcorpora  96892  platform  52.cha 2 9 11 donde se pone el platform ?
+allcorpora  96933  mm  53.cha 2 9 26 mm .
+allcorpora  96958  abriendo  53.cha 2 9 26 de como se mueve el barco , están , oh , abriendo la boquita , oh , lo ves ?
+allcorpora  96993  mm  53.cha 2 9 26 de que color son , mm ?
+allcorpora  97004  mm  53.cha 2 9 26 mm .
+allcorpora  97014  mm  53.cha 2 9 26 mm .
+allcorpora  97046  mm  53.cha 2 9 26 ah , mm , mm , como se llamaba ?
+allcorpora  97046  mm  53.cha 2 9 26 ah , mm , mm , como se llamaba ?
+allcorpora  97050  mm  53.cha 2 9 26 mm , yo creo que era Gonzalín .
+allcorpora  97064  bruff  53.cha 2 9 26 le pincho el balón , bruff , le hizo una cantidad de gamberraditas !
+allcorpora  97079  mm  53.cha 2 9 26 mm .
+allcorpora  97080  mm  53.cha 2 9 26 mm .
+allcorpora  97098  mm  53.cha 2 9 26 mm !
+allcorpora  97162  mm  53.cha 2 9 26 mm , y que está haciendo ?
+allcorpora  97206  mm  53.cha 2 9 26 mm ?
+allcorpora  97390  mm  54.cha 2 10 13 mm .
+allcorpora  97427  mm  54.cha 2 10 13 mm ?
+allcorpora  97434  mm  54.cha 2 10 13 mm .
+allcorpora  97485  mm  54.cha 2 10 13 mm .
+allcorpora  97529  mm  54.cha 2 10 13 mm .
+allcorpora  97530  mm  54.cha 2 10 13 mm .
+allcorpora  97575  mm  54.cha 2 10 13 mm .
+allcorpora  97579  mm  54.cha 2 10 13 mm .
+allcorpora  97638  mm  54.cha 2 10 13 mm .
+allcorpora  97649  buff  54.cha 2 10 13 y pasó algo mas , porque yo ya , buff !
+allcorpora  97697  xenxo  54.cha 2 10 13 a la playa San Xenxo , de vacaciones !
+allcorpora  97723  uff  54.cha 2 10 13 uff , un poco brutita si que eres , eh !
+allcorpora  97765  mm  55.cha 2 10 28 mm ?
+allcorpora  97864  mm  55.cha 2 10 28 mm .
+allcorpora  97953  mm  55.cha 2 10 28 mm .
+allcorpora  98010  mm  55.cha 2 10 28 mm .
+allcorpora  98018  mm  55.cha 2 10 28 mm .
+allcorpora  98030  mm  55.cha 2 10 28 mm .
+allcorpora  98090  mm  55.cha 2 10 28 mm , casi ninguno , deben quedar este y otros dos .
+allcorpora  98110  puf  56.cha 2 11 11 puf , esa es muy rara !
+allcorpora  98256  xson  56.cha 2 11 11 y de estos objetos que hay aquí , de todos estos que hay aquí , y esto que son y esto que hay aquí dentro , que xson ?
+allcorpora  98401  buff  56.cha 2 11 11 buff , esta .
+allcorpora  98508  buff  56.cha 2 11 11 ya pero buff !
+allcorpora  98600  cassette  56.cha 2 11 11 una cassette .
+allcorpora  98630  sandwich  56.cha 2 11 11 y de aquí abajo , que tiene que ver con el sandwich ?
+allcorpora  98631  sandwich  56.cha 2 11 11 que tiene que ver con el sandwich de esos objetos que hay ahí .
+allcorpora  98633  sandwich  56.cha 2 11 11 café , para tomarlo con el sandwich ?
+allcorpora  98639  sandwich  56.cha 2 11 11 no me digas que la asociación es sandwich .
+allcorpora  98640  sandwich  56.cha 2 11 11 si , la asociación es sandwich café , o bien eliges entre destornillador , calcetín , hilo .
+allcorpora  98641  sandwich  56.cha 2 11 11 sandwich con café .
+allcorpora  98697  shh  56.cha 2 11 11 shh !
+allcorpora  98698  shh  56.cha 2 11 11 shh !
+allcorpora  98778  mm  57.cha 2 11 27 mm .
+allcorpora  98786  xenxo  57.cha 2 11 27 ah , San Xenxo .
+allcorpora  98787  sanxenxo  57.cha 2 11 27 ah , era en SanXenxo !
+allcorpora  98842  mm  57.cha 2 11 27 mm !
+allcorpora  98907  mm  57.cha 2 11 27 mm !
+allcorpora  98990  mm  57.cha 2 11 27 mm !
+allcorpora  99138  mm  57.cha 2 11 27 mm .
+allcorpora  99186  mm  57.cha 2 11 27 mm .
+allcorpora  99231  vergüenza  57.cha 2 11 27 si para que luego pase mucha vergüenza !
+allcorpora  99263  mm  58.cha 3 0 24 mm .
+allcorpora  99274  mm  58.cha 3 0 24 mm .
+allcorpora  99365  vietnamitas  58.cha 3 0 24 los Vietnamitas .
+allcorpora  99379  puf  58.cha 3 0 24 caca , pero una caca que era , puf .
+allcorpora  99397  mm  58.cha 3 0 24 mm .
+allcorpora  99416  drink  58.cha 3 0 24 ponía drink me no read me , drink me .
+allcorpora  99416  drink  58.cha 3 0 24 ponía drink me no read me , drink me .
+allcorpora  99424  mm  58.cha 3 0 24 mm ?
+allcorpora  99426  mand  58.cha 3 0 24 si , no yo no te estoy mand .
+allcorpora  99485  mm  58.cha 3 0 24 mm ?
+allcorpora  99498  mm  58.cha 3 0 24 mm .
+allcorpora  99572  vietnamita  59.cha 3 1 22 parece Vietnamita , si .
+allcorpora  99586  mm  59.cha 3 1 22 mm !
+allcorpora  99589  auuu  59.cha 3 1 22 auuu !
+allcorpora  99605  mm  59.cha 3 1 22 mm .
+allcorpora  99606  mm  59.cha 3 1 22 mm !
+allcorpora  99607  mm  59.cha 3 1 22 mm .
+allcorpora  99646  uff  59.cha 3 1 22 uff , menos mal .
+allcorpora  99658  guau  59.cha 3 1 22 guau !
+allcorpora  99681  mm  59.cha 3 1 22 mm ?
+allcorpora  99717  mm  59.cha 3 1 22 mm !
+allcorpora  99738  vietnamita  59.cha 3 1 22 el cochino Vietnamita ?
+allcorpora  99739  vietnamita  59.cha 3 1 22 pero el gochín Vietnamita .
+allcorpora  99751  uau  59.cha 3 1 22 mira que cola , mira que cola , uau !
+allcorpora  99754  uay  59.cha 3 1 22 uay !
+allcorpora  99755  uay  59.cha 3 1 22 uay !
+allcorpora  99765  mm  59.cha 3 1 22 mm .
+allcorpora  99766  mm  59.cha 3 1 22 mm , mm !
+allcorpora  99766  mm  59.cha 3 1 22 mm , mm !
+allcorpora  99767  mm  59.cha 3 1 22 mm , mm !
+allcorpora  99767  mm  59.cha 3 1 22 mm , mm !
+allcorpora  99810  guay  59.cha 3 1 22 tu conoces , que hace , guay , guay , guay !
+allcorpora  99810  guay  59.cha 3 1 22 tu conoces , que hace , guay , guay , guay !
+allcorpora  99810  guay  59.cha 3 1 22 tu conoces , que hace , guay , guay , guay !
+allcorpora  99838  uff  59.cha 3 1 22 uff , un azor !
+allcorpora  99924  mm  59.cha 3 1 22 mm !
+allcorpora  99952  puzzle  59.cha 3 1 22 ven a hacer el puzzle aquí , ven .
+allcorpora  99953  puzzle  59.cha 3 1 22 oye , Irene , al puzzle , oy , al puzzle al vídeo no le contaste nada del cole .
+allcorpora  99953  puzzle  59.cha 3 1 22 oye , Irene , al puzzle , oy , al puzzle al vídeo no le contaste nada del cole .
+allcorpora  100008  mm  60.cha 3 2 19 mm .
+allcorpora  100071  mm  60.cha 3 2 19 mm ?
+allcorpora  100081  mm  60.cha 3 2 19 mm !
+allcorpora  100083  mm  60.cha 3 2 19 mm .
+allcorpora  100097  mm  60.cha 3 2 19 mm !
+allcorpora  100101  mm  60.cha 3 2 19 mm !
+allcorpora  100115  mixta  60.cha 3 2 19 la señora pidió una paella mixta ?
+allcorpora  100117  mixta  60.cha 3 2 19 camarero , que fio hace y que viento , me apetece una paella mixta !
+allcorpora  100132  mixta  60.cha 3 2 19 ay , perdón , quiero una paella mixta .
+allcorpora  100137  puzzles  60.cha 3 2 19 pero que puzzles dices que solía monta un muro , no se cual dices ?
+allcorpora  100141  puzzles  60.cha 3 2 19 y yo no se ni cuales son esos puzzles , que son esos de aquí ?
+allcorpora  100148  puzzles  60.cha 3 2 19 dice la coneja , si se pueden usar esos puzzles de mayores que hay ahí ?
+allcorpora  100159  puzzles  60.cha 3 2 19 estos puzzles dices ?
+allcorpora  100165  puzzles  60.cha 3 2 19 hala , cuantos puzzles !
+allcorpora  100169  puzzle  60.cha 3 2 19 a ver de que puzzle son , venga .
+allcorpora  100181  puzzle  60.cha 3 2 19 esta es el puzzle .
+allcorpora  100185  mm  60.cha 3 2 19 Notre Dame , mm , Notre Dame , no se como se llama , la verdad .
+allcorpora  100188  hoss  60.cha 3 2 19 son unos dibujos , no se de quien , pero son Calvin y Hoss .
+allcorpora  100190  hoss  60.cha 3 2 19 Calvin y Hoss .
+allcorpora  100195  puzzle  60.cha 3 2 19 hay que ponerlo aquí , madre que difícil es ese puzzle , y hay que poner este señor .
+allcorpora  100354  pingüinos  alf9102.cha 2 3 07 y éstos , pingüinos .
+allcorpora  100529  click  alf9102.cha 2 3 07 eso es un click ; vamos a quitarlo de aquí .
+allcorpora  100585  puzzles  alf9102.cha 2 3 07 ; sí , sí cabe ; estupendo , ya has hecho los cuatro puzzles .
+allcorpora  100679  puzzle  alf9102.cha 2 3 07 mientras tú vas haciendo el puzzle , vale ?
+allcorpora  100680  puzzle  alf9102.cha 2 3 07 ya se está rebobinando ; hacemos el puzzle ?
+allcorpora  100812  mmhm  alf9105.cha 2 6 09 mmhm mmhm .
+allcorpora  100812  mmhm  alf9105.cha 2 6 09 mmhm mmhm .
+allcorpora  100921  mmhm  alf9105.cha 2 6 09 mmhm .
+allcorpora  100958  mmhm  alf9105.cha 2 6 09 mmhm mmhm ; anda , mira lo que hay aquí , Alfon .
+allcorpora  100958  mmhm  alf9105.cha 2 6 09 mmhm mmhm ; anda , mira lo que hay aquí , Alfon .
+allcorpora  101247  snoopy  alf9105.cha 2 6 09 la de Snoopy se ha visto bien ?
+allcorpora  101249  snoopy  alf9105.cha 2 6 09 la de Snoopy no está estropeada , verdad ?
+allcorpora  101431  mmhm  alf9109.cha 2 10 22 mmhm .
+allcorpora  101620  pst  e01.cha 0 11 09 pst .
+allcorpora  101627  pst  e01.cha 0 11 09 pst .
+allcorpora  101629  humbert  e01.cha 0 11 09 humbert !
+allcorpora  101634  pjj  e01.cha 0 11 09 pjj .
+allcorpora  101636  pjj  e01.cha 0 11 09 pjj .
+allcorpora  101637  kl  e01.cha 0 11 09 kl kl .
+allcorpora  101637  kl  e01.cha 0 11 09 kl kl .
+allcorpora  101643  l  e01.cha 0 11 09 jo te l ensenyo .
+allcorpora  101670  què  e01.cha 0 11 09 què són boniques .
+allcorpora  101676  què  e01.cha 0 11 09 què són boniques .
+allcorpora  101691  ps  e01.cha 0 11 09 ps .
+allcorpora  101695  pstj  e01.cha 0 11 09 pstj .
+allcorpora  101704  pst  e01.cha 0 11 09 pst .
+allcorpora  101727  humbert  e01.cha 0 11 09 humbert .
+allcorpora  101728  t  e01.cha 0 11 09 t agrada , eh ?
+allcorpora  101753  ps  e01.cha 0 11 09 ps .
+allcorpora  101765  cucut  e01.cha 0 11 09 cucut .
+allcorpora  101766  cucut  e01.cha 0 11 09 cucut .
+allcorpora  101767  cucut  e01.cha 0 11 09 cucut .
+allcorpora  101768  tatat  e01.cha 0 11 09 tatat .
+allcorpora  101775  humbert  e01.cha 0 11 09 no te puede coger el humbert .
+allcorpora  101787  ps  e01.cha 0 11 09 ps .
+allcorpora  101794  ps  e01.cha 0 11 09 ps .
+allcorpora  101795  gegant  e01.cha 0 11 09 el gegant del pi .
+allcorpora  101797  gegant  e01.cha 0 11 09 el gegant del pi .
+allcorpora  101799  gegant  e01.cha 0 11 09 el gegant de la ciutat .
+allcorpora  101799  ciutat  e01.cha 0 11 09 el gegant de la ciutat .
+allcorpora  101801  gegant  e01.cha 0 11 09 el gegant de la ciutat .
+allcorpora  101801  ciutat  e01.cha 0 11 09 el gegant de la ciutat .
+allcorpora  101809  pst  e01.cha 0 11 09 pst .
+allcorpora  101812  humbert  e01.cha 0 11 09 humbert .
+allcorpora  101818  m  e01.cha 0 11 09 m ho tornes ?
+allcorpora  101829  pst  e01.cha 0 11 09 pst .
+allcorpora  101831  humbert  e01.cha 0 11 09 al humbert .
+allcorpora  101840  sh  e01.cha 0 11 09 sh .
+allcorpora  101858  humbert  e01.cha 0 11 09 lo tiene humbert .
+allcorpora  101887  ps  e01.cha 0 11 09 ps .
+allcorpora  101927  humbert  e01.cha 0 11 09 al humbert ?
+allcorpora  101929  humbert  e01.cha 0 11 09 humbert .
+allcorpora  101931  humbert  e01.cha 0 11 09 éste es el humbert .
+allcorpora  101933  humbert  e01.cha 0 11 09 humbert .
+allcorpora  101935  ps  e01.cha 0 11 09 ps .
+allcorpora  101958  mmm  e01.cha 0 11 09 mmm .
+allcorpora  101964  vols  e01.cha 0 11 09 no vols ?
+allcorpora  101965  vols  e01.cha 0 11 09 no vols ?
+allcorpora  102000  cucut  e02.cha 1 00 10 cucut .
+allcorpora  102001  cucut  e02.cha 1 00 10 cucut .
+allcorpora  102003  cucut  e02.cha 1 00 10 cucut .
+allcorpora  102013  tatatatatatat  e02.cha 1 00 10 tatatatatatat .
+allcorpora  102061  mmm  e02.cha 1 00 10 mmm .
+allcorpora  102266  guau  e03.cha 1 02 00 guau , guau .
+allcorpora  102266  guau  e03.cha 1 02 00 guau , guau .
+allcorpora  102299  humbert  e04.cha 1 04 00 humbert .
+allcorpora  102570  què  e06.cha 1 05 20 teu què ?
+allcorpora  102798  dingdong  e08.cha 1 06 20 dingdong .
+allcorpora  102873  guau  e08.cha 1 06 20 guau , guau .
+allcorpora  102873  guau  e08.cha 1 06 20 guau , guau .
+allcorpora  103352  mag^ne^to^fón  e11.cha 1 08 29 mag^ne^to^fón .
+allcorpora  103785  n  e12.cha 1 09 19 lo quito y se lo enseñas al N A C cómo se pone .
+allcorpora  103785  c  e12.cha 1 09 19 lo quito y se lo enseñas al N A C cómo se pone .
+allcorpora  103844  plan^ta  e12.cha 1 09 19 plan^ta .
+allcorpora  103854  n  e12.cha 1 09 19 enséñasela a N A C .
+allcorpora  103854  c  e12.cha 1 09 19 enséñasela a N A C .
+allcorpora  104290  còmo  e14.cha 1 10 19 còmo te has hecho éso ?
+allcorpora  104504  guau^guau  e14.cha 1 10 19 hay un guau^guau ahí .
+allcorpora  104565  guau^guau  e14.cha 1 10 19 guau^guau .
+allcorpora  104566  guau^guau  e14.cha 1 10 19 guau^guau .
+allcorpora  104569  miau^miau  e14.cha 1 10 19 miau^miau .
+allcorpora  104571  pui^pui  e14.cha 1 10 19 sí mira el pájaro que hace pui^pui .
+allcorpora  104700  ring  e15.cha 1 11 12 ring ring .
+allcorpora  104700  ring  e15.cha 1 11 12 ring ring .
+allcorpora  104703  guau^guau  e15.cha 1 11 12 guau^guau .
+allcorpora  104727  guau^guau  e15.cha 1 11 12 hace guau^guau .
+allcorpora  104759  mon^ta^ñas  e15.cha 1 11 12 mon^ta^ñas .
+allcorpora  104869  rolet  e15.cha 1 11 12 rolet * .
+allcorpora  104872  rolet  e15.cha 1 11 12 rolet rolet .
+allcorpora  104872  rolet  e15.cha 1 11 12 rolet rolet .
+allcorpora  104875  rolet  e15.cha 1 11 12 rolet rolet .
+allcorpora  104875  rolet  e15.cha 1 11 12 rolet rolet .
+allcorpora  104879  rolet  e15.cha 1 11 12 rolet rolet .
+allcorpora  104879  rolet  e15.cha 1 11 12 rolet rolet .
+allcorpora  104885  rolet  e15.cha 1 11 12 oye Emilio me haces rolet a mí .
+allcorpora  105431  n  e17.cha 2 01 00 le has explicado a N A C que trajeron .
+allcorpora  105431  c  e17.cha 2 01 00 le has explicado a N A C que trajeron .
+allcorpora  105467  es^pon^ja  e17.cha 2 01 00 es^pon^ja .
+allcorpora  105525  ring^ring  e18.cha 2 1 00 te dirá feo , ring^ring , feo .
+allcorpora  105529  ring^ring^ring  e18.cha 2 1 00 ring^ring^ring .
+allcorpora  105611  ding  e18.cha 2 1 00 te hago ding dong ?
+allcorpora  105611  dong  e18.cha 2 1 00 te hago ding dong ?
+allcorpora  105613  ding  e18.cha 2 1 00 a jugar ding dong .
+allcorpora  105613  dong  e18.cha 2 1 00 a jugar ding dong .
+allcorpora  105632  ring^ring  e18.cha 2 1 00 ring^ring .
+allcorpora  105798  sinvergüenza  e19.cha 2 03 01 eres un sinvergüenza .
+allcorpora  106501  montse  e21.cha 2 05 24 con la Montse .
+allcorpora  106791  miau  e21.cha 2 05 24 gatitos miau .
+allcorpora  106985  trans^parente  e22.cha 2 06 18 trans^parente .
+allcorpora  107362  d  e23.cha 2 07 09 el d Artacán .
+allcorpora  107428  t  e23.cha 2 07 09 dile eres E T .
+allcorpora  107431  t  e23.cha 2 07 09 has ido a ver la película E T Nacho ?
+allcorpora  107434  t  e23.cha 2 07 09 has ido a ver la película E T ?
+allcorpora  107436  t  e23.cha 2 07 09 E T el extraterrestre .
+allcorpora  107791  vergüenza  e24.cha 2 07 24 ay cuanta vergüenza Emilio .
+allcorpora  107960  montse  e24.cha 2 07 24 la Montse del tren ?
+allcorpora  107961  montse  e24.cha 2 07 24 la Montse ?
+allcorpora  107962  montse  e24.cha 2 07 24 qué pinta la Montse aquí ?
+allcorpora  107963  montse  e24.cha 2 07 24 está en casa de la Montse el tren ?
+allcorpora  107971  montse  e24.cha 2 07 24 que no estaba en casa de la Montse ?
+allcorpora  107972  montse  e24.cha 2 07 24 no estaba en casa de la Montse ?
+allcorpora  107982  hacdock  e24.cha 2 07 24 este es el capitan Hacdock que está con un sextate .
+allcorpora  107982  sextate  e24.cha 2 07 24 este es el capitan Hacdock que está con un sextate .
+allcorpora  107991  haddock  e24.cha 2 07 24 este es el barco y el capitán Haddock eh ?
+allcorpora  108524  construcciones  e25.cha 2 08 28 a hacer construcciones .
+allcorpora  108558  fútbol  e25.cha 2 08 28 a fútbol .
+allcorpora  108593  doneu~la  e25.cha 2 08 28 doneu~la .
+allcorpora  108604  vols  e25.cha 2 08 28 la vols ?
+allcorpora  108606  vols  e25.cha 2 08 28 la vols tu ?
+allcorpora  108611  vols  e25.cha 2 08 28 la vols ?
+allcorpora  108612  vols  e25.cha 2 08 28 sí que la vols ?
+allcorpora  108617  posat  e25.cha 2 08 28 posat allà .
+allcorpora  108617  allà  e25.cha 2 08 28 posat allà .
+allcorpora  108622  lletja  e25.cha 2 08 28 lletja .
+allcorpora  108624  què  e25.cha 2 08 28 què faig ?
+allcorpora  108627  vols  e25.cha 2 08 28 la vols ?
+allcorpora  108632  molt  e25.cha 2 08 28 molt bé .
+allcorpora  108645  m  e25.cha 2 08 28 la m has donada a mi .
+allcorpora  108648  vols  e25.cha 2 08 28 tú la vols ?
+allcorpora  108649  doncs  e25.cha 2 08 28 doncs te la tiro allà .
+allcorpora  108649  allà  e25.cha 2 08 28 doncs te la tiro allà .
+allcorpora  108655  què  e25.cha 2 08 28 què vols dir ?
+allcorpora  108655  vols  e25.cha 2 08 28 què vols dir ?
+allcorpora  108664  molt  e25.cha 2 08 28 molt bé .
+allcorpora  108665  vols  e25.cha 2 08 28 la vols tú .
+allcorpora  108669  doncs  e25.cha 2 08 28 doncs .
+allcorpora  108676  d  e25.cha 2 08 28 aquesta és d ell .
+allcorpora  108682  tens  e25.cha 2 08 28 ara el tens de fer rabiar .
+allcorpora  108707  vols  e25.cha 2 08 28 la vols ?
+allcorpora  108825  vols  e25.cha 2 08 28 vols la pilota ?
+allcorpora  108826  vols  e25.cha 2 08 28 la vols ?
+allcorpora  108830  vols  e25.cha 2 08 28 vols la pilota ?
+allcorpora  108831  doncs  e25.cha 2 08 28 doncs té .
+allcorpora  108832  donc  e25.cha 2 08 28 te la donc .
+allcorpora  108833  chut  e25.cha 2 08 28 chut .
+allcorpora  108835  donc  e25.cha 2 08 28 ara a qui li donc ?
+allcorpora  108837  tiraràs  e25.cha 2 08 28 a qui li tiraràs ara ?
+allcorpora  108839  molt  e25.cha 2 08 28 molt bé .
+allcorpora  108910  què  e25.cha 2 08 28 què es lo que vas a hacer ahora ?
+allcorpora  109274  gispert  e26.cha 2 11 08 gispert ?
+allcorpora  109279  humbert  e26.cha 2 11 08 el Humbert .
+allcorpora  109305  humbert  e26.cha 2 11 08 humbert .
+allcorpora  109313  humbert  e26.cha 2 11 08 ignacio es Humbert .
+allcorpora  109476  cassette  e26.cha 2 11 08 se llevará el cassette .
+allcorpora  109540  mm  e27.cha 2 11 24 mm .
+allcorpora  109569  mm  e27.cha 2 11 24 lo comentamos luego hombre , mm .
+allcorpora  109570  natxo  e27.cha 2 11 24 el disco , mira Emilio , ahora no podemos poner el disco porque sabes qué pasa , que el Natxo , que el Natxo quiere más oirte hablar que cantar .
+allcorpora  109570  natxo  e27.cha 2 11 24 el disco , mira Emilio , ahora no podemos poner el disco porque sabes qué pasa , que el Natxo , que el Natxo quiere más oirte hablar que cantar .
+allcorpora  109592  mozart  e27.cha 2 11 24 le gusta Mozart , quién más ?
+allcorpora  109596  mm  e27.cha 2 11 24 mm .
+allcorpora  109634  natxo  e27.cha 2 11 24 ponme Parchís que lo vea Natxo que lo quiere verlo .
+allcorpora  109636  natxo  e27.cha 2 11 24 oye , qué le explicabas a Natxo .
+allcorpora  109675  natxo  e27.cha 2 11 24 pero si estarás solito cómo se las podrás enseñar a Natxo ?
+allcorpora  109680  natxo  e27.cha 2 11 24 oye hemos echado café , dile a Natxo si quiere café , café con leche .
+allcorpora  109681  mm  e27.cha 2 11 24 mm .
+allcorpora  109691  mm  e27.cha 2 11 24 mm .
+allcorpora  109728  g  ida9009.cha 2 7 29 dásela a Abuela que te la g yo te la guardo .
+allcorpora  109778  b  ida9009.cha 2 7 29 que b ?
+allcorpora  109796  mm  ida9009.cha 2 7 29 mm , qué rico , qué rico , mm , mm , mm , me está gustando mucho .
+allcorpora  109796  mm  ida9009.cha 2 7 29 mm , qué rico , qué rico , mm , mm , mm , me está gustando mucho .
+allcorpora  109796  mm  ida9009.cha 2 7 29 mm , qué rico , qué rico , mm , mm , mm , me está gustando mucho .
+allcorpora  109796  mm  ida9009.cha 2 7 29 mm , qué rico , qué rico , mm , mm , mm , me está gustando mucho .
+allcorpora  109802  mm  ida9009.cha 2 7 29 mm , qué rico , pero ya no tengo más ganas , se la daré a Mamá .
+allcorpora  109867  snorkel  ida9009.cha 2 7 29 vas a ir como una Snorkel ?
+allcorpora  109884  n  ida9009.cha 2 7 29 Idaira n ya está roto .
+allcorpora  110116  miau  ida9101.cha 2 11 29 miau , miau , miau , miau .
+allcorpora  110116  miau  ida9101.cha 2 11 29 miau , miau , miau , miau .
+allcorpora  110116  miau  ida9101.cha 2 11 29 miau , miau , miau , miau .
+allcorpora  110116  miau  ida9101.cha 2 11 29 miau , miau , miau , miau .
+allcorpora  110138  péiname  ida9101.cha 2 11 29 péiname , pa ir a la escuelita .
+allcorpora  110147  péiname  ida9101.cha 2 11 29 péiname , péineme pa ir a la escuelita .
+allcorpora  110147  péineme  ida9101.cha 2 11 29 péiname , péineme pa ir a la escuelita .
+allcorpora  110408  shh  ida9104.cha 3 3 02 shh no , no !
+allcorpora  110631  p  ida9108.cha 3 7 10 no se quería poner de p .
+allcorpora  110685  donald  ida9108.cha 3 7 10 no , los dibujos de el pato Donald ?
+allcorpora  110691  donald  ida9108.cha 3 7 10 el pato Donald sale de la tele ?
+allcorpora  110695  donald  ida9108.cha 3 7 10 vale ; pato Donald !
+allcorpora  110706  monstruo  ida9108.cha 3 7 10 el monstruo ?
+allcorpora  111050  d  ida9208.cha 4 7 07 y d .
+allcorpora  111131  hmm  ida9208.cha 4 7 07 hmm .
+allcorpora  111132  hmm  ida9208.cha 4 7 07 y entonces tocó , en una puerta , pum pum , pum , a ver si en esa casa lo querían hmm , para trabajar , para ganar dinero , y abrió una señora , ves , que sólo se le ven los pies ?
+allcorpora  111204  donald  ida9208.cha 4 7 07 el del pato Donald , pero ahora te toca contármelo tú a mí .
+allcorpora  111217  donald  ida9208.cha 4 7 07 el señor no quería al pato Donald y al señor ?
+allcorpora  111225  donald  ida9208.cha 4 7 07 y dónde está el pato Donald ?
+allcorpora  111232  donald  ida9208.cha 4 7 07 pato Donald .
+allcorpora  111247  pii  ida9208.cha 4 7 07 pii pii .
+allcorpora  111247  pii  ida9208.cha 4 7 07 pii pii .
+allcorpora  111259  shh  ida9208.cha 4 7 07 las ardillas son unos animales , shh , chiquititos que viven en los árboles .
+allcorpora  111469  mot  lu20225.cha 2 2 25 no estás tomando aguacate , Mot ?
+allcorpora  111556  mm  lu20225.cha 2 2 25 mm .
+allcorpora  111571  mm  lu20225.cha 2 2 25 mm .
+allcorpora  111649  mm  lu20225.cha 2 2 25 mm .
+allcorpora  111656  mm  lu20225.cha 2 2 25 mm .
+allcorpora  111747  tch  lu20227.cha 2 2 27 tch .
+allcorpora  111780  mm  lu20227.cha 2 2 27 por qué dicen que los Reyes Magos de Oriente en vez de decir los Reyes , mm , Bondadosos o no sé qué que era otra de las cualidades que .
+allcorpora  112235  m  lu20230.cha 2 2 30 m .
+allcorpora  112250  m  lu20230.cha 2 2 30 m .
+allcorpora  112256  pink  lu20230.cha 2 2 30 esta rosa pink ?
+allcorpora  112287  mm  lu20230.cha 2 2 30 mm .
+allcorpora  112314  ss  lu20230.cha 2 2 30 ss .
+allcorpora  112351  ss  lu20230.cha 2 2 30 ss .
+allcorpora  112484  ss  lu20230.cha 2 2 30 ss .
+allcorpora  112486  ff  lu20230.cha 2 2 30 ff .
+allcorpora  112842  cerrrar  lu20303.cha 2 3 03 hay que cerrrar bien .
+allcorpora  112874  mm  lu20303.cha 2 3 03 mm .
+allcorpora  112929  mm  lu20303.cha 2 3 03 mm .
+allcorpora  112942  mm  lu20303.cha 2 3 03 mm .
+allcorpora  113027  mm  lu20303.cha 2 3 03 mm .
+allcorpora  113035  mm  lu20303.cha 2 3 03 mm .
+allcorpora  113078  s  lu20303.cha 2 3 03 la s ?
+allcorpora  113082  b  lu20303.cha 2 3 03 y la b ?
+allcorpora  113086  mm  lu20303.cha 2 3 03 mm .
+allcorpora  113088  mm  lu20303.cha 2 3 03 mm .
+allcorpora  113118  abriendo  lu20303.cha 2 3 03 lo estás abriendo .
+allcorpora  113121  abriéndo  lu20303.cha 2 3 03 pues así estás abriéndo lo , Lucía .
+allcorpora  113123  abriendo  lu20303.cha 2 3 03 lo estás abriendo .
+allcorpora  113163  mm  lu20303.cha 2 3 03 mm .
+allcorpora  113244  mm  lu20303.cha 2 3 03 mm .
+allcorpora  113688  jne  lu20305.cha 2 3 05 jne de Juana .
+allcorpora  113719  f  lu20305.cha 2 3 05 y la f de flor .
+allcorpora  113726  d  lu20305.cha 2 3 05 ahora la d , de .
+allcorpora  113727  d  lu20305.cha 2 3 05 la d de qué ?
+allcorpora  113728  d  lu20305.cha 2 3 05 de qué es la d ?
+allcorpora  113730  c  lu20305.cha 2 3 05 la c de casa .
+allcorpora  113731  c  lu20305.cha 2 3 05 la c .
+allcorpora  113732  d  lu20305.cha 2 3 05 la d .
+allcorpora  113736  b  lu20305.cha 2 3 05 me falta la b de bici .
+allcorpora  113750  b  lu20305.cha 2 3 05 la b .
+allcorpora  113751  b  lu20305.cha 2 3 05 dónde está la b ?
+allcorpora  113754  c  lu20305.cha 2 3 05 dónde está la c ?
+allcorpora  113756  c  lu20305.cha 2 3 05 la c de casa .
+allcorpora  113758  mm  lu20305.cha 2 3 05 mm .
+allcorpora  113766  b  lu20305.cha 2 3 05 la b .
+allcorpora  113778  d  lu20305.cha 2 3 05 está al revés la d .
+allcorpora  113779  d  lu20305.cha 2 3 05 tienes que poner la d derecha , Lucía .
+allcorpora  113792  mm  lu20305.cha 2 3 05 mm .
+allcorpora  113797  f  lu20305.cha 2 3 05 ahora hay que buscar la f .
+allcorpora  113798  f  lu20305.cha 2 3 05 dónde está la f ?
+allcorpora  113807  f  lu20305.cha 2 3 05 la f .
+allcorpora  113811  f  lu20305.cha 2 3 05 y la f ?
+allcorpora  113818  f  lu20305.cha 2 3 05 pon la f , Lucía .
+allcorpora  113821  f  lu20305.cha 2 3 05 la f aquí .
+allcorpora  113858  ffg  lu20305.cha 2 3 05 ffg .
+allcorpora  113859  g  lu20305.cha 2 3 05 g de .
+allcorpora  113860  g  lu20305.cha 2 3 05 g de gato .
+allcorpora  113861  fgh  lu20305.cha 2 3 05 fgh .
+allcorpora  113868  g  lu20305.cha 2 3 05 la g de gallina .
+allcorpora  113869  g  lu20305.cha 2 3 05 la g de gallina .
+allcorpora  113870  fg  lu20305.cha 2 3 05 la fg .
+allcorpora  113881  l  lu20305.cha 2 3 05 ahora nos falta la l .
+allcorpora  113926  m  lu20305.cha 2 3 05 m .
+allcorpora  113964  m  lu20305.cha 2 3 05 y ahora la m .
+allcorpora  113967  m  lu20305.cha 2 3 05 la m aquí .
+allcorpora  113977  p  lu20305.cha 2 3 05 la p .
+allcorpora  113980  q  lu20305.cha 2 3 05 la q .
+allcorpora  113982  q  lu20305.cha 2 3 05 la q .
+allcorpora  113986  q  lu20305.cha 2 3 05 va debajo la q .
+allcorpora  113987  r  lu20305.cha 2 3 05 la r de ratón .
+allcorpora  113989  s  lu20305.cha 2 3 05 la s .
+allcorpora  113990  s  lu20305.cha 2 3 05 aquí es la s .
+allcorpora  113991  m  lu20305.cha 2 3 05 m .
+allcorpora  114002  m  lu20305.cha 2 3 05 m .
+allcorpora  114003  m  lu20305.cha 2 3 05 m .
+allcorpora  114005  r  lu20305.cha 2 3 05 mira esta r derecha .
+allcorpora  114011  r  lu20305.cha 2 3 05 pon la bien la r .
+allcorpora  114016  q  lu20305.cha 2 3 05 y ahora nos falta la q .
+allcorpora  114029  q  lu20305.cha 2 3 05 hay que poner la q .
+allcorpora  114030  q  lu20305.cha 2 3 05 dónde está la q , Lucía ?
+allcorpora  114031  q  lu20305.cha 2 3 05 q de queso .
+allcorpora  114032  p  lu20305.cha 2 3 05 la p de pastel .
+allcorpora  114049  ñ  lu20305.cha 2 3 05 la ñ de Ñu .
+allcorpora  114063  m  lu20305.cha 2 3 05 y ahora la m .
+allcorpora  114070  n  lu20305.cha 2 3 05 la n de nido .
+allcorpora  114092  t  lu20305.cha 2 3 05 t .
+allcorpora  114101  w  lu20305.cha 2 3 05 u w .
+allcorpora  114111  w  lu20305.cha 2 3 05 w .
+allcorpora  114113  xilófono  lu20305.cha 2 3 05 xilófono .
+allcorpora  114116  windsurf  lu20305.cha 2 3 05 al lado de al lado del windsurf .
+allcorpora  114122  t  lu20305.cha 2 3 05 t .
+allcorpora  114142  t  lu20305.cha 2 3 05 ahora la t .
+allcorpora  114165  w  lu20305.cha 2 3 05 ahora la w .
+allcorpora  114167  x  lu20305.cha 2 3 05 la x .
+allcorpora  114172  z  lu20305.cha 2 3 05 y z .
+allcorpora  114222  regents  lu20305.cha 2 3 05 vive en un piso de Regents Park .
+allcorpora  114222  park  lu20305.cha 2 3 05 vive en un piso de Regents Park .
+allcorpora  114223  regents  lu20305.cha 2 3 05 Regents Park .
+allcorpora  114223  park  lu20305.cha 2 3 05 Regents Park .
+allcorpora  114323  k  lu20305.cha 2 3 05 la O y la k .
+allcorpora  114344  b  lu20305.cha 2 3 05 a b c d .
+allcorpora  114344  c  lu20305.cha 2 3 05 a b c d .
+allcorpora  114344  d  lu20305.cha 2 3 05 a b c d .
+allcorpora  114383  cabllito  lu20305.cha 2 3 05 falta al cabllito le falta , alguna parte .
+allcorpora  114384  mm  lu20305.cha 2 3 05 mm .
+allcorpora  114389  mm  lu20305.cha 2 3 05 mm .
+allcorpora  114403  tch  lu20305.cha 2 3 05 tch .
+allcorpora  114439  cabllito  lu20305.cha 2 3 05 la comida del cabllito .
+allcorpora  114477  mm  lu20305.cha 2 3 05 mm .
+allcorpora  114551  tch  lu20305.cha 2 3 05 tch .
+allcorpora  114769  verddad  lu20307.cha 2 3 07 se sientan , verddad ?
+allcorpora  114817  m  lu20307.cha 2 3 07 m .
+allcorpora  114837  m  lu20307.cha 2 3 07 m .
+allcorpora  114879  mmmpi  lu20307.cha 2 3 07 mmmpi .
+allcorpora  114880  mmpi  lu20307.cha 2 3 07 mmpi .
+allcorpora  115101  sandwich  lu20307.cha 2 3 07 tú quieres que te prepare un sandwich o algo , Mother ?
+allcorpora  115161  sandwich  lu20307.cha 2 3 07 pues voy a hacer te un sandwich de jamón y queso , vale ?
+allcorpora  115240  m  lu20307.cha 2 3 07 m .
+allcorpora  115296  m  lu20307.cha 2 3 07 m .
+allcorpora  115336  mm  lu20307.cha 2 3 07 mm .
+allcorpora  115356  sandwich  lu20307.cha 2 3 07 no prefieres un poquito de , sandwich , de queso , Lucía ?
+allcorpora  115461  black  lu20307.cha 2 3 07 negro black ?
+allcorpora  115482  mm  lu20307.cha 2 3 07 mm .
+allcorpora  115520  mm  lu20310.cha 2 3 12 mm ?
+allcorpora  115610  mm  lu20310.cha 2 3 12 mm .
+allcorpora  115666  mm  lu20310.cha 2 3 12 mm .
+allcorpora  116135  n  lu20312.cha 2 3 12 n ?
+allcorpora  116482  mm  lu20313.cha 2 3 12 mm .
+allcorpora  116522  mm  lu20313.cha 2 3 12 mm .
+allcorpora  116527  mm  lu20313.cha 2 3 12 mm .
+allcorpora  116528  mm  lu20313.cha 2 3 12 mm .
+allcorpora  116536  mm  lu20313.cha 2 3 12 mm .
+allcorpora  116538  mm  lu20313.cha 2 3 12 mm .
+allcorpora  116560  tch  lu20313.cha 2 3 12 tch .
+allcorpora  116616  mixta  lu20314.cha 2 3 14 pues una paella de , mixta .
+allcorpora  116619  mixta  lu20314.cha 2 3 14 pero qué es mixta ?
+allcorpora  116633  prr  lu20314.cha 2 3 14 prr .
+allcorpora  116647  gepetto  lu20314.cha 2 3 14 y qué está haciendo el Gepetto ?
+allcorpora  116765  j  lu20314.cha 2 3 14 j .
+allcorpora  116855  cassette  lu20314.cha 2 3 14 tu cassette ahí dentro ?
+allcorpora  117064  mm  lu20316.cha 2 3 16 mm .
+allcorpora  117187  z  lu20320.cha 2 3 20 y la z , Lucía ?
+allcorpora  117188  z  lu20320.cha 2 3 20 dónde está la z ?
+allcorpora  117200  g  lu20320.cha 2 3 20 g de qué ?
+allcorpora  117203  w  lu20320.cha 2 3 20 w .
+allcorpora  117215  d  lu20320.cha 2 3 20 saca la d .
+allcorpora  117230  j  lu20320.cha 2 3 20 j de qué ?
+allcorpora  117231  j  lu20320.cha 2 3 20 o sea la j y las uvas .
+allcorpora  117232  j  lu20320.cha 2 3 20 de qué es la j ?
+allcorpora  117242  m  lu20320.cha 2 3 20 y la m de qué ?
+allcorpora  117243  m  lu20320.cha 2 3 20 la m de ?
+allcorpora  117261  q  lu20320.cha 2 3 20 ponemos el queso con la q ?
+allcorpora  117262  q  lu20320.cha 2 3 20 la q de qué ?
+allcorpora  117263  z  lu20320.cha 2 3 20 z de zapato .
+allcorpora  117490  mm  lu20321.cha 2 3 21 mm .
+allcorpora  117620  mm  lu20324.cha 2 3 24 mm .
+allcorpora  117639  mm  lu20324.cha 2 3 24 mm .
+allcorpora  117650  mm  lu20324.cha 2 3 24 mm .
+allcorpora  117659  mm  lu20324.cha 2 3 24 mm .
+allcorpora  117667  mm  lu20324.cha 2 3 24 mm .
+allcorpora  117740  mm  lu20324.cha 2 3 24 mm .
+allcorpora  117869  mm  lu20324.cha 2 3 24 mm .
+allcorpora  117975  mm  lu20328.cha 2 3 28 mm .
+allcorpora  118097  mm  lu20328.cha 2 3 28 mm .
+allcorpora  118114  guay  lu20328.cha 2 3 28 guay .
+allcorpora  118128  mm  lu20328.cha 2 3 28 mm .
+allcorpora  118129  wrong  lu20328.cha 2 3 28 wrong .
+allcorpora  118144  mm  lu20328.cha 2 3 28 mm .
+allcorpora  118166  mm  lu20328.cha 2 3 28 mm .
+allcorpora  118190  mm  lu20328.cha 2 3 28 mm .
+allcorpora  118337  ss  lu20330.cha 2 3 30 ss .
+allcorpora  118362  mm  lu20330.cha 2 3 30 mm .
+allcorpora  118367  mm  lu20330.cha 2 3 30 mm .
+allcorpora  118369  mm  lu20330.cha 2 3 30 mm .
+allcorpora  118401  mm  lu20330.cha 2 3 30 mm .
+allcorpora  118450  mm  lu20400.cha 2 4 00 mm .
+allcorpora  118589  mm  lu20405.cha 2 4 05 mm .
+allcorpora  118713  grnade  lu20405.cha 2 4 05 es grnade ?
+allcorpora  118753  mm  lu20405.cha 2 4 05 mm .
+allcorpora  118775  gr  lu20405.cha 2 4 05 gr .
+allcorpora  118825  pumb  lu20405.cha 2 4 05 pumb .
+allcorpora  119230  mm  lu20408.cha 2 4 08 mm .
+allcorpora  119342  triángulo  lu20409.cha 2 4 09 es un triángulo , Mother .
+allcorpora  119343  triángulo  lu20409.cha 2 4 09 tiene un triángulo .
+allcorpora  119523  sangüiches  lu20409.cha 2 4 09 y los sangüiches .
+allcorpora  119591  croisant  lu20409.cha 2 4 09 “ me va a traer un café con lecle y un croisant ” ?
+allcorpora  119692  mm  lu20409.cha 2 4 09 mm .
+allcorpora  119722  mm  lu20409.cha 2 4 09 mm .
+allcorpora  119793  l  lu20409.cha 2 4 09 vamos a pintar aquí una l .
+allcorpora  119797  l  lu20409.cha 2 4 09 una l .
+allcorpora  119798  l  lu20409.cha 2 4 09 eso es una l ?
+allcorpora  119836  mm  lu20409.cha 2 4 09 mm .
+allcorpora  119881  record  lu20410.cha 2 4 10 he batido mi record .
+allcorpora  119885  record  lu20410.cha 2 4 10 he batido mi record de treinta y dos minutos .
+allcorpora  120072  enfriar  lu20411.cha 2 4 11 que te vas a enfriar sin zapatos , Lucía .
+allcorpora  120283  mm  lu20411.cha 2 4 11 mm .
+allcorpora  120326  mm  lu20411.cha 2 4 11 mm .
+allcorpora  120808  ff  lu20415.cha 2 4 15 ff .
+allcorpora  120852  pong  lu20415.cha 2 4 15 pong .
+allcorpora  120929  mm  lu20416.cha 2 4 16 mm .
+allcorpora  120961  ring  lu20416.cha 2 4 16 ring .
+allcorpora  121203  mm  lu20416.cha 2 4 16 mm .
+allcorpora  121261  mm  lu20416.cha 2 4 16 mm .
+allcorpora  121265  mm  lu20416.cha 2 4 16 mm .
+allcorpora  121267  mm  lu20416.cha 2 4 16 mm .
+allcorpora  121271  mm  lu20416.cha 2 4 16 mm .
+allcorpora  121273  mm  lu20416.cha 2 4 16 mm .
+allcorpora  121278  mm  lu20416.cha 2 4 16 mm .
+allcorpora  121301  mm  lu20416.cha 2 4 16 mm .
+allcorpora  121345  mm  lu20417.cha 2 4 17 mm .
+allcorpora  121413  mm  lu20417.cha 2 4 17 mm .
+allcorpora  121431  mm  lu20417.cha 2 4 17 mm ?
+allcorpora  121457  mm  lu20417.cha 2 4 17 mm .
+allcorpora  121515  mm  lu20417.cha 2 4 17 mm .
+allcorpora  121533  grr  lu20417.cha 2 4 17 grr .
+allcorpora  121538  miau  lu20417.cha 2 4 17 miau .
+allcorpora  121542  guau  lu20417.cha 2 4 17 guau .
+allcorpora  121858  mm  lu20419.cha 2 4 19 mm .
+allcorpora  121876  mm  lu20419.cha 2 4 19 mm .
+allcorpora  122188  mm  lu20420.cha 2 4 20 mm .
+allcorpora  122218  mm  lu20420.cha 2 4 20 mm .
+allcorpora  122403  cambrils  lu20424.cha 2 4 24 le contamos a Carlos qué has hecho este fin de semana en Cambrils .
+allcorpora  122437  cambrils  lu20424.cha 2 4 24 en Cambrils ?
+allcorpora  122619  mm  lu20424.cha 2 4 24 mm .
+allcorpora  122636  mm  lu20424.cha 2 4 24 mm .
+allcorpora  122693  mm  lu20425.cha 2 4 25 mm .
+allcorpora  122779  mm  lu20425.cha 2 4 25 mm .
+allcorpora  122781  mm  lu20425.cha 2 4 25 mm .
+allcorpora  122955  fútbol  lu20426.cha 2 4 26 hoy había fútbol .
+allcorpora  122958  mm  lu20426.cha 2 4 26 mm .
+allcorpora  122964  mm  lu20426.cha 2 4 26 mm .
+allcorpora  123030  triángulo  lu20426.cha 2 4 26 el triángulo es este .
+allcorpora  123133  pink  lu20502.cha 2 5 02 es rosa pink la montaña .
+allcorpora  123310  mm  lu20503.cha 2 5 03 mm .
+allcorpora  123390  mm  lu20503.cha 2 5 03 mm .
+allcorpora  123444  mm  lu20503.cha 2 5 03 mm .
+allcorpora  123457  mm  lu20503.cha 2 5 03 mm .
+allcorpora  123497  g  lu20503.cha 2 5 03 g de qué ?
+allcorpora  123499  r  lu20503.cha 2 5 03 r de qué ?
+allcorpora  123511  z  lu20503.cha 2 5 03 la z de zapato .
+allcorpora  123528  t  lu20503.cha 2 5 03 la t de , la t de ?
+allcorpora  123528  t  lu20503.cha 2 5 03 la t de , la t de ?
+allcorpora  123532  k  lu20503.cha 2 5 03 y es la k de kilo .
+allcorpora  123793  arg  lu20505.cha 2 5 05 arg .
+allcorpora  123823  mm  lu20505.cha 2 5 05 mm .
+allcorpora  124014  mm  lu20507.cha 2 5 07 mm .
+allcorpora  124288  sient  lu20511.cha 2 4 14 sient te sientas ?
+allcorpora  124314  pink  lu20511.cha 2 4 14 un cuento de color rosa pink ?
+allcorpora  124399  mm  lu20511.cha 2 4 14 mm .
+allcorpora  124494  mm  lu20511.cha 2 4 14 mm .
+allcorpora  124533  mm  lu20511.cha 2 4 14 mm .
+allcorpora  124616  six  lu20513.cha 2 5 13 y six ?
+allcorpora  124634  conste  lu20513.cha 2 5 13 que conste que no te voy a dar .
+allcorpora  124699  black  lu20513.cha 2 5 13 el negro black ?
+allcorpora  124746  mm  lu20513.cha 2 5 13 mm .
+allcorpora  124752  mm  lu20513.cha 2 5 13 mm .
+allcorpora  124761  mm  lu20513.cha 2 5 13 mm .
+allcorpora  124776  mm  lu20513.cha 2 5 13 mm .
+allcorpora  124795  mm  lu20513.cha 2 5 13 mm .
+allcorpora  125099  toing  lu20514.cha 2 5 14 toing .
+allcorpora  125162  arg  lu20515.cha 2 5 15 arg .
+allcorpora  125229  stuart  lu20516.cha 2 5 16 aquí está Stuart Little .
+allcorpora  125229  little  lu20516.cha 2 5 16 aquí está Stuart Little .
+allcorpora  125233  stuart  lu20516.cha 2 5 16 le damos a Stuart Little un café ?
+allcorpora  125233  little  lu20516.cha 2 5 16 le damos a Stuart Little un café ?
+allcorpora  125236  stuart  lu20516.cha 2 5 16 prépara le un café a Stuart Little .
+allcorpora  125236  little  lu20516.cha 2 5 16 prépara le un café a Stuart Little .
+allcorpora  125258  stuart  lu20516.cha 2 5 16 mira cómo huele , Stuart .
+allcorpora  125307  br  lu20516.cha 2 5 16 br .
+allcorpora  125331  stuart  lu20516.cha 2 5 16 bueno , me voy con Stuart Little al campo de vacaciones .
+allcorpora  125331  little  lu20516.cha 2 5 16 bueno , me voy con Stuart Little al campo de vacaciones .
+allcorpora  125332  br  lu20516.cha 2 5 16 br .
+allcorpora  125351  stuart  lu20516.cha 2 5 16 esta es la cama de Stuart Little ?
+allcorpora  125351  little  lu20516.cha 2 5 16 esta es la cama de Stuart Little ?
+allcorpora  125352  stuart  lu20516.cha 2 5 16 bañamos a Stuart Little ?
+allcorpora  125352  little  lu20516.cha 2 5 16 bañamos a Stuart Little ?
+allcorpora  125394  stuart  lu20516.cha 2 5 16 Stuart Little juega con el capitán en la bañera .
+allcorpora  125394  little  lu20516.cha 2 5 16 Stuart Little juega con el capitán en la bañera .
+allcorpora  125398  stuart  lu20516.cha 2 5 16 hola , Stuart Little .
+allcorpora  125398  little  lu20516.cha 2 5 16 hola , Stuart Little .
+allcorpora  125451  mm  lu20516.cha 2 5 16 mm .
+allcorpora  125490  puag  lu20516.cha 2 5 16 puag .
+allcorpora  125492  mm  lu20516.cha 2 5 16 mm .
+allcorpora  125640  mm  lu20521.cha 2 5 21 mm .
+allcorpora  125648  mm  lu20521.cha 2 5 21 mm .
+allcorpora  125655  mm  lu20521.cha 2 5 21 mm .
+allcorpora  125673  mm  lu20521.cha 2 5 21 mm .
+allcorpora  125688  l  lu20521.cha 2 5 21 l de ?
+allcorpora  125689  l  lu20521.cha 2 5 21 l de ?
+allcorpora  125700  t  lu20521.cha 2 5 21 t de ?
+allcorpora  125701  t  lu20521.cha 2 5 21 t de ?
+allcorpora  125715  q  lu20521.cha 2 5 21 q .
+allcorpora  125716  q  lu20521.cha 2 5 21 q .
+allcorpora  125718  q  lu20521.cha 2 5 21 q de ?
+allcorpora  125727  l  lu20521.cha 2 5 21 l de ?
+allcorpora  125728  l  lu20521.cha 2 5 21 l de qué ?
+allcorpora  125734  mm  lu20521.cha 2 5 21 mm .
+allcorpora  125778  d  lu20521.cha 2 5 21 esa es la d de dedo .
+allcorpora  125790  b  lu20521.cha 2 5 21 y por qué no hay b ?
+allcorpora  125792  b  lu20521.cha 2 5 21 b de ?
+allcorpora  125793  b  lu20521.cha 2 5 21 dónde está la b ?
+allcorpora  125794  b  lu20521.cha 2 5 21 cómo que no hay b , Mother ?
+allcorpora  125795  b  lu20521.cha 2 5 21 que no hay b .
+allcorpora  125796  b  lu20521.cha 2 5 21 cómo que no hay b ?
+allcorpora  125797  b  lu20521.cha 2 5 21 dónde está la b ?
+allcorpora  125799  b  lu20521.cha 2 5 21 no ha salido la b ?
+allcorpora  125807  b  lu20521.cha 2 5 21 la b no está .
+allcorpora  125808  c  lu20521.cha 2 5 21 la c de Carlos .
+allcorpora  125809  d  lu20521.cha 2 5 21 la d de dedo .
+allcorpora  125822  t  lu20521.cha 2 5 21 tampoco hay t ?
+allcorpora  125825  t  lu20521.cha 2 5 21 t sí .
+allcorpora  125832  m  lu20521.cha 2 5 21 eso es la m .
+allcorpora  125833  m  lu20521.cha 2 5 21 m de Mamá .
+allcorpora  125834  b  lu20521.cha 2 5 21 y b ?
+allcorpora  125835  b  lu20521.cha 2 5 21 la b de ?
+allcorpora  126061  arg  lu20523.cha 2 5 23 arg .
+allcorpora  126063  arg  lu20523.cha 2 5 23 arg .
+allcorpora  126205  mm  lu20526.cha 2 5 26 mm .
+allcorpora  126262  mm  lu20526.cha 2 5 26 mm .
+allcorpora  126279  mm  lu20526.cha 2 5 26 mm .
+allcorpora  126458  mm  lu20608.cha 2 6 08 mm .
+allcorpora  126459  mm  lu20608.cha 2 6 08 mm .
+allcorpora  126581  mm  lu20608.cha 2 6 08 mm .
+allcorpora  126641  mm  lu20608.cha 2 6 08 mm .
+allcorpora  126658  mm  lu20609.cha 2 6 09 mm .
+allcorpora  126660  mm  lu20609.cha 2 6 09 mm .
+allcorpora  126673  mm  lu20609.cha 2 6 09 mm .
+allcorpora  126729  mm  lu20609.cha 2 6 09 mm .
+allcorpora  126758  mm  lu20609.cha 2 6 09 mm .
+allcorpora  126849  rrr  lu20609.cha 2 6 09 rrr .
+allcorpora  126866  mm  lu20609.cha 2 6 09 mm .
+allcorpora  126871  mm  lu20609.cha 2 6 09 mm .
+allcorpora  126879  paf  lu20609.cha 2 6 09 paf .
+allcorpora  126924  mm  lu20610.cha 2 6 10 mm .
+allcorpora  126952  guau  lu20610.cha 2 6 10 a quién le dice guau el perro ?
+allcorpora  127003  roquefort  lu20611.cha 2 6 11 Roquefort .
+allcorpora  127004  roquefort  lu20611.cha 2 6 11 te acuerdos del de Roquefort ?
+allcorpora  127020  mm  lu20611.cha 2 6 11 mm .
+allcorpora  127037  mm  lu20611.cha 2 6 11 mm .
+allcorpora  127052  camembert  lu20611.cha 2 6 11 Camembert ?
+allcorpora  127053  camembert  lu20611.cha 2 6 11 Camembert , Brie , Manchego , Roquefort ?
+allcorpora  127053  roquefort  lu20611.cha 2 6 11 Camembert , Brie , Manchego , Roquefort ?
+allcorpora  127096  camembert  lu20611.cha 2 6 11 este es Camembert .
+allcorpora  127097  camembert  lu20611.cha 2 6 11 es Camembert .
+allcorpora  127099  camembert  lu20611.cha 2 6 11 sí es Camembert .
+allcorpora  127103  camembert  lu20611.cha 2 6 11 me das un poco de queso Camembert , por favor ?
+allcorpora  127117  camembert  lu20611.cha 2 6 11 de tu queso Camembert , por favor ?
+allcorpora  127119  camembert  lu20611.cha 2 6 11 me das un poquito de tu queso Camembert ?
+allcorpora  127122  camembert  lu20611.cha 2 6 11 me das un poquito de tu queso Camembert ?
+allcorpora  127126  camembert  lu20611.cha 2 6 11 me das un poco de tu queso Camembert ?
+allcorpora  127128  cruel  lu20611.cha 2 6 11 qué cruel eres .
+allcorpora  127142  camembert  lu20611.cha 2 6 11 no me has dado queso Camembert .
+allcorpora  127146  camembert  lu20611.cha 2 6 11 tú le has dado Camembert ?
+allcorpora  127153  camembert  lu20611.cha 2 6 11 tú no me has dado Camembert .
+allcorpora  127154  camembert  lu20611.cha 2 6 11 me has dado Camembert ?
+allcorpora  127160  camembert  lu20611.cha 2 6 11 otra vez te has comido mi trozo de queso Camembert ?
+allcorpora  127177  camembert  lu20611.cha 2 6 11 me vas a dar un poquito de queso Camembert ?
+allcorpora  127237  mm  lu20614.cha 2 6 14 mm .
+allcorpora  127251  buf  lu20614.cha 2 6 14 buf .
+allcorpora  127623  mm  lu20619.cha 2 6 19 mm .
+allcorpora  127638  b  lu20619.cha 2 6 19 b .
+allcorpora  127674  camembert  lu20619.cha 2 6 19 no es Camembert .
+allcorpora  127694  mm  lu20619.cha 2 6 19 mm .
+allcorpora  127695  roquefort  lu20619.cha 2 6 19 pero si es Roquefort .
+allcorpora  127696  roquefort  lu20619.cha 2 6 19 no es Roquefort , Father .
+allcorpora  127702  mm  lu20619.cha 2 6 19 mm .
+allcorpora  127725  mm  lu20619.cha 2 6 19 mm .
+allcorpora  127732  mm  lu20619.cha 2 6 19 mm .
+allcorpora  127776  uf  lu20619.cha 2 6 19 uf .
+allcorpora  127838  mm  lu20622.cha 2 6 22 mm .
+allcorpora  127940  b  lu20622.cha 2 6 22 que no es con b .
+allcorpora  127945  mm  lu20622.cha 2 6 22 mm .
+allcorpora  127982  guay  lu20622.cha 2 6 22 qué guay .
+allcorpora  128213  marks  lu20624.cha 2 6 24 ayer estaba estuve leyendo el articulillo este de los de Marks and Spencer .
+allcorpora  128213  and  lu20624.cha 2 6 24 ayer estaba estuve leyendo el articulillo este de los de Marks and Spencer .
+allcorpora  128213  spencer  lu20624.cha 2 6 24 ayer estaba estuve leyendo el articulillo este de los de Marks and Spencer .
+allcorpora  128218  marks  lu20624.cha 2 6 24 luego los empleados entre muchos de ellos entre cincuenta o cuarentas cincuentas estaban antes en lo que lo que había ahí antes de Marks and Spencer .
+allcorpora  128218  and  lu20624.cha 2 6 24 luego los empleados entre muchos de ellos entre cincuenta o cuarentas cincuentas estaban antes en lo que lo que había ahí antes de Marks and Spencer .
+allcorpora  128218  spencer  lu20624.cha 2 6 24 luego los empleados entre muchos de ellos entre cincuenta o cuarentas cincuentas estaban antes en lo que lo que había ahí antes de Marks and Spencer .
+allcorpora  128613  tch  lu20624.cha 2 6 24 tch .
+allcorpora  128676  mm  lu20627.cha 2 6 27 mm .
+allcorpora  128682  mm  lu20627.cha 2 6 27 mm .
+allcorpora  128775  mm  lu20627.cha 2 6 27 mm .
+allcorpora  128868  rong  lu20630.cha 2 6 30 rong .
+allcorpora  128869  wrong  lu20630.cha 2 6 30 wrong .
+allcorpora  128870  wrong  lu20630.cha 2 6 30 wrong .
+allcorpora  128905  guay  lu20630.cha 2 6 30 guay , no ?
+allcorpora  128986  cutrex  lu20630.cha 2 6 30 lo cierto es que Nombre ahí con su camarita cutrex .
+allcorpora  129034  vsito  lu20630.cha 2 6 30 has vsito el bebé de Www y de ?
+allcorpora  129034  www  lu20630.cha 2 6 30 has vsito el bebé de Www y de ?
+allcorpora  129036  www  lu20630.cha 2 6 30 se llama Www .
+allcorpora  129037  www  lu20630.cha 2 6 30 cómo que Www ?
+allcorpora  129040  www  lu20630.cha 2 6 30 Www quería que se llamara sólo Www .
+allcorpora  129040  www  lu20630.cha 2 6 30 Www quería que se llamara sólo Www .
+allcorpora  129045  www  lu20630.cha 2 6 30 parece que es Www .
+allcorpora  129162  uf  lu20708.cha 2 7 08 uf .
+allcorpora  129220  mot  lu20708.cha 2 7 08 a que no se come toda , Luci Mot ?
+allcorpora  129234  déficit  lu20708.cha 2 7 08 después del fin de semana de Ibiza tenemos déficit de grabaciones .
+allcorpora  129237  mm  lu20708.cha 2 7 08 mm .
+allcorpora  129269  mm  lu20708.cha 2 7 08 mm .
+allcorpora  129289  mm  lu20708.cha 2 7 08 mm .
+allcorpora  129304  abriendo  lu20708.cha 2 7 08 estás abriendo la cremallera ?
+allcorpora  129455  mm  lu20708.cha 2 7 08 mm .
+allcorpora  129461  tch  lu20708.cha 2 7 08 tch .
+allcorpora  129647  uf  lu20712.cha 2 7 12 uf .
+allcorpora  129702  mm  lu20712.cha 2 7 12 mm .
+allcorpora  129859  vergüenza  lu20712.cha 2 7 12 qué vergüenza !
+allcorpora  129910  mm  lu20712.cha 2 7 12 mm .
+allcorpora  129987  mm  lu20713.cha 2 7 13 mm .
+allcorpora  130017  mm  lu20713.cha 2 7 13 mm .
+allcorpora  130050  mm  lu20713.cha 2 7 13 mm .
+allcorpora  130223  mm  lu20713.cha 2 7 13 mm .
+allcorpora  130331  mm  lu20714.cha 2 7 14 mm .
+allcorpora  130841  mm  mag2001.cha 1 8 01 mm caca .
+allcorpora  130844  mmm  mag2001.cha 1 8 01 mmm .
+allcorpora  130845  mmm  mag2001.cha 1 8 01 mmm .
+allcorpora  130893  mmm  mag2001.cha 1 8 01 mmm .
+allcorpora  131846  guaguau  mag2115.cha 1 9 15 dónde está el guaguau ?
+allcorpora  131981  enfriarlo  mag2127.cha 1 9 27 vamos a enfriarlo .
+allcorpora  132774  abriendo  mag2200.cha x xx xx lo vamos abriendo las páginas y vamos viendo lo que es cada cosa .
+allcorpora  132785  pingüino  mag2200.cha x xx xx el pingüino .
+allcorpora  132851  guau  mag2200.cha x xx xx guau .
+allcorpora  133766  uff  mag2215.cha 1 10 15 te acuerdas la ventosa que había en casa del abuelo , que la ponías en el suelo del salón y hacía uff , uff , uff .
+allcorpora  133766  uff  mag2215.cha 1 10 15 te acuerdas la ventosa que había en casa del abuelo , que la ponías en el suelo del salón y hacía uff , uff , uff .
+allcorpora  133766  uff  mag2215.cha 1 10 15 te acuerdas la ventosa que había en casa del abuelo , que la ponías en el suelo del salón y hacía uff , uff , uff .
+allcorpora  133768  ff  mag2215.cha 1 10 15 hacía ff , uff , ff .
+allcorpora  133768  uff  mag2215.cha 1 10 15 hacía ff , uff , ff .
+allcorpora  133768  ff  mag2215.cha 1 10 15 hacía ff , uff , ff .
+allcorpora  133901  vals  mag2215.cha 1 10 15 el vals de las mariposas ?
+allcorpora  134420  abc  mag2220.cha 1 10 20 una foto del Abc .
+allcorpora  134664  piii  mag2220.cha 1 10 20 piii .
+allcorpora  134671  piii  mag2220.cha 1 10 20 piii .
+allcorpora  134736  piii  mag2220.cha 1 10 20 piii .
+allcorpora  135353  benidorm  mag2300.cha 1 11 00 mañana la vas a ver a la abuela , en Benidorm .
+allcorpora  135354  benidorm  mag2300.cha 1 11 00 vamos a ir a Benidorm a ver a la abuela .
+allcorpora  135500  enfriar  mag2300.cha 1 11 00 se tiene que enfriar .
+allcorpora  135791  fútbol  mag2320.cha 1 11 20 ahí , juegan al fútbol .
+allcorpora  135792  fútbol  mag2320.cha 1 11 20 al fútbol con la pelota .
+allcorpora  137262  péiname  mag2515.cha 2 1 15 venga , péiname .
+allcorpora  137351  guay  mag2702.cha 2 3 02 este guante es guay .
+allcorpora  137476  ring  mag2702.cha 2 3 02 ring ring ring !
+allcorpora  137476  ring  mag2702.cha 2 3 02 ring ring ring !
+allcorpora  137476  ring  mag2702.cha 2 3 02 ring ring ring !
+allcorpora  137657  rabbit  mag2702.cha 2 3 02 * lo de Rogger Rabbit .
+allcorpora  137658  rabbit  mag2702.cha 2 3 02 Rogger Rabbit !
+allcorpora  137659  rabit  mag2702.cha 2 3 02 ponen Rogger Rabit esta noche ?
+allcorpora  137929  monstruo  mag2702.cha 2 3 02 dile pareces un monstruo , tío Carlos .
+allcorpora  137930  monstruo  mag2702.cha 2 3 02 el monstruo de las galletas .
+allcorpora  137931  monstruo  mag2702.cha 2 3 02 dile tú eres ahora el monstruo de las galletas .
+allcorpora  137933  monstruo  mag2702.cha 2 3 02 pon cara de monstruo , Magín .
+allcorpora  137936  monstruo  mag2702.cha 2 3 02 Magín , pon cara de monstruo * .
+allcorpora  137937  monstruo  mag2702.cha 2 3 02 pon cara de monstruo .
+allcorpora  137938  monstruo  mag2702.cha 2 3 02 pon cara de monstruo .
+allcorpora  137959  mmmm  mag2702.cha 2 3 02 mmmm .
+allcorpora  137977  ummm  mag2702.cha 2 3 02 ummm .
+allcorpora  138107  lengüeta  mag2710.cha 2 3 10 la lengüeta , esa cola se llama lengüeta .
+allcorpora  138107  lengüeta  mag2710.cha 2 3 10 la lengüeta , esa cola se llama lengüeta .
+allcorpora  138662  buuu  mag2810.cha 2 4 10 las abejas que hacen buuu .
+allcorpora  139036  guau  mag2825.cha x xx xx guau .
+allcorpora  139381  miau  mag2825.cha x xx xx hacen miau ?
+allcorpora  139382  miau  mag2825.cha x xx xx miau .
+allcorpora  139396  miau  mag2825.cha x xx xx hacen miau miau ?
+allcorpora  139396  miau  mag2825.cha x xx xx hacen miau miau ?
+allcorpora  139397  miau  mag2825.cha x xx xx hacen miau y están corriendo , verdad ?
+allcorpora  139783  complex  mag2825.cha x xx xx le llevas a papá el Pharmaton Complex ?
+allcorpora  139841  vergüenza  mag2900.cha 2 5 00 porque tiene vergüenza ?
+allcorpora  139843  vergüenza  mag2900.cha 2 5 00 tiene vergüenza el niño ?
+allcorpora  139978  mmmm  mag2900.cha 2 5 00 mira cómo suena la música mmmm .
+allcorpora  140678  emm  mag3001.cha x xx xx emm , mira .
+allcorpora  140924  constru  mag3010.cha x xx xx y entonces , y entonces iban a constru iban a hacer , a hacerse una casita .
+allcorpora  140991  fffff  mag3010.cha x xx xx y empezó a soplar fffff !
+allcorpora  141002  ffff  mag3010.cha x xx xx al otro cerdito ffff !
+allcorpora  141008  fffff  mag3010.cha x xx xx y el lobo corriendo detrás y empezó a soplar fffff !
+allcorpora  141094  guau  mag3010.cha x xx xx guau , guau .
+allcorpora  141094  guau  mag3010.cha x xx xx guau , guau .
+allcorpora  141275  guau  mag3010.cha x xx xx guau guau dice el tiburón .
+allcorpora  141275  guau  mag3010.cha x xx xx guau guau dice el tiburón .
+allcorpora  141330  chuss  mag3010.cha x xx xx chuss , que te estoy poniendo bien el cordón !
+allcorpora  141502  benidorm  mag3020.cha x xx xx pero en Benidorm .
+allcorpora  141505  benidorm  mag3020.cha x xx xx ésta te la hiciste en Benidorm con papá , cuando te bañaste .
+allcorpora  141551  benidorm  mag3020.cha x xx xx pues , en Benidorm .
+allcorpora  141552  benidorm  mag3020.cha x xx xx lo dejamos en Benidorm .
+allcorpora  142385  brrrrrmmm  mag3126.cha 2 7 26 brrrrrmmm .
+allcorpora  142499  pii  mag3424.cha x xx xx pii pii .
+allcorpora  142499  pii  mag3424.cha x xx xx pii pii .
+allcorpora  142500  pii  mag3424.cha x xx xx pii pii .
+allcorpora  142500  pii  mag3424.cha x xx xx pii pii .
+allcorpora  142573  construcción  mag3424.cha x xx xx vamos a jugar con la construcción .
+allcorpora  142576  construcción  mag3424.cha x xx xx ven un momento que vamos a hacer la construcción .
+allcorpora  142577  construcción  mag3424.cha x xx xx vamos a hacer una construcción Magín .
+allcorpora  142582  construcción  mag3424.cha x xx xx vamos a la construcción .
+allcorpora  142975  triángulo  mag3424.cha x xx xx mira , ése es un triángulo .
+allcorpora  142976  triángulo  mag3424.cha x xx xx ése es un triángulo .
+allcorpora  142978  triángulo  mag3424.cha x xx xx éste es un triángulo y por eso el triángulo se pone en el triángulo , ves ?
+allcorpora  142978  triángulo  mag3424.cha x xx xx éste es un triángulo y por eso el triángulo se pone en el triángulo , ves ?
+allcorpora  142978  triángulo  mag3424.cha x xx xx éste es un triángulo y por eso el triángulo se pone en el triángulo , ves ?
+allcorpora  143179  mmhm  raf9104.cha 4 4 16 mmhm .
+allcorpora  143180  mmhm  raf9104.cha 4 4 16 mmhm .
+allcorpora  143316  mmhm  raf9104.cha 4 4 16 claro , mmhm mmhm .
+allcorpora  143316  mmhm  raf9104.cha 4 4 16 claro , mmhm mmhm .
+allcorpora  143830  mmhm  raf9106.cha 4 6 26 mmhm mmhm .
+allcorpora  143830  mmhm  raf9106.cha 4 6 26 mmhm mmhm .
+allcorpora  143907  uf  raf9106.cha 4 6 26 uf , de qué color hacemos las tijeras , Rafa , rojo ?
+allcorpora  143931  mmhm  raf9106.cha 4 6 26 mmhm , vete preparando ya el pegamento .
+allcorpora  144015  mmhm  raf9106.cha 4 6 26 mmhm mmhm .
+allcorpora  144015  mmhm  raf9106.cha 4 6 26 mmhm mmhm .
+allcorpora  144033  guau  raf9106.cha 4 6 26 guau !
+allcorpora  144034  mmhm  raf9106.cha 4 6 26 mmhm mmhm .
+allcorpora  144034  mmhm  raf9106.cha 4 6 26 mmhm mmhm .
+allcorpora  144038  clicks  raf9106.cha 4 6 26 sí , de los clicks .
+allcorpora  144297  sandwich  raf9111.cha 4 11 13 pues venga , yo voy a hacer un sandwich .
+allcorpora  144307  sandwich  raf9111.cha 4 11 13 un sandwich vas a hacer ?
+allcorpora  144362  triángulo  raf9111.cha 4 11 13 ah , claro , puedes hacer , mira , un triángulo , un cuadrado , un círculo , una cruz , y luego puedes hacer también un arco iris , una trenza , verdad ?
