@@ -56,8 +56,7 @@ def clean_text(current_line):
 	new_line = re.sub('@.*? ',' ',new_line)   # Special annotations about certain words, we erase the annotation but keep the word.
 	new_line = new_line.replace(':','')   # Except for :eng, the colon just indicates a stretch in the sound, so we erase it.
 	new_line = new_line.replace("'","") # Remove apostrophe (these have no meaning or use in Spanish)
-	new_line = new_line.replace("a-ver", "a ver")
-	new_line = new_line.replace("por-qué", "por qué")
+	new_line = new_line.replace('-', ' ') # Remove dash (these have no meaning or use in Spanish)
 	new_line = new_line.replace("⌉","") # Remove this symbol, unclear what it is.
 	new_line = new_line.replace("⌈","") # Remove this symbol, unclear what it is. # Note: it is not exactly the same symbol as in the previous line.
 	new_line = new_line.replace("⌊","") # Remove this symbol, unclear what it is. # Note: it is not exactly the same symbol as in the previous line.
