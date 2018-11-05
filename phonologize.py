@@ -4,11 +4,13 @@
 import os
 import re
 #import subprocess
-from subprocess import Popen, PIPE
+#from subprocess import Popen, PIPE
 from transcribe import first_order_transcription
+from syllabify import *
 
 root='corpora'
 dirlist = [ item for item in os.listdir(root) if os.path.isdir(os.path.join(root, item)) ]
+f_errors = open('syllabyfication_errors.txt', 'w')
 
 if not os.path.exists('output'):
 	os.makedirs('output')
@@ -23,8 +25,22 @@ dico[":"]=":"
 dico['*']='#'
 dico['”']='”'
 dico['“'] = '“'
+dico['iii'] = 'i'
+dico['mnn'] = 'mn'
+dico['slobin'] = 'slo-βin'
+dico['chomsky'] = 'tʃom-ski'
+dico['guauguau'] = 'gwau-gwau'
+dico['pss'] = 'ps'
+dico['jazz'] = 'ʝas'
+dico['robot'] = 'Ro-ˈβot'
+dico['off'] = 'of'
+dico['yogourt'] = 'ʝo-ˈɣur'
+dico['yogurt'] = 'ʝo-ˈɣur'
+dico['yoghourt'] = 'ʝo-ˈɣur'
+dico['york'] = 'ʝork'
+dico['miau'] = 'mjau'
 
-process = Popen(["perl","transcriptor.pl"], stdin = PIPE, stdout = PIPE)
+#process = Popen(["perl","transcriptor.pl"], stdin = PIPE, stdout = PIPE)
 
 for corpusdir in dirlist:
 	print('Recoding transcription of:', corpusdir)
@@ -48,10 +64,12 @@ for corpusdir in dirlist:
 				if word in dico:
 					newwords.append(dico[word])
 				else:
-					newwords.append(first_order_transcription(word)) #newwords.append(subprocess.check_output(["perl","transcriptor.pl",word]).decode("utf-8", errors = 'ignore'))
+					newwords.append(syllabify(first_order_transcription(word))) #newwords.append(subprocess.check_output(["perl","transcriptor.pl",word]).decode("utf-8", errors = 'ignore'))
+					if newwords[-1] == '#':
+						print(corpusdir + '  ' + str(line_ID) + '  ' + word + '  ' + line_text.strip(), file = f_errors)
 			
 			newwords.append(full_line[-1])
 			print(' '.join(info + newwords), file = foutput) # Concatenate with ID and age and print
 	
 	foutput.close()
-
+f_errors.close()
