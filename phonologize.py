@@ -27,18 +27,21 @@ dico['”']='”'
 dico['“'] = '“'
 dico['iii'] = 'i'
 dico['mnn'] = 'mn'
-dico['slobin'] = 'slo-βin'
-dico['chomsky'] = 'tʃom-ski'
+dico['slobin'] = "'slo-βin"
+dico['chomsky'] = "'tʃom-ski"
 dico['guauguau'] = 'gwau-gwau'
 dico['pss'] = 'ps'
 dico['jazz'] = 'ʝas'
-dico['robot'] = 'Ro-ˈβot'
+dico['robot'] = "Ro-'βot"
 dico['off'] = 'of'
-dico['yogourt'] = 'ʝo-ˈɣur'
-dico['yogurt'] = 'ʝo-ˈɣur'
-dico['yoghourt'] = 'ʝo-ˈɣur'
+dico['yogourt'] = "ʝo-'ɣur"
+dico['yogurt'] = "ʝo-'ɣur"
+dico['yoghourt'] = "ʝo-'ɣur"
 dico['york'] = 'ʝork'
 dico['miau'] = 'mjau'
+dico['sandwich'] = "'san-dwitʃ"
+dico['sándwich'] = "'san-dwitʃ"
+dico['dodot'] = "do-'dot"
 
 #process = Popen(["perl","transcriptor.pl"], stdin = PIPE, stdout = PIPE)
 

@@ -1,12 +1,9 @@
 allcorpora  1267  mmm  01_2.cha 1 08 03 mmm .
-allcorpora  1549  miau  02.cha 1 1 25 miau .
 allcorpora  1565  mm  02.cha 1 1 25 mm , que es eso ?
 allcorpora  1566  iiii  02.cha 1 1 25 el caballo , iiii .
 allcorpora  1569  grr  02.cha 1 1 25 y Lupi hace grr grr grr .
 allcorpora  1569  grr  02.cha 1 1 25 y Lupi hace grr grr grr .
 allcorpora  1569  grr  02.cha 1 1 25 y Lupi hace grr grr grr .
-allcorpora  1728  miau  02a.cha 1 7 00 miau .
-allcorpora  1729  miau  02a.cha 1 7 00 te gusta el miau a ti ?
 allcorpora  2206  tn  02e.cha 1 7 00 uy , Papá que pelo tn bonito tiene !
 allcorpora  2491  sss  02_2.cha 1 08 09 sss .
 allcorpora  2528  chss  02_2.cha 1 08 09 chss chss .
@@ -29,37 +26,15 @@ allcorpora  3156  hmm  03a.cha 1 9 00 mnn hmm , y luego vamos a hacer ?
 allcorpora  3250  guauguaus  03b.cha 1 9 00 todos son guauguaus .
 allcorpora  3251  guauguaus  03b.cha 1 9 00 es una bañera de guauguaus .
 allcorpora  3501  record  03c.cha 1 9 00 hoy está batiendo un record .
-allcorpora  3518  dodot  03d.cha 1 9 00 te acuerdas del Dodot ?
-allcorpora  3519  dodot  03d.cha 1 9 00 * Dodot , Dodot tarararará , Dodot Dodot .
-allcorpora  3519  dodot  03d.cha 1 9 00 * Dodot , Dodot tarararará , Dodot Dodot .
-allcorpora  3519  dodot  03d.cha 1 9 00 * Dodot , Dodot tarararará , Dodot Dodot .
-allcorpora  3519  dodot  03d.cha 1 9 00 * Dodot , Dodot tarararará , Dodot Dodot .
-allcorpora  3591  dodot  03d.cha 1 9 00 Dodot Dodot tararararara , Dodot Dodot .
-allcorpora  3591  dodot  03d.cha 1 9 00 Dodot Dodot tararararara , Dodot Dodot .
-allcorpora  3591  dodot  03d.cha 1 9 00 Dodot Dodot tararararara , Dodot Dodot .
-allcorpora  3591  dodot  03d.cha 1 9 00 Dodot Dodot tararararara , Dodot Dodot .
-allcorpora  3594  dodot  03d.cha 1 9 00 Dodot Dodot , tarararara Dodot Dodot .
-allcorpora  3594  dodot  03d.cha 1 9 00 Dodot Dodot , tarararara Dodot Dodot .
-allcorpora  3594  dodot  03d.cha 1 9 00 Dodot Dodot , tarararara Dodot Dodot .
-allcorpora  3594  dodot  03d.cha 1 9 00 Dodot Dodot , tarararara Dodot Dodot .
-allcorpora  3597  dodot  03d.cha 1 9 00 Dodot Dodot así ?
-allcorpora  3597  dodot  03d.cha 1 9 00 Dodot Dodot así ?
-allcorpora  3598  dodot  03d.cha 1 9 00 Dodot Dodot .
-allcorpora  3598  dodot  03d.cha 1 9 00 Dodot Dodot .
 allcorpora  3747  mm  03_2.cha 1 08 18 mm .
 allcorpora  3844  t  03_2.cha 1 08 18 cómo que t ?
 allcorpora  4260  terrza  04b.cha 1 09 00 sí porque aunque he fregado ayer la terrza , pero como ha llovido .
-allcorpora  4372  dodot  04b.cha 1 09 00 canta la de Dodot .
 allcorpora  4482  huélela  04c.cha 1 09 00 huélela .
 allcorpora  4486  hmm  04c.cha 1 09 00 hmm qué bien huele .
 allcorpora  4902  constipó  04g.cha 1 09 00 con su camecita y su canesú la saqué a paseos se me constipó , la tengo en la cama con mucho dolor .
 allcorpora  5051  mm  04_2.cha 1 08 26 mm .
 allcorpora  5093  chss  04_2.cha 1 08 26 chss chss , a ver .
 allcorpora  5093  chss  04_2.cha 1 08 26 chss chss , a ver .
-allcorpora  5111  miau  04_2.cha 1 08 26 y el gatito , miau .
-allcorpora  5112  miau  04_2.cha 1 08 26 miau .
-allcorpora  5113  miau  04_2.cha 1 08 26 miau miau .
-allcorpora  5113  miau  04_2.cha 1 08 26 miau miau .
 allcorpora  5170  mm  04_2.cha 1 08 26 mm , qué bien !
 allcorpora  5376  mm  04_2.cha 1 08 26 mm , ha descubierto que lo puede coger con las dos manos .
 allcorpora  5487  guau  05.cha 1 2 05 un guau guau ?
@@ -100,8 +75,6 @@ allcorpora  10229  mm  08.cha 1 5 01 mm ?
 allcorpora  10252  mm  08.cha 1 5 01 mm ?
 allcorpora  10270  shh  08.cha 1 5 01 shh !
 allcorpora  10314  mm  08.cha 1 5 01 mm , y la cunita de Irene ?
-allcorpora  10853  sandwich  08d.cha 2 01 00 quieres un sandwich ?
-allcorpora  10908  sandwich  08d.cha 2 01 00 qué te ha quitao un sandwich el Rey ?
 allcorpora  11047  herranz  08f.cha 2 01 00 María Herranz Silence .
 allcorpora  11486  mm  09.cha 1 5 15 mm !
 allcorpora  11510  mm  09.cha 1 5 15 mm , y luego que vamos a tomar ?
@@ -162,11 +135,6 @@ allcorpora  14040  poing  10m15.cha 0 10 00 poing se cayó .
 allcorpora  14042  ouch  10m15.cha 0 10 00 ouch !
 allcorpora  14131  vern  10m17.cha 0 10 00 vente guapo con estos de acá tenemos que jugar vern .
 allcorpora  14160  miua  10q02.cha 0 10 00 ay miua miau miau .
-allcorpora  14160  miau  10q02.cha 0 10 00 ay miua miau miau .
-allcorpora  14160  miau  10q02.cha 0 10 00 ay miua miau miau .
-allcorpora  14163  miau  10q02.cha 0 10 00 miau miau miau .
-allcorpora  14163  miau  10q02.cha 0 10 00 miau miau miau .
-allcorpora  14163  miau  10q02.cha 0 10 00 miau miau miau .
 allcorpora  14182  maxwell  10q04.cha 0 10 00 oye Maxwell .
 allcorpora  14189  maxwell  10q04.cha 0 10 00 oye Maxwell vamos a guardar ésto te parece ?
 allcorpora  14190  maswell  10q04.cha 0 10 00 mira Maswell se está tirando al agua .
@@ -226,7 +194,6 @@ allcorpora  19699  mm  11115.cha 1 11 15 melocotón , mm .
 allcorpora  19918  uf  11120.cha 1 11 20 uf .
 allcorpora  19948  mm  11120.cha 1 11 20 mm .
 allcorpora  20305  chgu  11125.cha 1 11 25 el señor del rastrillo cogía la paja y hacía chgu .
-allcorpora  20350  miau  11125.cha 1 11 25 miau como los gatos ?
 allcorpora  20694  mm  11128.cha 1 11 25 mm .
 allcorpora  20869  mm  11128.cha 1 11 25 mm .
 allcorpora  20870  mm  11128.cha 1 11 25 está mm .
@@ -250,9 +217,6 @@ allcorpora  22008  pingüíno  11_2.cha 1 10 13 papá pingüíno , y el pingüíno hijo
 allcorpora  22008  pingüíno  11_2.cha 1 10 13 papá pingüíno , y el pingüíno hijo .
 allcorpora  22010  pingüíno  11_2.cha 1 10 13 el bebé pingüíno .
 allcorpora  22011  pingüíno  11_2.cha 1 10 13 y ese es el papá pingüíno .
-allcorpora  22138  miau  11_2.cha 1 10 13 que dice , miau miau .
-allcorpora  22138  miau  11_2.cha 1 10 13 que dice , miau miau .
-allcorpora  22140  miau  11_2.cha 1 10 13 miau .
 allcorpora  22192  ring  11_2.cha 1 10 13 ring ring , llaman a la puerta .
 allcorpora  22192  ring  11_2.cha 1 10 13 ring ring , llaman a la puerta .
 allcorpora  22359  f  11_2.cha 1 10 13 y ya no tenemos más f .
@@ -273,9 +237,6 @@ allcorpora  23423  trunrr  12m08.cha 1 0 00 trunrr .
 allcorpora  23424  pii  12m08.cha 1 0 00 run pii pii pi coche run .
 allcorpora  23424  pii  12m08.cha 1 0 00 run pii pii pi coche run .
 allcorpora  23426  trrun  12m08.cha 1 0 00 trrun .
-allcorpora  23463  miau  12m08.cha 1 0 00 miau .
-allcorpora  23464  miau  12m08.cha 1 0 00 miau , miau .
-allcorpora  23464  miau  12m08.cha 1 0 00 miau , miau .
 allcorpora  23512  mjú  12m09.cha 1 0 00 mjú qué vamos hacer con éso a ver .
 allcorpora  23542  oing  12m09.cha 1 0 00 oing , oing , oing mira tla , tla , tla .
 allcorpora  23542  oing  12m09.cha 1 0 00 oing , oing , oing mira tla , tla , tla .
@@ -291,7 +252,6 @@ allcorpora  23921  oing  12m13.cha 1 0 00 oing , oing .
 allcorpora  23921  oing  12m13.cha 1 0 00 oing , oing .
 allcorpora  23943  mj  12m13.cha 1 0 00 mj .
 allcorpora  23959  shshsh  12m13.cha 1 0 00 shshsh duérmelo .
-allcorpora  23971  sandwich  12m13.cha 1 0 00 mira así un sandwich le ponemos lechuga mira lechuga quesito .
 allcorpora  23980  shshsh  12m13.cha 1 0 00 duérmelo , duérmelo shshsh .
 allcorpora  24006  mmh  12m13.cha 1 0 00 es la ciruela ay qué rica mmh .
 allcorpora  24040  mmh  12m13.cha 1 0 00 mira mmh .
@@ -300,7 +260,6 @@ allcorpora  24314  iiih  12q03.cha 1 0 00 mira Mariana vamos a jugar con éstas c
 allcorpora  24314  guau  12q03.cha 1 0 00 mira Mariana vamos a jugar con éstas cosas bonitas a ver vamos a descubrir qué es ésto , iiih perro guau guau mira .
 allcorpora  24314  guau  12q03.cha 1 0 00 mira Mariana vamos a jugar con éstas cosas bonitas a ver vamos a descubrir qué es ésto , iiih perro guau guau mira .
 allcorpora  24327  iiih  12q03.cha 1 0 00 a ver iiih qué es éste ?
-allcorpora  24331  miau  12q03.cha 1 0 00 no éste es el miau .
 allcorpora  24346  mm  12q03.cha 1 0 00 entonces me voy a comer ésta manzana mira am que rica manzana mm que rica .
 allcorpora  24350  mjú  12q03.cha 1 0 00 mjú cómetela , cómetela mm que rica verdad ?
 allcorpora  24350  mm  12q03.cha 1 0 00 mjú cómetela , cómetela mm que rica verdad ?
@@ -321,13 +280,11 @@ allcorpora  24499  iiih  12q03.cha 1 0 00 iiih qué es esto vamos a ponerlos aquí
 allcorpora  24501  iiih  12q03.cha 1 0 00 a ver qué hay iiih una nena es una nena ?
 allcorpora  24585  shsh  12q04.cha 1 0 00 guaguaú shsh .
 allcorpora  24611  perr  12q04.cha 1 0 00 a ver llama al perr al gatito .
-allcorpora  24789  sandwich  12q14.cha 1 0 00 mira um que rico sandwich .
 allcorpora  24915  mmm  12q16.cha 1 0 00 mmm que rico pero no se puede .
 allcorpora  24936  mmm  12q16.cha 1 0 00 dale de comer mmm .
 allcorpora  24938  mmm  12q16.cha 1 0 00 un bibi mmm .
 allcorpora  25028  nmucho  12q19.cha 1 0 00 no le gustan nmucho los juguetes le gustan más los peluchitos .
 allcorpora  25040  mh  12q20.cha 1 0 00 mh ?
-allcorpora  25089  sandwich  12q20.cha 1 0 00 mira el sandwich .
 allcorpora  25109  péinate  12sb02.cha 1 0 00 mira ten péinate que ya nos vamos .
 allcorpora  25176  ammm  12sb03.cha 1 0 00 ammm !
 allcorpora  25180  ammm  12sb03.cha 1 0 00 ammm !
@@ -341,8 +298,6 @@ allcorpora  25386  mmm  12sb06.cha 1 0 00 mmm !
 allcorpora  25389  mmm  12sb06.cha 1 0 00 mmm !
 allcorpora  25429  mju  12sb06.cha 1 0 00 mju así .
 allcorpora  25484  mmm  12sb06.cha 1 0 00 mira se come sí mmm .
-allcorpora  25491  miau  12sb06.cha 1 0 00 miau miau .
-allcorpora  25491  miau  12sb06.cha 1 0 00 miau miau .
 allcorpora  25502  runn  12sb07.cha 1 0 00 runn .
 allcorpora  25640  mmh  12sb09.cha 1 0 00 mmh rica a ver tú ?
 allcorpora  25804  shit  12sb10.cha 1 0 00 shit shit .
@@ -363,8 +318,6 @@ allcorpora  26452  pingüínos  12_2.cha 1 10 18 hay dos pingüínos .
 allcorpora  26455  pingüínos  12_2.cha 1 10 18 y qué hacen los pingüínos ?
 allcorpora  26616  mm  12_2.cha 1 10 18 mm .
 allcorpora  26617  mm  12_2.cha 1 10 18 mm , el sol .
-allcorpora  26644  miau  12_2.cha 1 10 18 miau miau .
-allcorpora  26644  miau  12_2.cha 1 10 18 miau miau .
 allcorpora  26699  guau  12_2.cha 1 10 18 cuántos guau .
 allcorpora  26802  ss  12_2.cha 1 10 18 ss .
 allcorpora  26933  mm  13.cha 1 6 16 mm ?
@@ -523,7 +476,6 @@ allcorpora  34752  guau  18.cha 1 7 22 un gua guau , si señor , hay un gua guau 
 allcorpora  34780  guau  18.cha 1 7 22 un guau .
 allcorpora  34781  guau  18.cha 1 7 22 otro guau , que está , con quien está ?
 allcorpora  34784  guau  18.cha 1 7 22 este gua guau .
-allcorpora  34823  miau  18.cha 1 7 22 miau .
 allcorpora  34986  mm  18_2.cha 1 11 30 mm .
 allcorpora  35562  sinvergüenza  18_3.cha 2 0 00 oye Edu , eres un sinvergüenza .
 allcorpora  35696  mm  19_2.cha 2 0 06 ah , mm , qué lío tienes tú .
@@ -699,10 +651,8 @@ allcorpora  48271  mm  20312.cha 2 3 12 mm .
 allcorpora  48292  mm  20312.cha 2 3 12 mm .
 allcorpora  48520  mm  20313.cha 2 3 13 mm .
 allcorpora  48523  mm  20313.cha 2 3 13 mm .
-allcorpora  48711  sandwich  20317.cha 2 3 17 un san , y un sandwich .
 allcorpora  48724  mm  20317.cha 2 3 17 mm .
 allcorpora  48736  mm  20317.cha 2 3 17 mm .
-allcorpora  48757  sandwich  20317.cha 2 3 17 un sandwich .
 allcorpora  48807  mm  20317.cha 2 3 17 mm .
 allcorpora  48820  mm  20317.cha 2 3 17 mm .
 allcorpora  48846  mm  20317.cha 2 3 17 mm .
@@ -751,28 +701,21 @@ allcorpora  51215  mm  20404.cha 2 4 04 mm .
 allcorpora  51385  pg  20410.cha 2 4 10 pg .
 allcorpora  51466  escond  20410.cha 2 4 10 dónde está escond ah , estaba escondida .
 allcorpora  51571  pr  20410.cha 2 4 10 con las turbulencias pr .
-allcorpora  51876  miau  20410.cha 2 4 10 miau .
 allcorpora  51893  guau  20410.cha 2 4 10 guau .
 allcorpora  51894  guau  20410.cha 2 4 10 guau .
 allcorpora  51902  guau  20410.cha 2 4 10 guau .
-allcorpora  51912  miau  20410.cha 2 4 10 miau .
 allcorpora  51916  marramamiau  20410.cha 2 4 10 sentadito en su tejado marramamiau miau .
-allcorpora  51916  miau  20410.cha 2 4 10 sentadito en su tejado marramamiau miau .
 allcorpora  51924  marramamiau  20410.cha 2 4 10 con un tejado marramamiau .
-allcorpora  51945  miau  20410.cha 2 4 10 miau guau .
 allcorpora  51945  guau  20410.cha 2 4 10 miau guau .
 allcorpora  51958  ps  20410.cha 2 4 10 ps .
 allcorpora  52029  marramamiau  20410.cha 2 4 10 se llama marramamiau .
 allcorpora  52031  marramamiau  20410.cha 2 4 10 sentadito en su tejado marramamiau miau .
-allcorpora  52031  miau  20410.cha 2 4 10 sentadito en su tejado marramamiau miau .
 allcorpora  52168  mm  20412.cha 2 4 12 mm .
 allcorpora  52218  guay  20412.cha 2 4 12 qué guay !
 allcorpora  52322  guay  20412.cha 2 4 12 qué guay .
 allcorpora  52330  guay  20412.cha 2 4 12 qué guay .
 allcorpora  52533  mm  20417.cha 2 4 17 mm .
-allcorpora  52640  miau  20417.cha 2 4 17 miau .
 allcorpora  52689  chaf  20417.cha 2 4 17 el de chaf .
-allcorpora  52743  miau  20417.cha 2 4 17 miau .
 allcorpora  52967  chs  20417.cha 2 4 17 chs .
 allcorpora  52971  chs  20417.cha 2 4 17 chs .
 allcorpora  52985  chs  20417.cha 2 4 17 chs .
@@ -931,7 +874,6 @@ allcorpora  61390  tsss  20m03.cha 1 8 00 tsss qué más ?
 allcorpora  61393  amm  20m03.cha 1 8 00 amm que rica .
 allcorpora  61406  ammm  20m03.cha 1 8 00 mira , ammm que rico !
 allcorpora  61412  amm  20m03.cha 1 8 00 a ver esta , amm .
-allcorpora  61435  sandwich  20m03.cha 1 8 00 a ver vamos a preparar un sandwich .
 allcorpora  61437  mmm  20m03.cha 1 8 00 mmm .
 allcorpora  61444  mmm  20m03.cha 1 8 00 mmm .
 allcorpora  61479  oinc  20m03.cha 1 8 00 oinc , oinc , oinc .
@@ -942,24 +884,16 @@ allcorpora  61490  guau  20m03.cha 1 8 00 guau , guau .
 allcorpora  61544  guau  20m03.cha 1 8 00 hola guau , guau , guau .
 allcorpora  61544  guau  20m03.cha 1 8 00 hola guau , guau , guau .
 allcorpora  61544  guau  20m03.cha 1 8 00 hola guau , guau , guau .
-allcorpora  61549  miau  20m03.cha 1 8 00 un gato miau .
 allcorpora  61560  mmh  20m04.cha 1 8 00 sí y ahora mamá se toma el chocolate mmh tu quieres ?
 allcorpora  61577  bluagh  20m04.cha 1 8 00 bluagh no lo muerdas , es de juguete .
-allcorpora  61580  sandwich  20m04.cha 1 8 00 hacemos un sandwich ?
-allcorpora  61581  sandwich  20m04.cha 1 8 00 ven vamos a hacer un sandwich , agarramos el pan .
-allcorpora  61587  sandwich  20m04.cha 1 8 00 donde quedó el jitomate para el sandwich ?
 allcorpora  61591  plat  20m04.cha 1 8 00 entonces pongo el plat , el plato , el pan le ponemos mantequilla .
 allcorpora  61593  mmh  20m04.cha 1 8 00 y ahora me lo como , ahum mmh qué rico sandwich .
-allcorpora  61593  sandwich  20m04.cha 1 8 00 y ahora me lo como , ahum mmh qué rico sandwich .
-allcorpora  61594  sandwich  20m04.cha 1 8 00 tú quieres sandwich , quieres una mordidita ?
-allcorpora  61595  sandwich  20m04.cha 1 8 00 una mordidita de sandwich .
 allcorpora  61596  mmh  20m04.cha 1 8 00 cómo dices mmh .
 allcorpora  61600  mmh  20m04.cha 1 8 00 mmh .
 allcorpora  61601  mmh  20m04.cha 1 8 00 mmh .
 allcorpora  61646  mmhm  20m04.cha 1 8 00 mmhm la resbaladilla .
 allcorpora  61710  m  20m05.cha 1 8 00 m a ver vamos a ver que hay ahi ense ame .
 allcorpora  61712  mj  20m05.cha 1 8 00 mj .
-allcorpora  61725  miau  20m05.cha 1 8 00 miau .
 allcorpora  61726  mj  20m05.cha 1 8 00 mj .
 allcorpora  61729  mj  20m05.cha 1 8 00 mj acá orale .
 allcorpora  61736  mj  20m05.cha 1 8 00 mj .
@@ -968,12 +902,7 @@ allcorpora  61782  mm  20m05.cha 1 8 00 mm riquisimas .
 allcorpora  61791  mh  20m05.cha 1 8 00 mh ?
 allcorpora  61797  mh  20m05.cha 1 8 00 mh riquísimas !
 allcorpora  61825  pinz  20m05.cha 1 8 00 son unas pinz unas una llave para arreglar el co camión .
-allcorpora  61887  sandwich  20m06.cha 1 8 00 quieres un sandwich am !
-allcorpora  61898  sandwich  20m06.cha 1 8 00 ay cómete tu sandwich !
-allcorpora  61900  sandwich  20m06.cha 1 8 00 aquí qué rico sandwich .
 allcorpora  61911  mm  20m06.cha 1 8 00 mm dónde vas a poner la leche ?
-allcorpora  61918  sandwich  20m06.cha 1 8 00 ay que rico café yo quiero sandwich .
-allcorpora  61919  sandwich  20m06.cha 1 8 00 quieres sandwich ?
 allcorpora  61925  mmm  20m06.cha 1 8 00 mmm qué rica leche .
 allcorpora  61930  muuu  20m06.cha 1 8 00 no la vaca sabes cómo hace muuu .
 allcorpora  61938  quick  20m06.cha 1 8 00 ya le pusiste a la leche quick ?
@@ -1015,23 +944,12 @@ allcorpora  62521  ammm  20m20.cha 1 8 00 ammm tu quieres ?
 allcorpora  62522  amm  20m20.cha 1 8 00 amm .
 allcorpora  62523  amm  20m20.cha 1 8 00 amm que rico !
 allcorpora  62529  shh  20m20.cha 1 8 00 la bebé shh está dormida .
-allcorpora  62586  miau  20m20.cha 1 8 00 un pollito pio pio pio aquí un gatito miau miau miau aquí un conejito jjjj y un perrito guau guau guau .
-allcorpora  62586  miau  20m20.cha 1 8 00 un pollito pio pio pio aquí un gatito miau miau miau aquí un conejito jjjj y un perrito guau guau guau .
-allcorpora  62586  miau  20m20.cha 1 8 00 un pollito pio pio pio aquí un gatito miau miau miau aquí un conejito jjjj y un perrito guau guau guau .
 allcorpora  62586  jjjj  20m20.cha 1 8 00 un pollito pio pio pio aquí un gatito miau miau miau aquí un conejito jjjj y un perrito guau guau guau .
 allcorpora  62586  guau  20m20.cha 1 8 00 un pollito pio pio pio aquí un gatito miau miau miau aquí un conejito jjjj y un perrito guau guau guau .
 allcorpora  62586  guau  20m20.cha 1 8 00 un pollito pio pio pio aquí un gatito miau miau miau aquí un conejito jjjj y un perrito guau guau guau .
 allcorpora  62586  guau  20m20.cha 1 8 00 un pollito pio pio pio aquí un gatito miau miau miau aquí un conejito jjjj y un perrito guau guau guau .
 allcorpora  62632  guaguáu  20m21.cha 1 8 00 guaguáu .
-allcorpora  62734  sandwich  20m21.cha 1 8 00 es un sandwich .
-allcorpora  62735  sandwich  20m21.cha 1 8 00 cómo le ponemos el sandwich ?
-allcorpora  62740  sandwich  20m21.cha 1 8 00 a uno le hacemos un sandwich .
-allcorpora  62881  sandwich  20q09.cha 1 8 00 quién se va a comer este sandwich ?
 allcorpora  62892  shshsh  20q09.cha 1 8 00 hazle así shshsh .
-allcorpora  63005  sandwich  20q10.cha 1 8 00 tá rico vamos a hacer un sandwich ?
-allcorpora  63006  sandwich  20q10.cha 1 8 00 hacemos un sandwich o tú que quieres ?
-allcorpora  63009  sandwich  20q10.cha 1 8 00 vamos a hacer un sandwich mira .
-allcorpora  63011  sandwich  20q10.cha 1 8 00 quieres hacer un sandwich de .
 allcorpora  63045  shh  20q10.cha 1 8 00 mira vamos a hacer que se duerma el bebito shh .
 allcorpora  63062  mmh  20q10.cha 1 8 00 mmh que se hace con .
 allcorpora  63081  mh  20q10.cha 1 8 00 mh ?
@@ -1060,7 +978,6 @@ allcorpora  63597  m  20q13.cha 1 8 00 m ?
 allcorpora  63599  m  20q13.cha 1 8 00 m !
 allcorpora  63602  m  20q13.cha 1 8 00 m sabroso verdad ?
 allcorpora  63605  sta  20q13.cha 1 8 00 ai sta .
-allcorpora  63613  sandwich  20q13.cha 1 8 00 vamos a hacer un sandwich .
 allcorpora  63628  mm  20q13.cha 1 8 00 mm que sabroso .
 allcorpora  63651  mj  20q13.cha 1 8 00 mj .
 allcorpora  63658  m  20q13.cha 1 8 00 y el peine dónde dónde está el peine m .
@@ -1118,9 +1035,7 @@ allcorpora  64430  m  20q18.cha 1 8 00 para que ella sepa que son m ?
 allcorpora  64437  mm  20q18.cha 1 8 00 mm ?
 allcorpora  64440  mm  20q18.cha 1 8 00 mm ?
 allcorpora  64464  mm  20q18.cha 1 8 00 mm qué es Barbara ?
-allcorpora  64472  sandwich  20q18.cha 1 8 00 hacemos un sandwich ?
 allcorpora  64491  shh  20q18.cha 1 8 00 duérmelo shh .
-allcorpora  64492  sandwich  20q18.cha 1 8 00 ahora tu haz el sandwich sale !
 allcorpora  64497  mm  20q18.cha 1 8 00 mm ya está dormido el bebé mira ya está dormido .
 allcorpora  64505  m  20q18.cha 1 8 00 este que es m ?
 allcorpora  64507  mj  20q18.cha 1 8 00 mj y éste ?
@@ -1132,14 +1047,12 @@ allcorpora  64601  shsh  20q19.cha 1 8 00 shsh está dormida , está dormida .
 allcorpora  64621  shshsh  20q19.cha 1 8 00 shshsh .
 allcorpora  64629  birrbirr  20q19.cha 1 8 00 birrbirr ay se cayó .
 allcorpora  64634  brrbrr  20q19.cha 1 8 00 brrbrr .
-allcorpora  64667  sandwich  20q19.cha 1 8 00 ahí está el otro sandwich .
 allcorpora  64699  oiy  20q19.cha 1 8 00 oiy .
 allcorpora  64709  guag  20q19.cha 1 8 00 guag .
 allcorpora  64711  puag  20q19.cha 1 8 00 puag puag .
 allcorpora  64711  puag  20q19.cha 1 8 00 puag puag .
 allcorpora  64720  lna  20q19.cha 1 8 00 te como lna mano .
 allcorpora  64776  isacc  20q22.cha 1 8 00 a ver vamos a abrocharle el zapato a Isacc .
-allcorpora  64844  sandwich  20q22.cha 1 8 00 preparamos un sandwich de a mentiritas mira .
 allcorpora  64845  mj  20q22.cha 1 8 00 mj .
 allcorpora  64852  mh  20q22.cha 1 8 00 mh sopa mh .
 allcorpora  64852  mh  20q22.cha 1 8 00 mh sopa mh .
@@ -1148,7 +1061,6 @@ allcorpora  64874  runn  20q22.cha 1 8 00 no se salga del tapete runn .
 allcorpora  64875  runn  20q22.cha 1 8 00 runn .
 allcorpora  64877  runn  20q22.cha 1 8 00 runn .
 allcorpora  64903  mm  20sb01.cha 1 8 00 mm que están haciendo ?
-allcorpora  65041  sandwich  20sb01.cha 1 8 00 mira éste es un sandwich mira .
 allcorpora  65042  mhm  20sb01.cha 1 8 00 si mira mhm .
 allcorpora  65056  juaj  20sb01.cha 1 8 00 juaj te va morder guau .
 allcorpora  65056  guau  20sb01.cha 1 8 00 juaj te va morder guau .
@@ -1177,11 +1089,9 @@ allcorpora  66224  mh  20sb07.cha 1 8 00 mh ira .
 allcorpora  66245  shsh  20sb08.cha 1 8 00 así mira shsh Dali así mira shsh no ?
 allcorpora  66245  shsh  20sb08.cha 1 8 00 así mira shsh Dali así mira shsh no ?
 allcorpora  66281  shh  20sb08.cha 1 8 00 no no lo saques así así mira shh .
-allcorpora  66299  sandwich  20sb08.cha 1 8 00 como se llaman papas vamos a hacer un sandwich .
 allcorpora  66345  mmm  20sb08.cha 1 8 00 dale de comer a la mamá mira aquí está su comida de la mamá mmm dale de comer al papá .
 allcorpora  66356  mmm  20sb08.cha 1 8 00 a ver mmm mmm .
 allcorpora  66356  mmm  20sb08.cha 1 8 00 a ver mmm mmm .
-allcorpora  66579  miau  20sb10.cha 1 8 00 el miau ?
 allcorpora  66607  mmm  20sb10.cha 1 8 00 mmm qué rico aquí que te doy ?
 allcorpora  66641  muuu  20sb10.cha 1 8 00 muuu muu .
 allcorpora  66643  muuu  20sb10.cha 1 8 00 ora ora ora muuu .
@@ -1294,9 +1204,6 @@ allcorpora  72788  uf  24_3.cha 3 10 00 uf !
 allcorpora  72998  scobby  25.cha 1 9 28 haz un aserrín aserrán al gatito , aquí en la orejina de Scobby , a ver .
 allcorpora  73000  uff  25.cha 1 9 28 uff , no por favor !
 allcorpora  73002  scobby  25.cha 1 9 28 en la oreja de Scobby .
-allcorpora  73034  miau  25.cha 1 9 28 claro , El señor don gato , marrama miau miau miau , como este .
-allcorpora  73034  miau  25.cha 1 9 28 claro , El señor don gato , marrama miau miau miau , como este .
-allcorpora  73034  miau  25.cha 1 9 28 claro , El señor don gato , marrama miau miau miau , como este .
 allcorpora  73046  mm  25.cha 1 9 28 venga , mira , vamos a hacerle una , una gamberrada , hazle aserrín aserrán cogiéndolo por el rabo , mm ?
 allcorpora  73641  mm  25_2.cha 2 01 21 mm .
 allcorpora  73748  men^dí^a  25_2.cha 2 01 21 Men^dí^a .
@@ -1333,8 +1240,6 @@ allcorpora  74795  mm  26_2.cha 2 01 27 mm .
 allcorpora  74810  iiií  26_2.cha 2 01 27 iiií .
 allcorpora  74811  iiií  26_2.cha 2 01 27 iiií .
 allcorpora  74840  aurg  26_2.cha 2 01 27 aurg .
-allcorpora  74856  miau  26_2.cha 2 01 27 miau , miau .
-allcorpora  74856  miau  26_2.cha 2 01 27 miau , miau .
 allcorpora  74885  argg  26_2.cha 2 01 27 argg .
 allcorpora  74929  áhi  26_2.cha 2 01 27 tenemos por áhi un puzzle pendiente , Mendía .
 allcorpora  74929  puzzle  26_2.cha 2 01 27 tenemos por áhi un puzzle pendiente , Mendía .
@@ -1365,11 +1270,7 @@ allcorpora  75934  mmjj  28m10.cha 2 4 00 mmjj .
 allcorpora  75947  m  28m10.cha 2 4 00 m mira .
 allcorpora  75951  padr  28m10.cha 2 4 00 ijole eres muy buena para hacer torres , te salen muy padr muy grandes .
 allcorpora  76035  p  28m10.cha 2 4 00 eso y la p que es ?
-allcorpora  76051  sandwich  28m10.cha 2 4 00 tu no quieres tengo hambre me haces un sandwich me haces un sandwich am gracias pero quiero un sandwich con pan queso jitomate pepino pero el pan hay aqui esta toma el plato para que lo pongas aqui mm quieres ?
-allcorpora  76051  sandwich  28m10.cha 2 4 00 tu no quieres tengo hambre me haces un sandwich me haces un sandwich am gracias pero quiero un sandwich con pan queso jitomate pepino pero el pan hay aqui esta toma el plato para que lo pongas aqui mm quieres ?
-allcorpora  76051  sandwich  28m10.cha 2 4 00 tu no quieres tengo hambre me haces un sandwich me haces un sandwich am gracias pero quiero un sandwich con pan queso jitomate pepino pero el pan hay aqui esta toma el plato para que lo pongas aqui mm quieres ?
 allcorpora  76051  mm  28m10.cha 2 4 00 tu no quieres tengo hambre me haces un sandwich me haces un sandwich am gracias pero quiero un sandwich con pan queso jitomate pepino pero el pan hay aqui esta toma el plato para que lo pongas aqui mm quieres ?
-allcorpora  76054  sandwich  28m10.cha 2 4 00 ay se me cayó mi sandwich , gracias .
 allcorpora  76108  mmh  28m11.cha 2 4 00 ay mmh que ricas amch amch .
 allcorpora  76108  amch  28m11.cha 2 4 00 ay mmh que ricas amch amch .
 allcorpora  76108  amch  28m11.cha 2 4 00 ay mmh que ricas amch amch .
@@ -1403,7 +1304,6 @@ allcorpora  76603  constanza  28m14.cha 2 4 00 jugamos con éste Constanza a ver 
 allcorpora  76611  constanza  28m14.cha 2 4 00 a ver cuéntame Constanza .
 allcorpora  76621  constanza  28m14.cha 2 4 00 a ver pásame el rojo Constanza .
 allcorpora  76625  constanza  28m14.cha 2 4 00 tienes hambres Constanza ?
-allcorpora  76626  sandwich  28m14.cha 2 4 00 hacemos un sandwich ay que rico !
 allcorpora  76628  constanza  28m14.cha 2 4 00 Constanza quieres comer ?
 allcorpora  76630  constanza  28m14.cha 2 4 00 a ver Constanza vamos a dormir al bebé lo dormimos ?
 allcorpora  76631  constanza  28m14.cha 2 4 00 le damos de comer Constanza ?
@@ -1423,9 +1323,6 @@ allcorpora  76802  construímos  28m16.cha 2 4 00 la construímos ?
 allcorpora  76803  construír  28m16.cha 2 4 00 ayudáme a construír la granja .
 allcorpora  76869  mmh  28m16.cha 2 4 00 mmh nada ?
 allcorpora  76931  mmhn  28m16.cha 2 4 00 mmhn está rico ?
-allcorpora  76937  sandwich  28m16.cha 2 4 00 oye si hacemos éste está padrísimo gonzálo para hacer el sandwich en la noche .
-allcorpora  76938  sandwich  28m16.cha 2 4 00 cómo hacemos el sandwich ésta es lechuga ésta es una lechuga .
-allcorpora  76950  sandwich  28m16.cha 2 4 00 querías tapar el sandwich verdad ?
 allcorpora  76955  mmhm  28m16.cha 2 4 00 mmhm mmhm .
 allcorpora  76955  mmhm  28m16.cha 2 4 00 mmhm mmhm .
 allcorpora  76979  m  28m17.cha 2 4 00 m ya viste ?
@@ -1435,7 +1332,6 @@ allcorpora  77026  uch  28m17.cha 2 4 00 hay va hay va uch .
 allcorpora  77057  uich  28m17.cha 2 4 00 uich ay ay ay .
 allcorpora  77069  mm  28m17.cha 2 4 00 mm poin .
 allcorpora  77081  mj  28m17.cha 2 4 00 mj .
-allcorpora  77095  sandwich  28m17.cha 2 4 00 haber hazte un sandwich .
 allcorpora  77099  sof  28m17.cha 2 4 00 que me dijiste no no te oigo Sof que me dijiste .
 allcorpora  77103  mj  28m17.cha 2 4 00 mj .
 allcorpora  77107  entons  28m17.cha 2 4 00 entons no es limón verdad ?
@@ -1458,12 +1354,7 @@ allcorpora  77587  volkswagen  28q02.cha 2 4 00 es un Volkswagen .
 allcorpora  77607  aamm  28q02.cha 2 4 00 aamm !
 allcorpora  77625  what  28q02.cha 2 4 00 what is that ?
 allcorpora  77625  that  28q02.cha 2 4 00 what is that ?
-allcorpora  77642  sandwich  28q02.cha 2 4 00 oye aquí está el pan vamos a hacer un sandwich .
-allcorpora  77649  sandwich  28q02.cha 2 4 00 oh oh que rico sandwich a ver yo mmm es delicioso , ya se acabó el sandwich o vas a hacer otro ?
 allcorpora  77649  mmm  28q02.cha 2 4 00 oh oh que rico sandwich a ver yo mmm es delicioso , ya se acabó el sandwich o vas a hacer otro ?
-allcorpora  77649  sandwich  28q02.cha 2 4 00 oh oh que rico sandwich a ver yo mmm es delicioso , ya se acabó el sandwich o vas a hacer otro ?
-allcorpora  77651  sandwich  28q02.cha 2 4 00 a ver hazle un sandwich a Nasha .
-allcorpora  77652  sandwich  28q02.cha 2 4 00 hazle un sandwich a Nasha para que se lo lleve a la escuela .
 allcorpora  77663  m  28q03.cha 2 4 00 m llave .
 allcorpora  77664  mmj  28q03.cha 2 4 00 mmj .
 allcorpora  77715  s  28q03.cha 2 4 00 s te llenaste de pastel vamos a limpiarle la carita porque se lleno de pastel .
@@ -1483,10 +1374,8 @@ allcorpora  77847  amm  28q03.cha 2 4 00 hola me como tu pata mejor te voy a mor
 allcorpora  77935  betty  28q04.cha 2 4 00 esa se llama Betty .
 allcorpora  77959  esncontré  28q04.cha 2 4 00 nadamás una hoja eh qué pasó a ver cómo se llamó el pajarito le puso nombre mira ya se ve bien contento hijito con la ni a que está jugando y la ni a dijo ya sé éste pajarito yo me lo esncontré y es mio y se va a llamar .
 allcorpora  77990  entons  28q04.cha 2 4 00 el pajarito le está ayudando a ella le esta ayudando a hacer su tarea entons que paso que el pajarito se fué pero regresaba a visitarla verdad .
-allcorpora  78008  sandwich  28q04.cha 2 4 00 ay mira el sandwich ya lo viste yo ya lo vi que rico .
 allcorpora  78012  sand  28q04.cha 2 4 00 es como el sand que te parece si le ponemos la lechuga adentro .
 allcorpora  78018  entons  28q04.cha 2 4 00 vamos a dárselo de comer a esta ni ita pero está dormida ahorita entons vamos a gurdarselo en un plato .
-allcorpora  78051  sandwich  28q04.cha 2 4 00 hijo que rico está el sandwich no te lo quieres comer tú ?
 allcorpora  78175  m  28q05.cha 2 4 00 a lo mejor con ese podemos hacer m agarrar un tornillito y darle vueltas , y darle vueltas .
 allcorpora  78292  hotcakes  28q05.cha 2 4 00 está preparando hotcakes ?
 allcorpora  78295  mm  28q05.cha 2 4 00 pastel eh mm y qué hay aquí ?
@@ -1494,29 +1383,18 @@ allcorpora  78304  mj  28q05.cha 2 4 00 mj .
 allcorpora  78324  mj  28q05.cha 2 4 00 mj .
 allcorpora  78328  mj  28q05.cha 2 4 00 mj .
 allcorpora  78334  mj  28q05.cha 2 4 00 mj .
-allcorpora  78446  sandwich  28q06.cha 2 4 00 a ver hazme un sandwich Sergio quiero comer .
-allcorpora  78464  sandwich  28q06.cha 2 4 00 pepinos pónle a tu sandwich .
 allcorpora  78537  betty  28q07.cha 2 4 00 oye le decimos a Betty que nos preste los guiñoles ?
 allcorpora  78590  runn  28q07.cha 2 4 00 runn .
 allcorpora  78600  ruunn  28q07.cha 2 4 00 ruunn .
-allcorpora  78622  sandwich  28q07.cha 2 4 00 mira es el queso para el pan para hacer un sandwich .
 allcorpora  78627  amm  28q07.cha 2 4 00 amm !
 allcorpora  78643  aich  28q07.cha 2 4 00 aich !
 allcorpora  78836  mj  28q09.cha 2 4 00 mj .
-allcorpora  78891  sandwich  28q09.cha 2 4 00 mira voy a hacer un sandwich .
-allcorpora  78892  sandwich  28q09.cha 2 4 00 sandwich con pan tomate y lechuga .
 allcorpora  78908  pshh  28q09.cha 2 4 00 a ver yo le pongo agua pshh ahí va .
 allcorpora  78971  mmm  28q19.cha 2 4 00 un pastel mmm .
 allcorpora  78987  muuu  28q19.cha 2 4 00 muuu .
-allcorpora  79004  sandwich  28q19.cha 2 4 00 qué te parece si hacemos un sandwich ?
-allcorpora  79039  sandwich  28q19.cha 2 4 00 mira yo voy hacer una sandwich porque está bien rico .
-allcorpora  79044  sandwich  28q19.cha 2 4 00 tú hazme un sandwich al fin que yo un tengo hambre de a mentiritas ándale .
-allcorpora  79176  sandwich  28q20.cha 2 4 00 me haces un sandwich sí ?
-allcorpora  79182  sandwich  28q20.cha 2 4 00 ya me hiciste mi sandwich ?
 allcorpora  79282  guau  28sb01.cha 2 4 00 a es un guau .
 allcorpora  79684  amm  28sb03.cha 2 4 00 amm .
 allcorpora  79724  shh  28sb05.cha 2 4 00 shh .
-allcorpora  79915  sandwich  28sb06.cha 2 4 00 qué quieres un sandwich ?
 allcorpora  79925  mh  28sb06.cha 2 4 00 mh ira mira que bonito niñito .
 allcorpora  79993  shhh  28sb07.cha 2 4 00 sí shhh se van a dormir .
 allcorpora  79994  shhh  28sb07.cha 2 4 00 shhh se van a dormir .
@@ -1526,12 +1404,7 @@ allcorpora  80147  guaguau  28sb08.cha 2 4 00 ay con el guaguau .
 allcorpora  80166  mj  28sb08.cha 2 4 00 mj pon los platos , y las tazas .
 allcorpora  80168  mj  28sb08.cha 2 4 00 mj a ver .
 allcorpora  80180  mj  28sb08.cha 2 4 00 mj .
-allcorpora  80191  sandwich  28sb08.cha 2 4 00 es pan para hacer un sandwich .
-allcorpora  80193  sandwich  28sb08.cha 2 4 00 hora ponle , ponle el queso a tu sandwich .
 allcorpora  80287  manz  28sb09.cha 2 4 00 la manz la manzana ponla en el plato aquí está mira .
-allcorpora  80430  sandwich  28sb10.cha 2 4 00 ten un sandwich muérdele .
-allcorpora  80529  sandwich  28sb11.cha 2 4 00 ahora vas a darle éste un sandwich .
-allcorpora  80531  sandwich  28sb11.cha 2 4 00 dónde está el sandwich ?
 allcorpora  80563  m  28sb12.cha 2 4 00 te gustan los coches m ?
 allcorpora  80574  scarlett  28sb12.cha 2 4 00 que guapa a dónde vas a ir Scarlett ?
 allcorpora  80586  scarlett  28sb12.cha 2 4 00 y a dónde van a ir a pasear Scarlett ?
@@ -1541,10 +1414,8 @@ allcorpora  80606  scarlett  28sb12.cha 2 4 00 mira Scarlett mira !
 allcorpora  80694  scarlett  28sb12.cha 2 4 00 hola Scarlett pum hola Scarlett pum .
 allcorpora  80694  scarlett  28sb12.cha 2 4 00 hola Scarlett pum hola Scarlett pum .
 allcorpora  80695  scarlett  28sb12.cha 2 4 00 mira mira Scarlett ay ya te comiste la fruta .
-allcorpora  80704  sandwich  28sb12.cha 2 4 00 mira un pan un sandwich quieres cometelo cometelo .
 allcorpora  80705  scarlett  28sb12.cha 2 4 00 mira Scarlett .
 allcorpora  80717  scarlett  28sb12.cha 2 4 00 entonces yo no quiero jugar contigo mira Scarlett .
-allcorpora  80721  sandwich  28sb12.cha 2 4 00 comase su sandwich te lo vas a comer .
 allcorpora  80735  mh  28sb12.cha 2 4 00 mh ?
 allcorpora  80737  scarlett  28sb12.cha 2 4 00 mira Scarlett ahora hazla tu hazla tu .
 allcorpora  80765  puzzle  28_2.cha 2 02 12 qué , hacemos un puzzle ?
@@ -1611,17 +1482,11 @@ allcorpora  83386  mm  31.cha 1 11 30 mm .
 allcorpora  83442  striptease  31_2.cha 2 03 03 venga , vamos a hacer , un striptease , para Silvia .
 allcorpora  83522  puzzle  31_2.cha 2 03 03 vamos al salón , y hacemos un puzzle .
 allcorpora  83525  puzzle  31_2.cha 2 03 03 ése es un libro puzzle , sí .
-allcorpora  83558  sandwich  31_2.cha 2 03 03 un sandwich .
-allcorpora  83560  sandwich  31_2.cha 2 03 03 y de qué era el sandwich que te llevó papá ?
 allcorpora  83578  puzzle  31_2.cha 2 03 03 el puzzle ?
 allcorpora  83589  puzzle  31_2.cha 2 03 03 y vas a hacer toda la tarde el mismo puzzle ?
 allcorpora  83664  mm  31_2.cha 2 03 03 mm .
 allcorpora  83700  puzzle  31_2.cha 2 03 03 claro , es que es en este puzzle se caen .
-allcorpora  83776  sandwich  31_2.cha 2 03 03 el sandwich , que no está .
-allcorpora  83782  sandwich  31_2.cha 2 03 03 y dice el oso , no os llevéis mi sandwich .
 allcorpora  83784  mmm  31_2.cha 2 03 03 mmm .
-allcorpora  83808  sandwich  31_2.cha 2 03 03 tenemos que buscar el sandwich , que se nos ha perdido .
-allcorpora  83812  sandwich  31_2.cha 2 03 03 su merienda es el sandwich .
 allcorpora  83943  mm  31_2.cha 2 03 03 mm .
 allcorpora  83963  mm  31_2.cha 2 03 03 mm .
 allcorpora  83986  puzzle  31_2.cha 2 03 03 en este puzzle no se caen .
@@ -1652,8 +1517,6 @@ allcorpora  85026  guau  33.cha 2 0 28 guau guau , guau gua , guau gua !
 allcorpora  85026  guau  33.cha 2 0 28 guau guau , guau gua , guau gua !
 allcorpora  85026  guau  33.cha 2 0 28 guau guau , guau gua , guau gua !
 allcorpora  85047  mm  33.cha 2 0 28 a ver si encuentro mas cositas guapas , mm , que esto ?
-allcorpora  85085  sandwich  33.cha 2 0 28 un sandwich ?
-allcorpora  85089  sandwich  33.cha 2 0 28 hoy quies comer un sandwich ?
 allcorpora  85108  m  34.cha 2 1 18 una m .
 allcorpora  85110  m  34.cha 2 1 18 oye , y la m con la e ?
 allcorpora  85115  rr  34.cha 2 1 18 la rr , muy bien .
@@ -1689,13 +1552,9 @@ allcorpora  85929  scobby  36.cha 2 2 14 en Scobby , la preparamos .
 allcorpora  85969  mmm  36mc13.cha 3 0 00 mmm yo tengo hambre .
 allcorpora  86009  jugr  36mc13.cha 3 0 00 quieres jugr con otr cosa Rocío ?
 allcorpora  86009  otr  36mc13.cha 3 0 00 quieres jugr con otr cosa Rocío ?
-allcorpora  86052  sandwich  36mc14.cha 3 0 00 bueno oye mamá yo quiero que me hagas un sandwich .
-allcorpora  86054  sandwich  36mc14.cha 3 0 00 ponle ponle jitomate por favor a mi sandwich y ponle lechuga dónde está la lechuga mamá ?
 allcorpora  86055  mmh  36mc14.cha 3 0 00 eso mmh qué rico .
-allcorpora  86063  sandwich  36mc14.cha 3 0 00 yo mientras me como mi sandwich y tú le das su lechita sale ?
 allcorpora  86064  mmh  36mc14.cha 3 0 00 mmh pero nos faltó ésto mira .
 allcorpora  86066  mmh  36mc14.cha 3 0 00 mmh qué rico está el sandwich que me hiciste mamá .
-allcorpora  86066  sandwich  36mc14.cha 3 0 00 mmh qué rico está el sandwich que me hiciste mamá .
 allcorpora  86076  mmh  36mc14.cha 3 0 00 mmh qué rico ahora yo te voy a invitar una lechita de las mías sale ?
 allcorpora  86081  mmh  36mc14.cha 3 0 00 mmh me ganaste qué rico .
 allcorpora  86088  mmh  36mc14.cha 3 0 00 mmh éstos son pepinos .
@@ -1719,7 +1578,6 @@ allcorpora  86372  jhuajh  36mc16.cha 3 0 00 jhuajh o qué es ?
 allcorpora  86373  miauu  36mc16.cha 3 0 00 miauu .
 allcorpora  86375  guau  36mc16.cha 3 0 00 guau , guau .
 allcorpora  86375  guau  36mc16.cha 3 0 00 guau , guau .
-allcorpora  86376  miau  36mc16.cha 3 0 00 pio miau hola Jorgito !
 allcorpora  86377  guau  36mc16.cha 3 0 00 guau adios , hola Jorge !
 allcorpora  86381  guau  36mc16.cha 3 0 00 guau hola Jorge si carne .
 allcorpora  86383  guau  36mc16.cha 3 0 00 guau gracias que rico .
@@ -1733,7 +1591,6 @@ allcorpora  86472  mhm  36mc17.cha 3 0 00 mhm .
 allcorpora  86500  mhm  36mc17.cha 3 0 00 mhm .
 allcorpora  86504  aich  36mc17.cha 3 0 00 aich ah .
 allcorpora  86538  mhm  36mc19.cha 3 0 00 mhm .
-allcorpora  86540  miau  36mc19.cha 3 0 00 miau .
 allcorpora  86547  mjm  36mc19.cha 3 0 00 mjm .
 allcorpora  86566  iiii  36mc19.cha 3 0 00 hace iiii .
 allcorpora  86573  mj  36mc19.cha 3 0 00 mj .
@@ -1742,13 +1599,10 @@ allcorpora  86578  oing  36mc19.cha 3 0 00 oing oing .
 allcorpora  86592  mj  36mc19.cha 3 0 00 mj .
 allcorpora  86626  stephanía  36mc20.cha 3 0 00 no que me lo ibas a contar stephanía ?
 allcorpora  86642  stephanía  36mc20.cha 3 0 00 no Stephanía ?
-allcorpora  86705  sandwich  36mc20.cha 3 0 00 yo me voy a hacer mi sandwich , que rico , me voy a servir lechita .
 allcorpora  86727  stephanie  36mc20.cha 3 0 00 a ver stephanie cual quieres cantar ?
 allcorpora  86752  shh  36mc21.cha 3 0 00 a ver , shh .
 allcorpora  86783  monstruo  36mc21.cha 3 0 00 un monstruo pulpo se llama pulpo .
-allcorpora  86865  miau  36mc22.cha 3 0 00 está pio pio miau , guau .
 allcorpora  86865  guau  36mc22.cha 3 0 00 está pio pio miau , guau .
-allcorpora  86866  miau  36mc22.cha 3 0 00 miau .
 allcorpora  86950  mmh  36mc22.cha 3 0 00 mmh ?
 allcorpora  87003  oing  36mc22.cha 3 0 00 oing oing .
 allcorpora  87003  oing  36mc22.cha 3 0 00 oing oing .
@@ -1756,27 +1610,16 @@ allcorpora  87004  oing  36mc22.cha 3 0 00 oing hola pepe quién eres ?
 allcorpora  87034  shh  36mc22.cha 3 0 00 shh ven siéntate aquí .
 allcorpora  87042  guaguau  36mc22.cha 3 0 00 éste es un perrito hace guaguau .
 allcorpora  87075  mhm  36qc01.cha 3 0 00 mhm mira .
-allcorpora  87077  sandwich  36qc01.cha 3 0 00 hacemos un sandwich .
-allcorpora  87082  sandwich  36qc01.cha 3 0 00 vamos a ponerselo al sandwich .
-allcorpora  87087  sandwich  36qc01.cha 3 0 00 vamos a hacer un sandwich sale .
 allcorpora  87113  umm  36qc01.cha 3 0 00 umm no .
 allcorpora  87141  betty  36qc01.cha 3 0 00 se llama Betty y su ratón .
 allcorpora  87254  mj  36qc01.cha 3 0 00 mj .
 allcorpora  87287  m  36qc03.cha 3 0 00 qué me vas a preparar m ?
-allcorpora  87291  sandwich  36qc03.cha 3 0 00 un queso y que te parece si me haces un sandwich yo quiero comer .
 allcorpora  87294  m  36qc03.cha 3 0 00 m que tendrá frio ?
 allcorpora  87295  m  36qc03.cha 3 0 00 m no le gusta verdad ?
 allcorpora  87296  m  36qc03.cha 3 0 00 m eso muy bien .
-allcorpora  87299  sandwich  36qc03.cha 3 0 00 dáme un sandwich .
-allcorpora  87300  sandwich  36qc03.cha 3 0 00 dáme , dáme preparame un sandwich .
 allcorpora  87304  m  36qc03.cha 3 0 00 m si que rico .
-allcorpora  87309  sandwich  36qc03.cha 3 0 00 pues yo creo que yo ya veo que como que tienes ya todo listo para hacer un sandwich .
-allcorpora  87310  sandwich  36qc03.cha 3 0 00 eshe es el sandwich .
-allcorpora  87313  sandwich  36qc03.cha 3 0 00 bueno pues prepárame un sandwich por que yo ya quiero comer .
 allcorpora  87314  m  36qc03.cha 3 0 00 m orale mi amor prepárame un sandwich .
-allcorpora  87314  sandwich  36qc03.cha 3 0 00 m orale mi amor prepárame un sandwich .
 allcorpora  87317  m  36qc03.cha 3 0 00 m ?
-allcorpora  87318  sandwich  36qc03.cha 3 0 00 así nada mas me los vas a hacer uy que feo tu sandwich Mariana yo lo quiero con jitomate y con queso y con lechuga mira esta es la lechuga y estos son los pepinillos .
 allcorpora  87369  betty  36qc03.cha 3 0 00 yo veo a Betty .
 allcorpora  87371  betty  36qc03.cha 3 0 00 yo veo a Betty .
 allcorpora  87372  betty  36qc03.cha 3 0 00 pero mira yo veo a Betty .
@@ -1784,7 +1627,6 @@ allcorpora  87401  m  36qc05.cha 3 0 00 m que rico .
 allcorpora  87437  mmm  36qc05.cha 3 0 00 mmm que rico .
 allcorpora  87442  m  36qc05.cha 3 0 00 m ándale .
 allcorpora  87453  shh  36qc05.cha 3 0 00 shh .
-allcorpora  87509  sandwich  36qc06.cha 3 0 00 hazme un sandwich .
 allcorpora  87519  m  36qc06.cha 3 0 00 mira aquí está el queso m .
 allcorpora  87523  m  36qc06.cha 3 0 00 m yo quiero .
 allcorpora  87524  m  36qc06.cha 3 0 00 m que rico !
@@ -1794,7 +1636,6 @@ allcorpora  87539  m  36qc06.cha 3 0 00 m si te gusta arrancarlas ?
 allcorpora  87604  betty  36qc06.cha 3 0 00 pues llevatelo Betty de una vez por favor .
 allcorpora  87621  mh  36qc07.cha 3 0 00 mh ?
 allcorpora  87633  m  36qc07.cha 3 0 00 m qué es ?
-allcorpora  87636  sandwich  36qc07.cha 3 0 00 es un sandwich .
 allcorpora  87650  m  36qc07.cha 3 0 00 m cómo esta ?
 allcorpora  87652  m  36qc07.cha 3 0 00 m ?
 allcorpora  87657  m  36qc07.cha 3 0 00 m ?
@@ -1811,23 +1652,15 @@ allcorpora  87933  mmhn  36qc08.cha 3 0 00 ay que mmhn mmhn .
 allcorpora  87933  mmhn  36qc08.cha 3 0 00 ay que mmhn mmhn .
 allcorpora  87990  m  36qc08.cha 3 0 00 m conejo .
 allcorpora  87994  mperro  36qc08.cha 3 0 00 mperro ?
-allcorpora  88051  sandwich  36qc09.cha 3 0 00 un sandwich pero házmelo con jitomate ponle jitomate al sandwich .
-allcorpora  88051  sandwich  36qc09.cha 3 0 00 un sandwich pero házmelo con jitomate ponle jitomate al sandwich .
-allcorpora  88166  sandwich  36qc10.cha 3 0 00 a ver un sandwich .
 allcorpora  88189  iiih  36qc10.cha 3 0 00 iiih .
 allcorpora  88193  iiih  36qc10.cha 3 0 00 iiih !
 allcorpora  88229  muuu  36qc10.cha 3 0 00 muuu .
 allcorpora  88248  iiih  36qc10.cha 3 0 00 iiih ya me lo quitaste bueno vamos a metéte tú uno y yo otro .
 allcorpora  88411  mju  36qc11.cha 3 0 00 mju .
-allcorpora  88413  sandwich  36qc11.cha 3 0 00 hay mira puedes hacer un sandwich .
-allcorpora  88414  sandwich  36qc11.cha 3 0 00 un sandwich .
 allcorpora  88419  mmm  36qc11.cha 3 0 00 mmm ?
 allcorpora  88436  m  36qc11.cha 3 0 00 haber m que rica .
 allcorpora  88438  catsup  36qc11.cha 3 0 00 y catsup .
 allcorpora  88494  mmm  36qc11.cha 3 0 00 hueso mmm .
-allcorpora  88566  sandwich  36qc12.cha 3 0 00 mira un sandwich que padre está .
-allcorpora  88589  sandwich  36qc12.cha 3 0 00 quieres un sandwich sale ?
-allcorpora  88590  sandwich  36qc12.cha 3 0 00 Hazael quieres un sandwich de jamón y lechuga ?
 allcorpora  88593  sanwdich  36qc12.cha 3 0 00 sí pues es un sanwdich de jamón con este queso con lechuga .
 allcorpora  88621  abriendo  36qc12.cha 3 0 00 sí per también esta abriendo la cortina verdad ?
 allcorpora  88630  encotntró  36qc12.cha 3 0 00 mira pues al llegar a la escuela con mucha ilusión no encotntró a su mu eco el ratón qué es esto ?
@@ -1872,7 +1705,6 @@ allcorpora  89926  mjú  36sb06.cha 3 0 00 mjú .
 allcorpora  89993  mjú  36sb06.cha 3 0 00 mjú poquito .
 allcorpora  90003  mjú  36sb06.cha 3 0 00 mjú .
 allcorpora  90142  mjú  36sb07.cha 3 0 00 mjú .
-allcorpora  90187  sandwich  36sb08.cha 3 0 00 un sandwich una pierna de pollo un elote qué quieres ?
 allcorpora  90260  m  36sb08.cha 3 0 00 m se lo llevaron ?
 allcorpora  90281  mj  36sb08.cha 3 0 00 mj aquí hay más mira .
 allcorpora  90282  mj  36sb08.cha 3 0 00 mj .
@@ -1919,8 +1751,6 @@ allcorpora  91565  guau  38.cha 2 3 13 quien lo llaman gua guau , hija ?
 allcorpora  91602  guau  38.cha 2 3 13 lo del gua guau está quedando .
 allcorpora  91604  guau  38.cha 2 3 13 eso de gua guau .
 allcorpora  91612  mm  38.cha 2 3 13 mm .
-allcorpora  91613  miau  38.cha 2 3 13 que hace miau miau .
-allcorpora  91613  miau  38.cha 2 3 13 que hace miau miau .
 allcorpora  91626  mm  38.cha 2 3 13 mm .
 allcorpora  91649  perspectiva  38.cha 2 3 13 es que ahora lo estás viendo desde otra perspectiva , hija .
 allcorpora  91653  guau  38.cha 2 3 13 pero desde cuando le llamas gua guau ?
@@ -2218,12 +2048,6 @@ allcorpora  98256  xson  56.cha 2 11 11 y de estos objetos que hay aquí , de tod
 allcorpora  98401  buff  56.cha 2 11 11 buff , esta .
 allcorpora  98508  buff  56.cha 2 11 11 ya pero buff !
 allcorpora  98600  cassette  56.cha 2 11 11 una cassette .
-allcorpora  98630  sandwich  56.cha 2 11 11 y de aquí abajo , que tiene que ver con el sandwich ?
-allcorpora  98631  sandwich  56.cha 2 11 11 que tiene que ver con el sandwich de esos objetos que hay ahí .
-allcorpora  98633  sandwich  56.cha 2 11 11 café , para tomarlo con el sandwich ?
-allcorpora  98639  sandwich  56.cha 2 11 11 no me digas que la asociación es sandwich .
-allcorpora  98640  sandwich  56.cha 2 11 11 si , la asociación es sandwich café , o bien eliges entre destornillador , calcetín , hilo .
-allcorpora  98641  sandwich  56.cha 2 11 11 sandwich con café .
 allcorpora  98697  shh  56.cha 2 11 11 shh !
 allcorpora  98698  shh  56.cha 2 11 11 shh !
 allcorpora  98778  mm  57.cha 2 11 27 mm .
@@ -2401,7 +2225,6 @@ allcorpora  105613  dong  e18.cha 2 1 00 a jugar ding dong .
 allcorpora  105632  ring^ring  e18.cha 2 1 00 ring^ring .
 allcorpora  105798  sinvergüenza  e19.cha 2 03 01 eres un sinvergüenza .
 allcorpora  106501  montse  e21.cha 2 05 24 con la Montse .
-allcorpora  106791  miau  e21.cha 2 05 24 gatitos miau .
 allcorpora  106985  trans^parente  e22.cha 2 06 18 trans^parente .
 allcorpora  107362  d  e23.cha 2 07 09 el d Artacán .
 allcorpora  107428  t  e23.cha 2 07 09 dile eres E T .
@@ -2479,10 +2302,6 @@ allcorpora  109796  mm  ida9009.cha 2 7 29 mm , qué rico , qué rico , mm , mm , 
 allcorpora  109802  mm  ida9009.cha 2 7 29 mm , qué rico , pero ya no tengo más ganas , se la daré a Mamá .
 allcorpora  109867  snorkel  ida9009.cha 2 7 29 vas a ir como una Snorkel ?
 allcorpora  109884  n  ida9009.cha 2 7 29 Idaira n ya está roto .
-allcorpora  110116  miau  ida9101.cha 2 11 29 miau , miau , miau , miau .
-allcorpora  110116  miau  ida9101.cha 2 11 29 miau , miau , miau , miau .
-allcorpora  110116  miau  ida9101.cha 2 11 29 miau , miau , miau , miau .
-allcorpora  110116  miau  ida9101.cha 2 11 29 miau , miau , miau , miau .
 allcorpora  110138  péiname  ida9101.cha 2 11 29 péiname , pa ir a la escuelita .
 allcorpora  110147  péiname  ida9101.cha 2 11 29 péiname , péineme pa ir a la escuelita .
 allcorpora  110147  péineme  ida9101.cha 2 11 29 péiname , péineme pa ir a la escuelita .
@@ -2617,12 +2436,9 @@ allcorpora  114817  m  lu20307.cha 2 3 07 m .
 allcorpora  114837  m  lu20307.cha 2 3 07 m .
 allcorpora  114879  mmmpi  lu20307.cha 2 3 07 mmmpi .
 allcorpora  114880  mmpi  lu20307.cha 2 3 07 mmpi .
-allcorpora  115101  sandwich  lu20307.cha 2 3 07 tú quieres que te prepare un sandwich o algo , Mother ?
-allcorpora  115161  sandwich  lu20307.cha 2 3 07 pues voy a hacer te un sandwich de jamón y queso , vale ?
 allcorpora  115240  m  lu20307.cha 2 3 07 m .
 allcorpora  115296  m  lu20307.cha 2 3 07 m .
 allcorpora  115336  mm  lu20307.cha 2 3 07 mm .
-allcorpora  115356  sandwich  lu20307.cha 2 3 07 no prefieres un poquito de , sandwich , de queso , Lucía ?
 allcorpora  115461  black  lu20307.cha 2 3 07 negro black ?
 allcorpora  115482  mm  lu20307.cha 2 3 07 mm .
 allcorpora  115520  mm  lu20310.cha 2 3 12 mm ?
@@ -2717,7 +2533,6 @@ allcorpora  121431  mm  lu20417.cha 2 4 17 mm ?
 allcorpora  121457  mm  lu20417.cha 2 4 17 mm .
 allcorpora  121515  mm  lu20417.cha 2 4 17 mm .
 allcorpora  121533  grr  lu20417.cha 2 4 17 grr .
-allcorpora  121538  miau  lu20417.cha 2 4 17 miau .
 allcorpora  121542  guau  lu20417.cha 2 4 17 guau .
 allcorpora  121858  mm  lu20419.cha 2 4 19 mm .
 allcorpora  121876  mm  lu20419.cha 2 4 19 mm .
@@ -2961,11 +2776,6 @@ allcorpora  138107  lengüeta  mag2710.cha 2 3 10 la lengüeta , esa cola se llama
 allcorpora  138107  lengüeta  mag2710.cha 2 3 10 la lengüeta , esa cola se llama lengüeta .
 allcorpora  138662  buuu  mag2810.cha 2 4 10 las abejas que hacen buuu .
 allcorpora  139036  guau  mag2825.cha x xx xx guau .
-allcorpora  139381  miau  mag2825.cha x xx xx hacen miau ?
-allcorpora  139382  miau  mag2825.cha x xx xx miau .
-allcorpora  139396  miau  mag2825.cha x xx xx hacen miau miau ?
-allcorpora  139396  miau  mag2825.cha x xx xx hacen miau miau ?
-allcorpora  139397  miau  mag2825.cha x xx xx hacen miau y están corriendo , verdad ?
 allcorpora  139783  complex  mag2825.cha x xx xx le llevas a papá el Pharmaton Complex ?
 allcorpora  139841  vergüenza  mag2900.cha 2 5 00 porque tiene vergüenza ?
 allcorpora  139843  vergüenza  mag2900.cha 2 5 00 tiene vergüenza el niño ?
@@ -3012,6 +2822,4 @@ allcorpora  144033  guau  raf9106.cha 4 6 26 guau !
 allcorpora  144034  mmhm  raf9106.cha 4 6 26 mmhm mmhm .
 allcorpora  144034  mmhm  raf9106.cha 4 6 26 mmhm mmhm .
 allcorpora  144038  clicks  raf9106.cha 4 6 26 sí , de los clicks .
-allcorpora  144297  sandwich  raf9111.cha 4 11 13 pues venga , yo voy a hacer un sandwich .
-allcorpora  144307  sandwich  raf9111.cha 4 11 13 un sandwich vas a hacer ?
 allcorpora  144362  triángulo  raf9111.cha 4 11 13 ah , claro , puedes hacer , mira , un triángulo , un cuadrado , un círculo , una cruz , y luego puedes hacer también un arco iris , una trenza , verdad ?

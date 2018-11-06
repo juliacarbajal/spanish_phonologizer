@@ -1,0 +1,1799 @@
+0 01.cha FAT spa 	ID:	spa|Irene|FAT|||||Father|||
+0 01.cha MOT spa 	ID:	spa|Irene|MOT|||||Mother|||
+0 01_2.cha MOT spa 	ID:	spa|Nieva|MOT||female|| |Mother|||
+0 01a.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 01a.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 01b.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 01b.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 01c.cha ABU spa 	ID:	spa|Ornat|ABU|||||Grandmother|||
+0 01c.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 01c.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 01c.cha TIO spa 	ID:	spa|Ornat|TIO|||||Uncle|||
+0 01d.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 01e.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 01e.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 01f.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 01f.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 01g.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 01g.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 02.cha MOT spa 	ID:	spa|Irene|MOT|||||Mother|||
+0 02_2.cha MOT spa 	ID:	spa|Nieva|MOT||female|||Mother|||
+0 02a.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 02a.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 02b.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 02b.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 02c.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 02c.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 02d.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 02d.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 02e.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 02e.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 02f.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 02f.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 02g.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 02g.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 03.cha FAT spa 	ID:	spa|Irene|FAT|||||Father|||
+0 03.cha MOT spa 	ID:	spa|Irene|MOT|||||Mother|||
+0 03_2.cha FAT spa 	ID:	spa|Nieva|FAT||male|||Father|||
+0 03_2.cha MOT spa 	ID:	spa|Nieva|MOT||female|||Mother|||
+0 03_2.cha UNC spa 	ID:	spa|Nieva|UNC||male|||Uncle|||
+0 03a.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 03a.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 03b.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 03b.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 03c.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 03c.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 03d.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 03d.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 04.cha MOT spa 	ID:	spa|Irene|MOT|||||Mother|||
+0 04_2.cha AUN spa 	ID:	spa|Nieva|AUN||female|||Aunt|||
+0 04_2.cha FAT spa 	ID:	spa|Nieva|FAT||male|||Father|||
+0 04_2.cha MOT spa 	ID:	spa|Nieva|MOT||female|||Mother|||
+0 04a.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 04a.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 04b.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 04b.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 04c.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 04c.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 04d.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 04d.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 04e.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 04e.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 04f.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 04f.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 04g.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 04g.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 05.cha FAT spa 	ID:	spa|Irene|FAT|||||Father|||
+0 05.cha MOT spa 	ID:	spa|Irene|MOT|||||Mother|||
+0 05_2.cha MOT spa 	ID:	spa|Nieva|MOT||female|||Mother|||
+0 05_2.cha OBS spa 	ID:	spa|Nieva|OBS||female|||Investigator|||
+0 05a.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 05a.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 05b.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 05b.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 05c.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 05c.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 05d.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 05d.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 05e.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 05e.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 05f.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 05f.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 05g.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 05g.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 06.cha FAT spa 	ID:	spa|Irene|FAT|||||Father|||
+0 06.cha MOT spa 	ID:	spa|Irene|MOT|||||Mother|||
+0 06_2.cha FAT spa 	ID:	spa|Nieva|FAT||male|||Father|||
+0 06_2.cha MOT spa 	ID:	spa|Nieva|MOT||female|||Mother|||
+0 06a.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 06a.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 06b.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 06b.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 06c.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 06c.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 06d.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 06d.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 06e.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 06e.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 06f.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 06f.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 06g.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 06g.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 07.cha MOT spa 	ID:	spa|Irene|MOT|||||Mother|||
+0 07_2.cha MOT spa 	ID:	spa|Nieva|MOT||female|||Mother|||
+0 07a.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 07a.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 07a.cha TIO spa 	ID:	spa|Ornat|TIO|||||Uncle|||
+0 07b.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 07b.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 07b.cha TIO spa 	ID:	spa|Ornat|TIO|||||Uncle|||
+0 07c.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 07c.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 07c.cha TIO spa 	ID:	spa|Ornat|TIO|||||Uncle|||
+0 07d.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 07d.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 07d.cha TIA spa 	ID:	spa|Ornat|TIA|||||Aunt|||
+0 07e.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 07e.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 07e.cha TIA spa 	ID:	spa|Ornat|TIA|||||Aunt|||
+0 07f.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 07f.cha TIA spa 	ID:	spa|Ornat|TIA|||||Aunt|||
+0 07g.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 07g.cha TIA spa 	ID:	spa|Ornat|TIA|||||Aunt|||
+0 08.cha FAT spa 	ID:	spa|Irene|FAT|||||Father|||
+0 08.cha MOT spa 	ID:	spa|Irene|MOT|||||Mother|||
+0 08_2.cha GRF spa 	ID:	spa|Nieva|GRF|||||Grandfather|||
+0 08_2.cha GRM spa 	ID:	spa|Nieva|GRM|||||Grandmother|||
+0 08_2.cha MOT spa 	ID:	spa|Nieva|MOT|||||Mother|||
+0 08a.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 08a.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 08b.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 08b.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 08c.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 08d.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 08d.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 08e.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 08e.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 08f.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 08f.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 08g.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 08g.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 09.cha FAT spa 	ID:	spa|Irene|FAT|||||Father|||
+0 09.cha MOT spa 	ID:	spa|Irene|MOT|||||Mother|||
+0 09_2.cha MOT spa 	ID:	spa|Nieva|MOT||female|||Mother|||
+0 09_2.cha OBS spa 	ID:	spa|Nieva|OBS||female|||Investigator|||
+0 09a.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 09a.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 09b.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 09b.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 09c.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 09c.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 09d.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 09d.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 09e.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 09e.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 09f.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 09f.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 09g.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 09g.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 10.cha MOT spa 	ID:	spa|Irene|MOT|||||Mother|||
+0 10_2.cha MOT spa 	ID:	spa|Nieva|MOT||female|||Mother|||
+0 10_2.cha OBS spa 	ID:	spa|Nieva|OBS||female|||Investigator|||
+0 10a.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 10a.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 10b.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 10b.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 10c.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 10c.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 10d.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 10d.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 10e.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 10e.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 10f.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 10f.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 10g.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 10g.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 10m09.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 10m09.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 10m10.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 10m10.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 10m11.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 10m11.cha TEA spa 	ID:	spa|JacksonThal|TEA|||||Teacher|||
+0 10m12.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 10m13.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 10m13.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 10m14.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 10m15.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 10m15.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 10m16.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 10m16.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 10m17.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 10m17.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 10q02.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 10q02.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 10q03.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 10q03.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 10q04.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 10q04.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 10q05.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 10q05.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 10q06.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 10q07.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 10q07.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 10q08.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 10q08.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 10q18.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 10q18.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 10q19.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 10q19.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 10sb02.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 10sb02.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 10sb03.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 10sb03.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 10sb04.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 10sb04.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 10sb05.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 10sb05.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 10sb06.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 10sb06.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 10sb07.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 10sb07.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 10sb08.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 10sb08.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 10sb09.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 10sb09.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 10sb10.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 10sb10.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 10sb11.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 10sb11.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 10sb12.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 10sb12.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 10sb13.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 10sb13.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 10sb14.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 10sb14.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 10sb15.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 10sb15.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 11.cha FAT spa 	ID:	spa|Irene|FAT|||||Father|||
+0 11.cha MOT spa 	ID:	spa|Irene|MOT|||||Mother|||
+0 11_2.cha MOT spa 	ID:	spa|Nieva|MOT||female|||Mother|||
+0 11021.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 11026.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 11026.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 11029.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 11029.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 11029.cha TI1 eng 	ID:	spa , eng|OreaPine|TI1|||||Uncle|||
+0 11029.cha TI2 eng 	ID:	spa , eng|OreaPine|TI2|||||Uncle|||
+0 11103.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 11103.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 11107.cha ABU eng 	ID:	spa , eng|OreaPine|ABU|||||Grandmother|||
+0 11107.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 11107.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 11111.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 11111.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 11115.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 11115.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 11120.cha AB2 eng 	ID:	spa , eng|OreaPine|AB2|||||Uncle|||
+0 11120.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 11120.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 11120.cha TI3 eng 	ID:	spa , eng|OreaPine|TI3|||||Uncle|||
+0 11125.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 11125.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 11128.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 11128.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 11a.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 11a.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 11b.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 11b.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 11c.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 11c.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 11d.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 11d.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 11e.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 11e.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 11f.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 11f.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 11g.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 11g.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 12.cha FAT spa 	ID:	spa|Irene|FAT|||||Father|||
+0 12.cha MOT spa 	ID:	spa|Irene|MOT|||||Mother|||
+0 12_2.cha FAT spa 	ID:	spa|Nieva|FAT||female|| |Father|||
+0 12_2.cha MOT spa 	ID:	spa|Nieva|MOT||female|||Mother|||
+0 12a.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 12a.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 12b.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 12b.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 12c.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 12c.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 12d.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 12d.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 12e.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 12e.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 12f.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 12f.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 12g.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 12g.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 12m05.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 12m05.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 12m06.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 12m06.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 12m08.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 12m08.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 12m09.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 12m09.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 12m10.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 12m11.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 12m11.cha TEA spa 	ID:	spa|JacksonThal|TEA|||||Teacher|||
+0 12m12.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 12m12.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 12m13.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 12m13.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 12m21.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 12m21.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 12q02.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 12q02.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 12q03.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 12q03.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 12q04.cha FAT spa 	ID:	spa|JacksonThal|FAT|||||Father|||
+0 12q04.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 12q04.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 12q14.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 12q14.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 12q15.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 12q15.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 12q16.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 12q16.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 12q17.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 12q17.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 12q18.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 12q18.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 12q19.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 12q19.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 12q20.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 12q20.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 12sb02.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 12sb02.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 12sb03.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 12sb03.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 12sb04.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 12sb04.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 12sb05.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 12sb05.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 12sb06.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 12sb06.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 12sb07.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 12sb07.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 12sb08.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 12sb08.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 12sb09.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 12sb09.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 12sb10.cha FAT spa 	ID:	spa|JacksonThal|FAT|||||Father|||
+0 12sb10.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 12sb10.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 13.cha FAT spa 	ID:	spa|Irene|FAT|||||Father|||
+0 13.cha MOT spa 	ID:	spa|Irene|MOT|||||Mother|||
+0 13_2.cha FAT spa 	ID:	spa|Nieva|FAT||female|| |Father|||
+0 13_2.cha MOT spa 	ID:	spa|Nieva|MOT||female|||Mother|||
+0 13a.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 13a.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 13b.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 13c.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 13c.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 13d.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 13d.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 13e.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 13e.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 13f.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 13f.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 14.cha FAT spa 	ID:	spa|Irene|FAT|||||Father|||
+0 14.cha MOT spa 	ID:	spa|Irene|MOT|||||Mother|||
+0 14_2.cha MOT spa 	ID:	spa|Nieva|MOT||female|||Mother|||
+0 14_2.cha OBS spa 	ID:	spa|Nieva|OBS||female|||Investigator|||
+0 14_3.cha MAR spa 	ID:	spa|SerraSole|MAR|||||Mother|||
+0 14a.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 14a.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 14b.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 14b.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 14c.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 14d.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 14d.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 14e.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 14e.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 14f.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 14f.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 14g.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 14g.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 15.cha MOT spa 	ID:	spa|Irene|MOT|||||Mother|||
+0 15_2.cha FAT spa 	ID:	spa|Nieva|FAT||male|||Father|||
+0 15_2.cha MOT spa 	ID:	spa|Nieva|MOT||female|||Mother|||
+0 15_2.cha OBS spa 	ID:	spa|Nieva|OBS||female|||Investigator|||
+0 15_3.cha MAR spa 	ID:	spa|SerraSole|MAR|||||Mother|||
+0 15a.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 15a.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 15b.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 15b.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 15c.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 15c.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 15d.cha ABU spa 	ID:	spa|Ornat|ABU|||||Grandmother|||
+0 15d.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 15d.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 15e.cha ABU spa 	ID:	spa|Ornat|ABU|||||Grandmother|||
+0 15e.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 15f.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 15f.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 15g.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 16.cha MOT spa 	ID:	spa|Irene|MOT|||||Mother|||
+0 16_2.cha FAT spa 	ID:	spa|Nieva|FAT||male|||Father|||
+0 16_2.cha MOT spa 	ID:	spa|Nieva|MOT||female|||Mother|||
+0 16_2.cha OBS spa 	ID:	spa|Nieva|OBS||female|||Investigator|||
+0 16_3.cha MAR spa 	ID:	spa|SerraSole|MAR|||||Mother|||
+0 16a.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 16a.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 16b.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 16b.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 16c.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 16c.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 16d.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 16d.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 16e.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 16f.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 16g.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 17.cha FAT spa 	ID:	spa|Irene|FAT|||||Father|||
+0 17.cha MOT spa 	ID:	spa|Irene|MOT|||||Mother|||
+0 17_2.cha FAT spa 	ID:	spa|Nieva|FAT||male|||Father|||
+0 17_2.cha MOT spa 	ID:	spa|Nieva|MOT||female|||Mother|||
+0 17_2.cha OBS spa 	ID:	spa|Nieva|OBS||female|||Investigator|||
+0 17_3.cha MAR spa 	ID:	spa|SerraSole|MAR|||||Mother|||
+0 17_3.cha OBS spa 	ID:	spa|SerraSole|OBS|||||Investigator|||
+0 17a.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 17a.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 17b.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 17b.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 17c.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 17c.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 17d.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 17d.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 17d.cha VEC spa 	ID:	spa|Ornat|VEC|||||Adult|||
+0 17e.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 17e.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 17f.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 17f.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 17g.cha MAD spa 	ID:	spa|Ornat|MAD|||||Mother|||
+0 17g.cha PAD spa 	ID:	spa|Ornat|PAD|||||Father|||
+0 18.cha FAT spa 	ID:	spa|Irene|FAT|||||Father|||
+0 18.cha MOT spa 	ID:	spa|Irene|MOT|||||Mother|||
+0 18_2.cha FAT spa 	ID:	spa|Nieva|FAT||male|||Father|||
+0 18_2.cha MOT spa 	ID:	spa|Nieva|MOT||female|||Mother|||
+0 18_3.cha MAR spa 	ID:	spa|SerraSole|MAR|||||Mother|||
+0 19.cha MOT spa 	ID:	spa|Irene|MOT|||||Mother|||
+0 19_2.cha AUN spa 	ID:	spa|Nieva|AUN||female|||Aunt|||
+0 19_2.cha FAT spa 	ID:	spa|Nieva|FAT||male|||Father|||
+0 19_2.cha OBS spa 	ID:	spa|Nieva|OBS||female|||Investigator|||
+0 19_3.cha MAR spa 	ID:	spa|SerraSole|MAR|||||Mother|||
+0 19_3.cha OBS spa 	ID:	spa|SerraSole|OBS|||||Investigator|||
+0 20.cha MOT spa 	ID:	spa|Irene|MOT|||||Mother|||
+0 20_2.cha FAT spa 	ID:	spa|Nieva|FAT||male|||Father|||
+0 20_2.cha MOT spa 	ID:	spa|Nieva|MOT||female|||Mother|||
+0 20_2.cha OBS spa 	ID:	spa|Nieva|OBS||female|||Investigator|||
+0 20_2.cha UNC spa 	ID:	spa|Nieva|UNC||male|||Uncle|||
+0 20_3.cha DRE spa 	ID:	spa|SerraSole|DRE|||||Adult|||
+0 20_3.cha MAR spa 	ID:	spa|SerraSole|MAR|||||Mother|||
+0 20_3.cha OBS spa 	ID:	spa|SerraSole|OBS|||||Investigator|||
+0 20002.cha AB2 eng 	ID:	spa , eng|OreaPine|AB2|||||Grandfather|||
+0 20002.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 20002.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 20003.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 20003.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 20004.cha AB2 eng 	ID:	spa , eng|OreaPine|AB2|||||Uncle|||
+0 20004.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 20006.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 20006.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 20009.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 20012.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 20014.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 20014.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 20019.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 20019.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 20025.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 20025.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 20100.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 20100.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 20104.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 20104.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 20112.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 20112.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 20118.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 20118.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 20121.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 20121.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 20124.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 20124.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 20126.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 20129.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 20129.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 20201.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 20201.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 20204.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 20207.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 20207.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 20211.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 20211.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 20214.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 20214.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 20216.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 20216.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 20222.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 20224.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 20230.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 20230.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 20230.cha TI2 eng 	ID:	spa , eng|OreaPine|TI2|||||Uncle|||
+0 20303.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 20303.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 20304.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 20310.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 20310.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 20312.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 20312.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 20313.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 20317.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 20317.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 20320.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 20320.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 20322.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 20322.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 20326.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 20326.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 20328.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 20402.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 20404.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 20404.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 20410.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 20410.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 20412.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 20412.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 20412.cha TI1 eng 	ID:	spa , eng|OreaPine|TI1|||||Uncle|||
+0 20417.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 20417.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 20417.cha TI2 eng 	ID:	spa , eng|OreaPine|TI2|||||Uncle|||
+0 20418.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 20418.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 20424.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 20425.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 20425.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 20429.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 20429.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 20500.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 20500.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 20505.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 20505.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 20507.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 20507.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 20514.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 20517.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 20517.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 20518.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 20518.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 20518.cha VEC eng 	ID:	spa , eng|OreaPine|VEC|||||Visitor|||
+0 20521.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 20521.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 20524.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 20524.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 20528.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 20528.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 20529.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 20529.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 20m02.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 20m02.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 20m03.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 20m03.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 20m04.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 20m04.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 20m05.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 20m05.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 20m06.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 20m06.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 20m07.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 20m07.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 20m08.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 20m08.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 20m20.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 20m20.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 20m21.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 20m21.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 20q09.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 20q09.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 20q10.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 20q10.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 20q11.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 20q11.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 20q12.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 20q12.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 20q13.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 20q13.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 20q14.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 20q14.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 20q16.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 20q16.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 20q17.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 20q17.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 20q18.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 20q18.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 20q19.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 20q19.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 20q22.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 20q22.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 20sb01.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 20sb01.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 20sb02.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 20sb02.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 20sb03.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 20sb03.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 20sb04.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 20sb04.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 20sb05.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 20sb05.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 20sb06.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 20sb06.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 20sb07.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 20sb07.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 20sb08.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 20sb08.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 20sb09.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 20sb09.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 20sb10.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 20sb10.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 21.cha FAT spa 	ID:	spa|Irene|FAT|||||Father|||
+0 21.cha MOT spa 	ID:	spa|Irene|MOT|||||Mother|||
+0 21_2.cha FAT spa 	ID:	spa|Nieva|FAT||female|||Father|||
+0 21_2.cha MOT spa 	ID:	spa|Nieva|MOT||female|||Mother|||
+0 21_3.cha MAR spa 	ID:	spa|SerraSole|MAR|||||Mother|||
+0 21_3.cha OBS spa 	ID:	spa|SerraSole|OBS|||||Investigator|||
+0 21_3.cha PAR spa 	ID:	spa|SerraSole|PAR|||||Father|||
+0 22.cha FAT spa 	ID:	spa|Irene|FAT|||||Father|||
+0 22.cha MOT spa 	ID:	spa|Irene|MOT|||||Mother|||
+0 22_2.cha MOT spa 	ID:	spa|Nieva|MOT||female|||Mother|||
+0 22_2.cha OBS spa 	ID:	spa|Nieva|OBS||female|||Investigator|||
+0 22_3.cha MAR spa 	ID:	spa|SerraSole|MAR|||||Mother|||
+0 22_3.cha OBS spa 	ID:	spa|SerraSole|OBS|||||Investigator|||
+0 22_3.cha PAR spa 	ID:	spa|SerraSole|PAR|||||Father|||
+0 23.cha FAT spa 	ID:	spa|Irene|FAT|||||Father|||
+0 23.cha MOT spa 	ID:	spa|Irene|MOT|||||Mother|||
+0 23_2.cha AUN spa 	ID:	spa|Nieva|AUN||female|||Aunt|||
+0 23_2.cha FAT spa 	ID:	spa|Nieva|FAT||male|||Father|||
+0 23_2.cha MOT spa 	ID:	spa|Nieva|MOT||female|||Mother|||
+0 23_2.cha OBS spa 	ID:	spa|Nieva|OBS||female|||Observer|||
+0 23_3.cha MAR spa 	ID:	spa|SerraSole|MAR|||||Mother|||
+0 23_3.cha OBS spa 	ID:	spa|SerraSole|OBS|||||Investigator|||
+0 24.cha FAT spa 	ID:	spa|Irene|FAT|||||Father|||
+0 24.cha MOT spa 	ID:	spa|Irene|MOT|||||Mother|||
+0 24_2.cha MOT spa 	ID:	spa|Nieva|MOT||female|||Mother|||
+0 24_2.cha OBS spa 	ID:	spa|Nieva|OBS||female|||Investigator|||
+0 24_3.cha ADU spa 	ID:	spa|SerraSole|ADU|||||Adult|||
+0 24_3.cha MAR spa 	ID:	spa|SerraSole|MAR|||||Mother|||
+0 24_3.cha OBS spa 	ID:	spa|SerraSole|OBS|||||Investigator|||
+0 25.cha FAT spa 	ID:	spa|Irene|FAT|||||Father|||
+0 25.cha MOT spa 	ID:	spa|Irene|MOT|||||Mother|||
+0 25_2.cha AUN spa 	ID:	spa|Nieva|AUN||female|||Aunt|||
+0 25_2.cha MOT spa 	ID:	spa|Nieva|MOT||female|||Mother|||
+0 25_2.cha OBS spa 	ID:	spa|Nieva|OBS||female|||Investigator|||
+0 26.cha FAT spa 	ID:	spa|Irene|FAT|||||Father|||
+0 26.cha MOT spa 	ID:	spa|Irene|MOT|||||Mother|||
+0 26_2.cha MOT spa 	ID:	spa|Nieva|MOT||female|||Mother|||
+0 26_2.cha OBS spa 	ID:	spa|Nieva|OBS||female|||Investigator|||
+0 27.cha FAT spa 	ID:	spa|Irene|FAT|||||Father|||
+0 27.cha MOT spa 	ID:	spa|Irene|MOT|||||Mother|||
+0 27_2.cha AUN spa 	ID:	spa|Nieva|AUN||female|||Aunt|||
+0 27_2.cha MOT spa 	ID:	spa|Nieva|MOT||female|||Mother|||
+0 27_2.cha OBS spa 	ID:	spa|Nieva|OBS||female|||Investigator|||
+0 28.cha MOT spa 	ID:	spa|Irene|MOT|||||Mother|||
+0 28_2.cha FAT spa 	ID:	spa|Nieva|FAT||male|||Father|||
+0 28m10.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 28m11.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 28m11.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 28m12.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 28m13.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 28m13.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 28m14.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 28m15.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 28m15.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 28m16.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 28m16.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 28m17.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 28m17.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 28m18.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 28m18.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 28q01.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 28q01.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 28q02.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 28q02.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 28q03.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 28q03.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 28q04.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 28q04.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 28q05.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 28q05.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 28q06.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 28q06.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 28q07.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 28q07.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 28q08.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 28q09.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 28q09.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 28q19.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 28q19.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 28q20.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 28q20.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 28sb01.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 28sb01.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 28sb02.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 28sb02.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 28sb03.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 28sb03.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 28sb05.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 28sb05.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 28sb06.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 28sb06.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 28sb07.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 28sb07.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 28sb08.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 28sb08.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 28sb09.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 28sb09.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 28sb10.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 28sb10.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 28sb11.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 28sb11.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 28sb12.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 28sb12.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 29.cha FAT spa 	ID:	spa|Irene|FAT|||||Father|||
+0 29.cha MOT spa 	ID:	spa|Irene|MOT|||||Mother|||
+0 29_2.cha MOT spa 	ID:	spa|Nieva|MOT||female|||Mother|||
+0 30.cha FAT spa 	ID:	spa|Irene|FAT|||||Father|||
+0 30.cha MOT spa 	ID:	spa|Irene|MOT|||||Mother|||
+0 30_2.cha FAT spa 	ID:	spa|Nieva|FAT||male|||Father|||
+0 30_2.cha MOT spa 	ID:	spa|Nieva|MOT||female|||Mother|||
+0 31.cha FAT spa 	ID:	spa|Irene|FAT|||||Father|||
+0 31.cha MOT spa 	ID:	spa|Irene|MOT|||||Mother|||
+0 31_2.cha MOT spa 	ID:	spa|Nieva|MOT||female|||Mother|||
+0 31_2.cha OBS spa 	ID:	spa|Nieva|OBS||female|||Investigator|||
+0 32.cha FAT spa 	ID:	spa|Irene|FAT|||||Father|||
+0 32.cha MOT spa 	ID:	spa|Irene|MOT|||||Mother|||
+0 32_2.cha FAT spa 	ID:	spa|Nieva|FAT||female|||Father|||
+0 32_2.cha OBS spa 	ID:	spa|Nieva|OBS||female|||Investigator|||
+0 33.cha FAT spa 	ID:	spa|Irene|FAT|||||Father|||
+0 33.cha MOT spa 	ID:	spa|Irene|MOT|||||Mother|||
+0 34.cha FAT spa 	ID:	spa|Irene|FAT|||||Father|||
+0 34.cha MOT spa 	ID:	spa|Irene|MOT|||||Mother|||
+0 35.cha FAT spa 	ID:	spa|Irene|FAT|||||Father|||
+0 35.cha MOT spa 	ID:	spa|Irene|MOT|||||Mother|||
+0 36.cha FAT spa 	ID:	spa|Irene|FAT|||||Father|||
+0 36.cha MOT spa 	ID:	spa|Irene|MOT|||||Mother|||
+0 36mc13.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 36mc14.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 36mc14.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 36mc15.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 36mc15.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 36mc16.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 36mc16.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 36mc17.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 36mc19.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 36mc20.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 36mc20.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 36mc21.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 36mc21.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 36mc22.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 36mc22.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 36qc01.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 36qc01.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 36qc03.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 36qc03.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 36qc05.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 36qc05.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 36qc06.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 36qc06.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 36qc07.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 36qc07.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 36qc08.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 36qc08.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 36qc09.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 36qc09.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 36qc10.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 36qc10.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 36qc11.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 36qc11.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 36qc12.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 36qc12.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 36sb01.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 36sb01.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 36sb02.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 36sb02.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 36sb03.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 36sb03.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 36sb04.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 36sb04.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 36sb05.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 36sb05.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 36sb06.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 36sb06.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 36sb07.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 36sb07.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 36sb08.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 36sb08.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 36sb09.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 36sb09.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 36sb11.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 36sb11.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Father|||
+0 36sb12.cha INV spa 	ID:	spa|JacksonThal|INV|||||Investigator|||
+0 36sb12.cha PAR spa 	ID:	spa|JacksonThal|PAR|||||Mother|||
+0 37.cha FAT spa 	ID:	spa|Irene|FAT|||||Father|||
+0 37.cha MOT spa 	ID:	spa|Irene|MOT|||||Mother|||
+0 38.cha FAT spa 	ID:	spa|Irene|FAT|||||Father|||
+0 38.cha MOT spa 	ID:	spa|Irene|MOT|||||Mother|||
+0 39.cha FAT spa 	ID:	spa|Irene|FAT|||||Father|||
+0 39.cha MOT spa 	ID:	spa|Irene|MOT|||||Mother|||
+0 40.cha FAT spa 	ID:	spa|Irene|FAT|||||Father|||
+0 40.cha MOT spa 	ID:	spa|Irene|MOT|||||Mother|||
+0 41.cha MOT spa 	ID:	spa|Irene|MOT|||||Mother|||
+0 42.cha FAT spa 	ID:	spa|Irene|FAT|||||Father|||
+0 42.cha MOT spa 	ID:	spa|Irene|MOT|||||Mother|||
+0 43.cha FAT spa 	ID:	spa|Irene|FAT|||||Father|||
+0 43.cha MOT spa 	ID:	spa|Irene|MOT|||||Mother|||
+0 44.cha FAT spa 	ID:	spa|Irene|FAT|||||Father|||
+0 44.cha MOT spa 	ID:	spa|Irene|MOT|||||Mother|||
+0 45.cha FAT spa 	ID:	spa|Irene|FAT|||||Father|||
+0 45.cha MOT spa 	ID:	spa|Irene|MOT|||||Mother|||
+0 46.cha FAT spa 	ID:	spa|Irene|FAT|||||Father|||
+0 46.cha MOT spa 	ID:	spa|Irene|MOT|||||Mother|||
+0 47.cha FAT spa 	ID:	spa|Irene|FAT|||||Father|||
+0 47.cha MOT spa 	ID:	spa|Irene|MOT|||||Mother|||
+0 48.cha FAT spa 	ID:	spa|Irene|FAT|||||Father|||
+0 48.cha MOT spa 	ID:	spa|Irene|MOT|||||Mother|||
+0 49.cha FAT spa 	ID:	spa|Irene|FAT|||||Father|||
+0 49.cha MOT spa 	ID:	spa|Irene|MOT|||||Mother|||
+0 50.cha FAT eng 	ID:	spa , eng|Irene|FAT|||||Father|||
+0 50.cha MOT eng 	ID:	spa , eng|Irene|MOT|||||Mother|||
+0 51.cha FAT eng 	ID:	spa , eng|Irene|FAT|||||Father|||
+0 51.cha MOT eng 	ID:	spa , eng|Irene|MOT|||||Mother|||
+0 52.cha FAT spa 	ID:	spa|Irene|FAT|||||Father|||
+0 52.cha MOT spa 	ID:	spa|Irene|MOT|||||Mother|||
+0 53.cha FAT spa 	ID:	spa|Irene|FAT|||||Father|||
+0 53.cha MOT spa 	ID:	spa|Irene|MOT|||||Mother|||
+0 54.cha FAT spa 	ID:	spa|Irene|FAT|||||Father|||
+0 54.cha MOT spa 	ID:	spa|Irene|MOT|||||Mother|||
+0 55.cha FAT spa 	ID:	spa|Irene|FAT|||||Father|||
+0 55.cha MOT spa 	ID:	spa|Irene|MOT|||||Mother|||
+0 56.cha FAT spa 	ID:	spa|Irene|FAT|||||Father|||
+0 56.cha MOT spa 	ID:	spa|Irene|MOT|||||Mother|||
+0 57.cha FAT spa 	ID:	spa|Irene|FAT|||||Father|||
+0 57.cha MOT spa 	ID:	spa|Irene|MOT|||||Mother|||
+0 58.cha FAT eng 	ID:	spa , eng|Irene|FAT|||||Father|||
+0 58.cha MOT eng 	ID:	spa , eng|Irene|MOT|||||Mother|||
+0 59.cha FAT spa 	ID:	spa|Irene|FAT|||||Father|||
+0 59.cha MOT spa 	ID:	spa|Irene|MOT|||||Mother|||
+0 60.cha FAT spa 	ID:	spa|Irene|FAT|||||Father|||
+0 60.cha MOT spa 	ID:	spa|Irene|MOT|||||Mother|||
+0 alf9102.cha MJO spa 	ID:	spa|Marrero|MJO|||||Investigator|||
+0 alf9102.cha TAN spa 	ID:	spa|Marrero|TAN|||||Aunt|||
+0 alf9105.cha MJO spa 	ID:	spa|Marrero|MJO|||||Investigator|||
+0 alf9105.cha TAN spa 	ID:	spa|Marrero|TAN|||||Aunt|||
+0 alf9109.cha MJO spa 	ID:	spa|Marrero|MJO|||||Investigator|||
+0 alf9109.cha MOT spa 	ID:	spa|Marrero|MOT|||||Mother|||
+0 e01.cha HUM spa 	ID:	spa|Vila|HUM|||||Observer|||
+0 e01.cha INE spa 	ID:	spa|Vila|INE|||||Mother|||
+0 e02.cha INE spa 	ID:	spa|Vila|INE|||||Mother|||
+0 e02.cha JOS spa 	ID:	spa|Vila|JOS|||||Father|||
+0 e02.cha NAC spa 	ID:	spa|Vila|NAC|||||Observer|||
+0 e03.cha INE spa 	ID:	spa|Vila|INE|||||Mother|||
+0 e03.cha PAP spa 	ID:	spa|Vila|PAP|||||Father|||
+0 e04.cha INE spa 	ID:	spa|Vila|INE|||||Mother|||
+0 e04.cha JOS spa 	ID:	spa|Vila|JOS|||||Father|||
+0 e05.cha INE spa 	ID:	spa|Vila|INE|||||Mother|||
+0 e05.cha PAP spa 	ID:	spa|Vila|PAP|||||Father|||
+0 e06.cha INE spa 	ID:	spa|Vila|INE|||||Mother|||
+0 e07.cha INE spa 	ID:	spa|Vila|INE|||||Mother|||
+0 e07.cha JOS spa 	ID:	spa|Vila|JOS|||||Father|||
+0 e07.cha NAC spa 	ID:	spa|Vila|NAC|||||Observer|||
+0 e08.cha INE spa 	ID:	spa|Vila|INE|||||Mother|||
+0 e09.cha CEC spa 	ID:	spa|Vila|CEC|||||Adult|||
+0 e09.cha INE spa 	ID:	spa|Vila|INE|||||Mother|||
+0 e10.cha JOS spa 	ID:	spa|Vila|JOS|||||Father|||
+0 e10.cha NAC spa 	ID:	spa|Vila|NAC|||||Observer|||
+0 e11.cha INE spa 	ID:	spa|Vila|INE|||||Mother|||
+0 e11.cha NAC spa 	ID:	spa|Vila|NAC|||||Observer|||
+0 e12.cha INE spa 	ID:	spa|Vila|INE|||||Mother|||
+0 e12.cha JOS spa 	ID:	spa|Vila|JOS|||||Father|||
+0 e12.cha NAC spa 	ID:	spa|Vila|NAC|||||Observer|||
+0 e13.cha NAC spa 	ID:	spa|Vila|NAC|||||Observer|||
+0 e13.cha PAP spa 	ID:	spa|Vila|PAP|||||Father|||
+0 e14.cha INE spa 	ID:	spa|Vila|INE|||||Mother|||
+0 e14.cha MER spa 	ID:	spa|Vila|MER|||||Adult|||
+0 e14.cha NAC spa 	ID:	spa|Vila|NAC|||||Observer|||
+0 e15.cha INE spa 	ID:	spa|Vila|INE|||||Mother|||
+0 e15.cha NAC spa 	ID:	spa|Vila|NAC|||||Observer|||
+0 e16.cha INE spa 	ID:	spa|Vila|INE|||||Mother|||
+0 e16.cha NAC spa 	ID:	spa|Vila|NAC|||||Observer|||
+0 e17.cha INE spa 	ID:	spa|Vila|INE|||||Mother|||
+0 e17.cha JOS spa 	ID:	spa|Vila|JOS|||||Father|||
+0 e17.cha NAC spa 	ID:	spa|Vila|NAC|||||Observer|||
+0 e18.cha INE spa 	ID:	spa|Vila|INE|||||Mother|||
+0 e18.cha NAC spa 	ID:	spa|Vila|NAC|||||Observer|||
+0 e19.cha INE spa 	ID:	spa|Vila|INE|||||Mother|||
+0 e19.cha JUA spa 	ID:	spa|Vila|JUA|||||Adult|||
+0 e19.cha NAC spa 	ID:	spa|Vila|NAC|||||Observer|||
+0 e20.cha INE spa 	ID:	spa|Vila|INE|||||Mother|||
+0 e20.cha NAC spa 	ID:	spa|Vila|NAC|||||Observer|||
+0 e21.cha INE spa 	ID:	spa|Vila|INE|||||Mother|||
+0 e21.cha NAC spa 	ID:	spa|Vila|NAC|||||Observer|||
+0 e22.cha INE spa 	ID:	spa|Vila|INE|||||Mother|||
+0 e22.cha JOS spa 	ID:	spa|Vila|JOS|||||Father|||
+0 e22.cha NAC spa 	ID:	spa|Vila|NAC|||||Observer|||
+0 e23.cha INE spa 	ID:	spa|Vila|INE|||||Mother|||
+0 e23.cha NAC spa 	ID:	spa|Vila|NAC|||||Observer|||
+0 e24.cha INE spa 	ID:	spa|Vila|INE|||||Mother|||
+0 e24.cha JOS spa 	ID:	spa|Vila|JOS|||||Father|||
+0 e24.cha NAC spa 	ID:	spa|Vila|NAC|||||Observer|||
+0 e25.cha INE spa 	ID:	spa|Vila|INE|||||Mother|||
+0 e25.cha NAC spa 	ID:	spa|Vila|NAC|||||Observer|||
+0 e25.cha XDE spa 	ID:	spa|Vila|XDE|||||Adult|||
+0 e26.cha JOS spa 	ID:	spa|Vila|JOS|||||Father|||
+0 e27.cha MAR spa 	ID:	spa|Vila|MAR|||||Mother|||
+0 e27.cha NAC spa 	ID:	spa|Vila|NAC|||||Observer|||
+0 e28.cha ISA spa 	ID:	spa|Vila|ISA|||||Observer|||
+0 e28.cha MAR spa 	ID:	spa|Vila|MAR|||||Mother|||
+0 e29.cha ISA spa 	ID:	spa|Vila|ISA|||||Observer|||
+0 e29.cha MAR spa 	ID:	spa|Vila|MAR|||||Mother|||
+0 e30.cha ISA spa 	ID:	spa|Vila|ISA|||||Observer|||
+0 e30.cha MAR spa 	ID:	spa|Vila|MAR|||||Mother|||
+0 e31.cha ISA spa 	ID:	spa|Vila|ISA|||||Observer|||
+0 e31.cha MAR spa 	ID:	spa|Vila|MAR|||||Mother|||
+0 e32.cha ISA spa 	ID:	spa|Vila|ISA|||||Observer|||
+0 e32.cha MAR spa 	ID:	spa|Vila|MAR|||||Mother|||
+0 e33.cha ISA spa 	ID:	spa|Vila|ISA|||||Observer|||
+0 e33.cha MAR spa 	ID:	spa|Vila|MAR|||||Mother|||
+0 e34.cha ISA spa 	ID:	spa|Vila|ISA|||||Observer|||
+0 e34.cha MAR spa 	ID:	spa|Vila|MAR|||||Mother|||
+0 e34.cha PAR spa 	ID:	spa|Vila|PAR|||||Father|||
+0 e35.cha ISA spa 	ID:	spa|Vila|ISA|||||Observer|||
+0 e35.cha MAR spa 	ID:	spa|Vila|MAR|||||Mother|||
+0 ida9009.cha ABU spa 	ID:	spa|Marrero|ABU|||||Mother|||
+0 ida9009.cha MOT spa 	ID:	spa|Marrero|MOT|||||Mother|||
+0 ida9009.cha TOY spa 	ID:	spa|Marrero|TOY|||||Investigator|||
+0 ida9101.cha ALB spa 	ID:	spa|Marrero|ALB|||||Father|||
+0 ida9101.cha TOY spa 	ID:	spa|Marrero|TOY|||||Investigator|||
+0 ida9104.cha TOY spa 	ID:	spa|Marrero|TOY|||||Investigator|||
+0 ida9108.cha MOT spa 	ID:	spa|Marrero|MOT|||||Mother|||
+0 ida9108.cha TOY spa 	ID:	spa|Marrero|TOY|||||Investigator|||
+0 ida9201.cha SIL spa 	ID:	spa|Marrero|SIL|||||Aunt|||
+0 ida9201.cha TOY spa 	ID:	spa|Marrero|TOY|||||Investigator|||
+0 ida9208.cha TOY spa 	ID:	spa|Marrero|TOY|||||Investigator|||
+0 lu20225.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 lu20225.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 lu20227.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 lu20227.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 lu20230.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 lu20230.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 lu20303.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 lu20303.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 lu20305.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 lu20305.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 lu20307.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 lu20307.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 lu20310.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 lu20310.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 lu20311.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 lu20311.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 lu20312.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 lu20312.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 lu20313.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 lu20314.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 lu20314.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 lu20316.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 lu20320.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 lu20320.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 lu20321.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 lu20321.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 lu20324.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 lu20324.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 lu20325.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 lu20325.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 lu20328.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 lu20328.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 lu20330.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 lu20330.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 lu20400.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 lu20400.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 lu20405.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 lu20405.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 lu20408.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 lu20408.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 lu20409.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 lu20409.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 lu20410.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 lu20410.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 lu20411.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 lu20411.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 lu20413.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 lu20413.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 lu20414.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 lu20414.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 lu20415.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 lu20416.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 lu20416.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 lu20417.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 lu20417.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 lu20419.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 lu20419.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 lu20420.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 lu20420.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 lu20424.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 lu20424.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 lu20425.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 lu20426.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 lu20426.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 lu20502.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 lu20503.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 lu20505.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 lu20505.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 lu20507.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 lu20507.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 lu20511.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 lu20511.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 lu20513.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 lu20513.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 lu20514.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 lu20515.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 lu20515.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 lu20516.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 lu20521.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 lu20521.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 lu20523.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 lu20526.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 lu20526.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 lu20608.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 lu20608.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 lu20609.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 lu20609.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 lu20610.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 lu20610.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 lu20611.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 lu20611.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 lu20614.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 lu20614.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 lu20615.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 lu20615.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 lu20619.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 lu20619.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 lu20622.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 lu20622.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 lu20624.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 lu20624.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 lu20627.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 lu20627.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 lu20630.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 lu20630.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 lu20708.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 lu20708.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 lu20711.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 lu20711.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 lu20712.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 lu20712.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 lu20713.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 lu20713.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 lu20714.cha FAT eng 	ID:	spa , eng|OreaPine|FAT|||||Father|||
+0 lu20714.cha MOT eng 	ID:	spa , eng|OreaPine|MOT|||||Mother|||
+0 mag1900.cha FAT spa 	ID:	spa|Aguirre|FAT|||||Father|||
+0 mag1900.cha MOT spa 	ID:	spa|Aguirre|MOT|||||Mother|||
+0 mag2001.cha FAT spa 	ID:	spa|Aguirre|FAT|||||Father|||
+0 mag2001.cha MOT spa 	ID:	spa|Aguirre|MOT|||||Mother|||
+0 mag2015.cha FAT spa 	ID:	spa|Aguirre|FAT|||||Father|||
+0 mag2015.cha MOT spa 	ID:	spa|Aguirre|MOT|||||Mother|||
+0 mag2101.cha MOT spa 	ID:	spa|Aguirre|MOT|||||Mother|||
+0 mag2115.cha FAT spa 	ID:	spa|Aguirre|FAT|||||Father|||
+0 mag2115.cha MOT spa 	ID:	spa|Aguirre|MOT|||||Mother|||
+0 mag2127.cha FAT spa 	ID:	spa|Aguirre|FAT|||||Father|||
+0 mag2127.cha MOT spa 	ID:	spa|Aguirre|MOT|||||Mother|||
+0 mag2200.cha FAT spa 	ID:	spa|Aguirre|FAT|||||Father|||
+0 mag2200.cha MOT spa 	ID:	spa|Aguirre|MOT|||||Mother|||
+0 mag2201.cha FAT spa 	ID:	spa|Aguirre|FAT|||||Father|||
+0 mag2201.cha MOT spa 	ID:	spa|Aguirre|MOT|||||Mother|||
+0 mag2203.cha MOT spa 	ID:	spa|Aguirre|MOT|||||Mother|||
+0 mag2215.cha FAM spa 	ID:	spa|Aguirre|FAM|||||Family_Friend|||
+0 mag2215.cha FAT spa 	ID:	spa|Aguirre|FAT|||||Father|||
+0 mag2215.cha MOT spa 	ID:	spa|Aguirre|MOT|||||Mother|||
+0 mag2216.cha FAT spa 	ID:	spa|Aguirre|FAT|||||Father|||
+0 mag2216.cha MOT spa 	ID:	spa|Aguirre|MOT|||||Mother|||
+0 mag2220.cha FAM spa 	ID:	spa|Aguirre|FAM|||||Family_Friend|||
+0 mag2220.cha FAT spa 	ID:	spa|Aguirre|FAT|||||Father|||
+0 mag2220.cha MOT spa 	ID:	spa|Aguirre|MOT|||||Mother|||
+0 mag2227.cha FAT spa 	ID:	spa|Aguirre|FAT|||||Father|||
+0 mag2227.cha MOT spa 	ID:	spa|Aguirre|MOT|||||Mother|||
+0 mag2300.cha FAM spa 	ID:	spa|Aguirre|FAM|||||Family_Friend|||
+0 mag2300.cha FAT spa 	ID:	spa|Aguirre|FAT|||||Father|||
+0 mag2300.cha MOT spa 	ID:	spa|Aguirre|MOT|||||Mother|||
+0 mag2320.cha FAM spa 	ID:	spa|Aguirre|FAM|||||Family_Friend|||
+0 mag2320.cha FAT spa 	ID:	spa|Aguirre|FAT|||||Father|||
+0 mag2320.cha MOT spa 	ID:	spa|Aguirre|MOT|||||Mother|||
+0 mag2400.cha FAT spa 	ID:	spa|Aguirre|FAT|||||Father|||
+0 mag2400.cha MOT spa 	ID:	spa|Aguirre|MOT|||||Mother|||
+0 mag2415.cha FAT spa 	ID:	spa|Aguirre|FAT|||||Father|||
+0 mag2415.cha MOT spa 	ID:	spa|Aguirre|MOT|||||Mother|||
+0 mag2500.cha FAM spa 	ID:	spa|Aguirre|FAM|||||Family_Friend|||
+0 mag2500.cha FAT spa 	ID:	spa|Aguirre|FAT|||||Father|||
+0 mag2500.cha MOT spa 	ID:	spa|Aguirre|MOT|||||Mother|||
+0 mag2515.cha MOT spa 	ID:	spa|Aguirre|MOT|||||Mother|||
+0 mag2702.cha FAM spa 	ID:	spa|Aguirre|FAM|||||Family_Friend|||
+0 mag2702.cha FAT spa 	ID:	spa|Aguirre|FAT|||||Father|||
+0 mag2702.cha GFA spa 	ID:	spa|Aguirre|GFA|||||Grandfather|||
+0 mag2702.cha GMO spa 	ID:	spa|Aguirre|GMO|||||Grandmother|||
+0 mag2702.cha MOT spa 	ID:	spa|Aguirre|MOT|||||Mother|||
+0 mag2702.cha UNC spa 	ID:	spa|Aguirre|UNC|||||Uncle|||
+0 mag2710.cha FAM spa 	ID:	spa|Aguirre|FAM|||||Family_Friend|||
+0 mag2710.cha FAT spa 	ID:	spa|Aguirre|FAT|||||Father|||
+0 mag2710.cha MOT spa 	ID:	spa|Aguirre|MOT|||||Mother|||
+0 mag2810.cha FAM spa 	ID:	spa|Aguirre|FAM|||||Family_Friend|||
+0 mag2810.cha MOT spa 	ID:	spa|Aguirre|MOT|||||Mother|||
+0 mag2825.cha FAM spa 	ID:	spa|Aguirre|FAM|||||Family_Friend|||
+0 mag2825.cha FAT spa 	ID:	spa|Aguirre|FAT|||||Father|||
+0 mag2825.cha MOT spa 	ID:	spa|Aguirre|MOT|||||Mother|||
+0 mag2900.cha FAM spa 	ID:	spa|Aguirre|FAM|||||Family_Friend|||
+0 mag2900.cha MOT spa 	ID:	spa|Aguirre|MOT|||||Mother|||
+0 mag3001.cha FAM spa 	ID:	spa|Aguirre|FAM|||||Family_Friend|||
+0 mag3001.cha MOT spa 	ID:	spa|Aguirre|MOT|||||Mother|||
+0 mag3010.cha MOT spa 	ID:	spa|Aguirre|MOT|||||Mother|||
+0 mag3020.cha FAM spa 	ID:	spa|Aguirre|FAM|||||Family_Friend|||
+0 mag3020.cha FAT spa 	ID:	spa|Aguirre|FAT|||||Father|||
+0 mag3020.cha MOT spa 	ID:	spa|Aguirre|MOT|||||Mother|||
+0 mag3126.cha FAM spa 	ID:	spa|Aguirre|FAM|||||Family_Friend|||
+0 mag3126.cha MOT spa 	ID:	spa|Aguirre|MOT|||||Mother|||
+0 mag3424.cha FAM spa 	ID:	spa|Aguirre|FAM|||||Family_Friend|||
+0 mag3424.cha FAT spa 	ID:	spa|Aguirre|FAT|||||Father|||
+0 mag3424.cha MOT spa 	ID:	spa|Aguirre|MOT|||||Mother|||
+0 raf9104.cha JOS spa 	ID:	spa|Marrero|JOS|||||Grandmother|||
+0 raf9104.cha MJO spa 	ID:	spa|Marrero|MJO|||||Investigator|||
+0 raf9106.cha MJO spa 	ID:	spa|Marrero|MJO|||||Investigator|||
+0 raf9106.cha TAN spa 	ID:	spa|Marrero|TAN|||||Aunt|||
+0 raf9106.cha TNI spa 	ID:	spa|Marrero|TNI|||||Uncle|||
+0 raf9111.cha MJO spa 	ID:	spa|Marrero|MJO|||||Investigator|||
+0 raf9111.cha MOT spa 	ID:	spa|Marrero|MOT|||||Mother|||
+1 01.cha CHI spa 	ID:	spa|Irene|CHI|0;11.01|female|||Target_Child|||
+1 01_2.cha CHI spa 	ID:	spa|Nieva|CHI|1;08.03|female|| |Target_Child|||
+1 01a.cha CHI spa 	ID:	spa|Ornat|CHI|1;7.||||Target_Child|||
+1 01b.cha CHI spa 	ID:	spa|Ornat|CHI|1;7.||||Target_Child|||
+1 01c.cha CHI spa 	ID:	spa|Ornat|CHI|1;7.||||Target_Child|||
+1 01d.cha CHI spa 	ID:	spa|Ornat|CHI|1;7.||||Target_Child|||
+1 01e.cha CHI spa 	ID:	spa|Ornat|CHI|1;7.||||Target_Child|||
+1 01f.cha CHI spa 	ID:	spa|Ornat|CHI|1;7.||||Target_Child|||
+1 01g.cha CHI spa 	ID:	spa|Ornat|CHI|1;7.||||Target_Child|||
+1 02.cha CHI spa 	ID:	spa|Irene|CHI|1;1.25|female|||Target_Child|||
+1 02_2.cha CHI spa 	ID:	spa|Nieva|CHI|1;08.09|female|||Target_Child|||
+1 02a.cha CHI spa 	ID:	spa|Ornat|CHI|1;7.||||Target_Child|||
+1 02b.cha CHI spa 	ID:	spa|Ornat|CHI|1;7.||||Target_Child|||
+1 02c.cha CHI spa 	ID:	spa|Ornat|CHI|1;7.||||Target_Child|||
+1 02d.cha CHI spa 	ID:	spa|Ornat|CHI|1;7.||||Target_Child|||
+1 02e.cha CHI spa 	ID:	spa|Ornat|CHI|1;7.||||Target_Child|||
+1 02f.cha CHI spa 	ID:	spa|Ornat|CHI|1;7.||||Target_Child|||
+1 02g.cha CHI spa 	ID:	spa|Ornat|CHI|1;7.||||Target_Child|||
+1 03.cha CHI spa 	ID:	spa|Irene|CHI|1;1.25|female|||Target_Child|||
+1 03_2.cha CHI spa 	ID:	spa|Nieva|CHI|1;08.18|female|| |Target_Child|||
+1 03a.cha CHI spa 	ID:	spa|Ornat|CHI|1;9.||||Target_Child|||
+1 03b.cha CHI spa 	ID:	spa|Ornat|CHI|1;9.||||Target_Child|||
+1 03c.cha CHI spa 	ID:	spa|Ornat|CHI|1;9.||||Target_Child|||
+1 03d.cha CHI spa 	ID:	spa|Ornat|CHI|1;9.||||Target_Child|||
+1 04.cha CHI spa 	ID:	spa|Irene|CHI|1;1.28|female|||Target_Child|||
+1 04_2.cha CHI spa 	ID:	spa|Nieva|CHI|1;08.26|female|| |Target_Child|||
+1 04a.cha CHI spa 	ID:	spa|Ornat|CHI|1;09.||||Target_Child|||
+1 04b.cha CHI spa 	ID:	spa|Ornat|CHI|1;09.||||Target_Child|||
+1 04c.cha CHI spa 	ID:	spa|Ornat|CHI|1;09.||||Target_Child|||
+1 04d.cha CHI spa 	ID:	spa|Ornat|CHI|1;09.||||Target_Child|||
+1 04e.cha CHI spa 	ID:	spa|Ornat|CHI|1;09.||||Target_Child|||
+1 04f.cha CHI spa 	ID:	spa|Ornat|CHI|1;09.||||Target_Child|||
+1 04g.cha CHI spa 	ID:	spa|Ornat|CHI|1;09.||||Target_Child|||
+1 05.cha CHI spa 	ID:	spa|Irene|CHI|1;2.05|female|||Target_Child|||
+1 05_2.cha CHI spa 	ID:	spa|Nieva|CHI|1;09.00|female|| |Target_Child|||
+1 05a.cha CHI spa 	ID:	spa|Ornat|CHI|1;10.||||Target_Child|||
+1 05b.cha CHI spa 	ID:	spa|Ornat|CHI|1;10.||||Target_Child|||
+1 05c.cha CHI spa 	ID:	spa|Ornat|CHI|1;10.||||Target_Child|||
+1 05d.cha CHI spa 	ID:	spa|Ornat|CHI|1;10.||||Target_Child|||
+1 05e.cha CHI spa 	ID:	spa|Ornat|CHI|1;10.||||Target_Child|||
+1 05f.cha CHI spa 	ID:	spa|Ornat|CHI|1;10.||||Target_Child|||
+1 05g.cha CHI spa 	ID:	spa|Ornat|CHI|1;10.||||Target_Child|||
+1 06.cha CHI spa 	ID:	spa|Irene|CHI|1;4.16|female|||Target_Child|||
+1 06_2.cha CHI spa 	ID:	spa|Nieva|CHI|1;09.08|female|| |Target_Child|||
+1 06a.cha CHI spa 	ID:	spa|Ornat|CHI|1;11.||||Target_Child|||
+1 06b.cha CHI spa 	ID:	spa|Ornat|CHI|1;11.||||Target_Child|||
+1 06c.cha CHI spa 	ID:	spa|Ornat|CHI|1;11.||||Target_Child|||
+1 06d.cha CHI spa 	ID:	spa|Ornat|CHI|1;11.||||Target_Child|||
+1 06e.cha CHI spa 	ID:	spa|Ornat|CHI|1;11.||||Target_Child|||
+1 06f.cha CHI spa 	ID:	spa|Ornat|CHI|1;11.||||Target_Child|||
+1 06g.cha CHI spa 	ID:	spa|Ornat|CHI|1;11.||||Target_Child|||
+1 07.cha CHI spa 	ID:	spa|Irene|CHI|1;4.17|female|||Target_Child|||
+1 07_2.cha CHI spa 	ID:	spa|Nieva|CHI|1;09.14|female|| |Target_Child|||
+1 07a.cha CHI spa 	ID:	spa|Ornat|CHI|2;0.||||Target_Child|||
+1 07b.cha CHI spa 	ID:	spa|Ornat|CHI|2;0.||||Target_Child|||
+1 07c.cha CHI spa 	ID:	spa|Ornat|CHI|2;0.||||Target_Child|||
+1 07d.cha CHI spa 	ID:	spa|Ornat|CHI|2;0.||||Target_Child|||
+1 07e.cha CHI spa 	ID:	spa|Ornat|CHI|2;0.||||Target_Child|||
+1 07f.cha CHI spa 	ID:	spa|Ornat|CHI|2;0.||||Target_Child|||
+1 07g.cha CHI spa 	ID:	spa|Ornat|CHI|2;0.||||Target_Child|||
+1 08.cha CHI spa 	ID:	spa|Irene|CHI|1;5.01|female|||Target_Child|||
+1 08_2.cha CHI spa 	ID:	spa|Nieva|CHI|1;09.22|female|||Target_Child|||
+1 08a.cha CHI spa 	ID:	spa|Ornat|CHI|2;01.||||Target_Child|||
+1 08b.cha CHI spa 	ID:	spa|Ornat|CHI|2;01.||||Target_Child|||
+1 08c.cha CHI spa 	ID:	spa|Ornat|CHI|2;01.||||Target_Child|||
+1 08d.cha CHI spa 	ID:	spa|Ornat|CHI|2;01.||||Target_Child|||
+1 08e.cha CHI spa 	ID:	spa|Ornat|CHI|2;01.||||Target_Child|||
+1 08f.cha CHI spa 	ID:	spa|Ornat|CHI|2;01.||||Target_Child|||
+1 08g.cha CHI spa 	ID:	spa|Ornat|CHI|2;01.||||Target_Child|||
+1 09.cha CHI spa 	ID:	spa|Irene|CHI|1;5.15|female|||Target_Child|||
+1 09_2.cha CHI spa 	ID:	spa|Nieva|CHI|1;09.26|female|| |Target_Child|||
+1 09a.cha CHI spa 	ID:	spa|Ornat|CHI|2;02.||||Target_Child|||
+1 09b.cha CHI spa 	ID:	spa|Ornat|CHI|2;02.||||Target_Child|||
+1 09c.cha CHI spa 	ID:	spa|Ornat|CHI|2;02.||||Target_Child|||
+1 09d.cha CHI spa 	ID:	spa|Ornat|CHI|2;02.||||Target_Child|||
+1 09e.cha CHI spa 	ID:	spa|Ornat|CHI|2;02.||||Target_Child|||
+1 09f.cha CHI spa 	ID:	spa|Ornat|CHI|2;02.||||Target_Child|||
+1 09g.cha CHI spa 	ID:	spa|Ornat|CHI|2;02.||||Target_Child|||
+1 10.cha CHI spa 	ID:	spa|Irene|CHI|1;5.27|female|||Target_Child|||
+1 10_2.cha CHI spa 	ID:	spa|Nieva|CHI|1;10.03|female|| |Target_Child|||
+1 10a.cha CHI spa 	ID:	spa|Ornat|CHI|2;4.||||Target_Child|||
+1 10b.cha CHI spa 	ID:	spa|Ornat|CHI|2;4.||||Target_Child|||
+1 10c.cha CHI spa 	ID:	spa|Ornat|CHI|2;4.||||Target_Child|||
+1 10d.cha CHI spa 	ID:	spa|Ornat|CHI|2;4.||||Target_Child|||
+1 10e.cha CHI spa 	ID:	spa|Ornat|CHI|2;4.||||Target_Child|||
+1 10f.cha CHI spa 	ID:	spa|Ornat|CHI|2;4.||||Target_Child|||
+1 10g.cha CHI spa 	ID:	spa|Ornat|CHI|2;4.||||Target_Child|||
+1 10m09.cha CHI spa 	ID:	spa|JacksonThal|CHI|0;10.|male|||Target_Child|||
+1 10m10.cha CHI spa 	ID:	spa|JacksonThal|CHI|0;10.|female|||Target_Child|||
+1 10m11.cha CHI spa 	ID:	spa|JacksonThal|CHI|0;10.|male|||Target_Child|||
+1 10m12.cha CHI spa 	ID:	spa|JacksonThal|CHI|0;10.|male|||Target_Child|||
+1 10m13.cha CHI spa 	ID:	spa|JacksonThal|CHI|0;10.|male|||Target_Child|||
+1 10m14.cha CHI spa 	ID:	spa|JacksonThal|CHI|0;10.|female|||Target_Child|||
+1 10m15.cha CHI spa 	ID:	spa|JacksonThal|CHI|0;10.|male|||Target_Child|||
+1 10m16.cha CHI spa 	ID:	spa|JacksonThal|CHI|0;10.|female|||Target_Child|||
+1 10m17.cha CHI spa 	ID:	spa|JacksonThal|CHI|0;10.|male|||Target_Child|||
+1 10q02.cha CHI spa 	ID:	spa|JacksonThal|CHI|0;10.|male|||Target_Child|||
+1 10q03.cha CHI spa 	ID:	spa|JacksonThal|CHI|0;10.|female|||Target_Child|||
+1 10q04.cha CHI spa 	ID:	spa|JacksonThal|CHI|0;10.|male|||Target_Child|||
+1 10q05.cha CHI spa 	ID:	spa|JacksonThal|CHI|0;10.|female|||Target_Child|||
+1 10q06.cha CHI spa 	ID:	spa|JacksonThal|CHI|0;10.|male|||Target_Child|||
+1 10q18.cha CHI spa 	ID:	spa|JacksonThal|CHI|0;10.|female|||Target_Child|||
+1 10q19.cha CHI spa 	ID:	spa|JacksonThal|CHI|0;10.|male|||Target_Child|||
+1 10sb03.cha CHI spa 	ID:	spa|JacksonThal|CHI|0;10.|male|||Target_Child|||
+1 10sb07.cha CHI spa 	ID:	spa|JacksonThal|CHI|0;10.|female|||Target_Child|||
+1 10sb09.cha CHI spa 	ID:	spa|JacksonThal|CHI|0;10.|female|||Target_Child|||
+1 10sb10.cha CHI spa 	ID:	spa|JacksonThal|CHI|0;10.|female|||Target_Child|||
+1 10sb11.cha CHI spa 	ID:	spa|JacksonThal|CHI|0;10.|female|||Target_Child|||
+1 10sb12.cha CHI spa 	ID:	spa|JacksonThal|CHI|0;10.|female|||Target_Child|||
+1 10sb13.cha CHI spa 	ID:	spa|JacksonThal|CHI|0;10.|male|||Target_Child|||
+1 10sb14.cha CHI spa 	ID:	spa|JacksonThal|CHI|0;10.|female|||Target_Child|||
+1 10sb15.cha CHI spa 	ID:	spa|JacksonThal|CHI|0;10.|female|||Target_Child|||
+1 11.cha CHI spa 	ID:	spa|Irene|CHI|1;6.01|female|||Target_Child|||
+1 11_2.cha CHI spa 	ID:	spa|Nieva|CHI|1;10.13|female|||Target_Child|||
+1 11021.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|1;10.21|male|||Target_Child|||
+1 11026.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|1;10.26|male|||Target_Child|||
+1 11029.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|1;10.29|male|||Target_Child|||
+1 11103.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|1;11.03|male|||Target_Child|||
+1 11107.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|1;11.07|male|||Target_Child|||
+1 11111.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|1;11.11|male|||Target_Child|||
+1 11115.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|1;11.15|male|||Target_Child|||
+1 11120.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|1;11.20|male|||Target_Child|||
+1 11125.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|1;11.25|male|||Target_Child|||
+1 11128.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|1;11.25|male|||Target_Child|||
+1 11a.cha CHI spa 	ID:	spa|Ornat|CHI|2;5.||||Target_Child|||
+1 11b.cha CHI spa 	ID:	spa|Ornat|CHI|2;5.||||Target_Child|||
+1 11c.cha CHI spa 	ID:	spa|Ornat|CHI|2;5.||||Target_Child|||
+1 11d.cha CHI spa 	ID:	spa|Ornat|CHI|2;5.||||Target_Child|||
+1 11e.cha CHI spa 	ID:	spa|Ornat|CHI|2;5.||||Target_Child|||
+1 11f.cha CHI spa 	ID:	spa|Ornat|CHI|2;5.||||Target_Child|||
+1 11g.cha CHI spa 	ID:	spa|Ornat|CHI|2;5.||||Target_Child|||
+1 12.cha CHI spa 	ID:	spa|Irene|CHI|1;6.16|female|||Target_Child|||
+1 12_2.cha CHI spa 	ID:	spa|Nieva|CHI|1;10.18|female|| |Target_Child|||
+1 12a.cha CHI spa 	ID:	spa|Ornat|CHI|2;6.||||Target_Child|||
+1 12b.cha CHI spa 	ID:	spa|Ornat|CHI|2;6.||||Target_Child|||
+1 12c.cha CHI spa 	ID:	spa|Ornat|CHI|2;6.||||Target_Child|||
+1 12d.cha CHI spa 	ID:	spa|Ornat|CHI|2;6.||||Target_Child|||
+1 12e.cha CHI spa 	ID:	spa|Ornat|CHI|2;6.||||Target_Child|||
+1 12f.cha CHI spa 	ID:	spa|Ornat|CHI|2;6.||||Target_Child|||
+1 12g.cha CHI spa 	ID:	spa|Ornat|CHI|2;6.||||Target_Child|||
+1 12m05.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;0.|female|||Target_Child|||
+1 12m06.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;0.|female|||Target_Child|||
+1 12m08.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;0.|female|||Target_Child|||
+1 12m09.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;0.|male|||Target_Child|||
+1 12m10.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;0.|male|||Target_Child|||
+1 12m11.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;0.|female|||Target_Child|||
+1 12m12.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;0.|male|||Target_Child|||
+1 12m13.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;0.|female|||Target_Child|||
+1 12m21.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;0.|male|||Target_Child|||
+1 12q02.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;0.|female|||Target_Child|||
+1 12q03.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;0.|female|||Target_Child|||
+1 12q04.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;0.|female|||Target_Child|||
+1 12q14.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;0.|female|||Target_Child|||
+1 12q15.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;0.|female|||Target_Child|||
+1 12q16.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;0.|female|||Target_Child|||
+1 12q17.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;0.|male|||Target_Child|||
+1 12q18.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;0.|female|||Target_Child|||
+1 12q19.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;0.|female|||Target_Child|||
+1 12q20.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;0.|female|||Target_Child|||
+1 12sb02.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;0.|male|||Target_Child|||
+1 12sb03.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;0.|female|||Target_Child|||
+1 12sb04.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;0.|female|||Target_Child|||
+1 12sb05.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;0.|female|||Target_Child|||
+1 12sb06.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;0.|male|||Target_Child|||
+1 12sb07.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;0.|male|||Target_Child|||
+1 12sb08.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;0.|female|||Target_Child|||
+1 12sb09.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;0.|male|||Target_Child|||
+1 12sb10.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;0.|male|||Target_Child|||
+1 13.cha CHI spa 	ID:	spa|Irene|CHI|1;6.16|female|||Target_Child|||
+1 13_2.cha CHI spa 	ID:	spa|Nieva|CHI|1;10.25|female|| |Target_Child|||
+1 13a.cha CHI spa 	ID:	spa|Ornat|CHI|2;8.||||Target_Child|||
+1 13b.cha CHI spa 	ID:	spa|Ornat|CHI|2;8.||||Target_Child|||
+1 13c.cha CHI spa 	ID:	spa|Ornat|CHI|2;8.||||Target_Child|||
+1 13d.cha CHI spa 	ID:	spa|Ornat|CHI|2;8.||||Target_Child|||
+1 13e.cha CHI spa 	ID:	spa|Ornat|CHI|2;8.||||Target_Child|||
+1 13f.cha CHI spa 	ID:	spa|Ornat|CHI|2;8.||||Target_Child|||
+1 14.cha CHI spa 	ID:	spa|Irene|CHI|1;7.05|female|||Target_Child|||
+1 14_2.cha CHI spa 	ID:	spa|Nieva|CHI|1;11.00|female|| |Target_Child|||
+1 14_3.cha CHI spa 	ID:	spa|SerraSole|CHI|1;4.||||Target_Child|||
+1 14a.cha CHI spa 	ID:	spa|Ornat|CHI|2;11.||||Target_Child|||
+1 14b.cha CHI spa 	ID:	spa|Ornat|CHI|2;11.||||Target_Child|||
+1 14c.cha CHI spa 	ID:	spa|Ornat|CHI|2;11.||||Target_Child|||
+1 14d.cha CHI spa 	ID:	spa|Ornat|CHI|2;11.||||Target_Child|||
+1 14e.cha CHI spa 	ID:	spa|Ornat|CHI|2;11.||||Target_Child|||
+1 14f.cha CHI spa 	ID:	spa|Ornat|CHI|2;11.||||Target_Child|||
+1 14g.cha CHI spa 	ID:	spa|Ornat|CHI|2;11.||||Target_Child|||
+1 15.cha CHI spa 	ID:	spa|Irene|CHI|1;7.05|female|||Target_Child|||
+1 15_2.cha CHI spa 	ID:	spa|Nieva|CHI|1;11.06|female|| |Target_Child|||
+1 15_3.cha CHI spa 	ID:	spa|SerraSole|CHI|1;5.||||Target_Child|||
+1 15_3.cha TAM spa 	ID:	spa|SerraSole|TAM|||||Sister|||
+1 15a.cha CHI spa 	ID:	spa|Ornat|CHI|3;6.||||Target_Child|||
+1 15b.cha CHI spa 	ID:	spa|Ornat|CHI|3;6.||||Target_Child|||
+1 15c.cha CHI spa 	ID:	spa|Ornat|CHI|3;6.||||Target_Child|||
+1 15d.cha CHI spa 	ID:	spa|Ornat|CHI|3;6.||||Target_Child|||
+1 15e.cha CHI spa 	ID:	spa|Ornat|CHI|3;6.||||Target_Child|||
+1 15f.cha CHI spa 	ID:	spa|Ornat|CHI|3;6.||||Target_Child|||
+1 15g.cha CHI spa 	ID:	spa|Ornat|CHI|3;6.||||Target_Child|||
+1 16.cha CHI spa 	ID:	spa|Irene|CHI|1;7.05|female|||Target_Child|||
+1 16_2.cha CHI spa 	ID:	spa|Nieva|CHI|1;11.15|female|| |Target_Child|||
+1 16_3.cha CHI spa 	ID:	spa|SerraSole|CHI|1;7.||||Target_Child|||
+1 16_3.cha TAM spa 	ID:	spa|SerraSole|TAM|||||Sister|||
+1 16a.cha CHI spa 	ID:	spa|Ornat|CHI|3;7.||||Target_Child|||
+1 16b.cha CHI spa 	ID:	spa|Ornat|CHI|3;7.||||Target_Child|||
+1 16c.cha CHI spa 	ID:	spa|Ornat|CHI|3;7.||||Target_Child|||
+1 16d.cha CHI spa 	ID:	spa|Ornat|CHI|3;7.||||Target_Child|||
+1 16e.cha CHI spa 	ID:	spa|Ornat|CHI|3;7.||||Target_Child|||
+1 16f.cha CHI spa 	ID:	spa|Ornat|CHI|3;7.||||Target_Child|||
+1 16g.cha CHI spa 	ID:	spa|Ornat|CHI|3;7.||||Target_Child|||
+1 17.cha CHI spa 	ID:	spa|Irene|CHI|1;7.22|female|||Target_Child|||
+1 17_2.cha CHI spa 	ID:	spa|Nieva|CHI|1;11.23|female|| |Target_Child|||
+1 17_3.cha CHI spa 	ID:	spa|SerraSole|CHI|1;9.||||Target_Child|||
+1 17_3.cha ROC spa 	ID:	spa|SerraSole|ROC|||||Child|||
+1 17a.cha CHI spa 	ID:	spa|Ornat|CHI|3;10.||||Target_Child|||
+1 17b.cha CHI spa 	ID:	spa|Ornat|CHI|3;10.||||Target_Child|||
+1 17c.cha CHI spa 	ID:	spa|Ornat|CHI|3;10.||||Target_Child|||
+1 17d.cha CHI spa 	ID:	spa|Ornat|CHI|3;10.||||Target_Child|||
+1 17e.cha CHI spa 	ID:	spa|Ornat|CHI|3;10.||||Target_Child|||
+1 17f.cha CHI spa 	ID:	spa|Ornat|CHI|3;10.||||Target_Child|||
+1 17g.cha CHI spa 	ID:	spa|Ornat|CHI|3;10.||||Target_Child|||
+1 18.cha CHI spa 	ID:	spa|Irene|CHI|1;7.22|female|||Target_Child|||
+1 18_2.cha CHI spa 	ID:	spa|Nieva|CHI|1;11.30|female|| |Target_Child|||
+1 18_3.cha CHI spa 	ID:	spa|SerraSole|CHI|2;0.||||Target_Child|||
+1 18_3.cha TAM spa 	ID:	spa|SerraSole|TAM|||||Sister|||
+1 19.cha CHI spa 	ID:	spa|Irene|CHI|1;7.22|female|||Target_Child|||
+1 19_2.cha CHI spa 	ID:	spa|Nieva|CHI|2;0.06|female|| |Target_Child|||
+1 19_3.cha CHI spa 	ID:	spa|SerraSole|CHI|2;3.||||Target_Child|||
+1 20.cha CHI spa 	ID:	spa|Irene|CHI|1;8.09|female|||Target_Child|||
+1 20_2.cha CHI spa 	ID:	spa|Nieva|CHI|2;00.13|female|| |Target_Child|||
+1 20_3.cha CHI spa 	ID:	spa|SerraSole|CHI|2;4.||||Target_Child|||
+1 20_3.cha CRI spa 	ID:	spa|SerraSole|CRI|||||Girl|||
+1 20_3.cha ROC spa 	ID:	spa|SerraSole|ROC|||||Child|||
+1 20_3.cha TAM spa 	ID:	spa|SerraSole|TAM|||||Sister|||
+1 20002.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;0.2||||Target_Child|||
+1 20003.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;0.3||||Target_Child|||
+1 20004.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;0.4||||Target_Child|||
+1 20006.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;0.6||||Target_Child|||
+1 20009.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;0.9||||Target_Child|||
+1 20012.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;0.12|male|||Target_Child|||
+1 20014.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;0.14|male|||Target_Child|||
+1 20019.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;0.19|male|||Target_Child|||
+1 20025.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;0.25|male|||Target_Child|||
+1 20100.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;1.00|male|||Target_Child|||
+1 20104.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;1.04|male|||Target_Child|||
+1 20112.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;1.12|male|||Target_Child|||
+1 20118.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;1.18|male|||Target_Child|||
+1 20121.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;1.21|male|||Target_Child|||
+1 20124.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;1.24|male|||Target_Child|||
+1 20126.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;1.26|male|||Target_Child|||
+1 20129.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;1.29|male|||Target_Child|||
+1 20201.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;2.01|male|||Target_Child|||
+1 20204.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;2.04|male|||Target_Child|||
+1 20207.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;2.07|male|||Target_Child|||
+1 20211.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;2.11|male|||Target_Child|||
+1 20214.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;2.14|male|||Target_Child|||
+1 20216.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;2.16|male|||Target_Child|||
+1 20222.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;2.22|male|||Target_Child|||
+1 20224.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;2.24|male|||Target_Child|||
+1 20230.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;2.30|male|||Target_Child|||
+1 20303.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;3.03|male|||Target_Child|||
+1 20304.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;3.04|male|||Target_Child|||
+1 20310.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;3.10|male|||Target_Child|||
+1 20312.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;3.12|male|||Target_Child|||
+1 20313.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;3.13|male|||Target_Child|||
+1 20317.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;3.17|male|||Target_Child|||
+1 20320.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;3.20|male|||Target_Child|||
+1 20322.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;3.22|male|||Target_Child|||
+1 20326.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;3.26|male|||Target_Child|||
+1 20328.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;3.28|male|||Target_Child|||
+1 20402.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;4.02|male|||Target_Child|||
+1 20404.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;4.04|male|||Target_Child|||
+1 20410.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;4.10|male|||Target_Child|||
+1 20412.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;4.12|male|||Target_Child|||
+1 20417.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;4.17|male|||Target_Child|||
+1 20418.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;4.18|male|||Target_Child|||
+1 20424.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;4.24|male|||Target_Child|||
+1 20425.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;4.25|male|||Target_Child|||
+1 20429.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;4.25|male|||Target_Child|||
+1 20500.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;5.00|male|||Target_Child|||
+1 20505.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;5.05|male|||Target_Child|||
+1 20507.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;5.07|male|||Target_Child|||
+1 20514.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;5.14|male|||Target_Child|||
+1 20517.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;5.17|male|||Target_Child|||
+1 20518.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;5.18|male|||Target_Child|||
+1 20521.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;5.21|male|||Target_Child|||
+1 20524.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;5.29|male|||Target_Child|||
+1 20528.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;5.28|male|||Target_Child|||
+1 20529.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;5.29|male|||Target_Child|||
+1 20m02.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;8.|female|||Target_Child|||
+1 20m03.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;8.|male|||Target_Child|||
+1 20m04.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;8.|female|||Target_Child|||
+1 20m05.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;8.|female|||Target_Child|||
+1 20m06.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;8.|male|||Target_Child|||
+1 20m07.cha BRO spa 	ID:	spa|JacksonThal|BRO|||||Brother|||
+1 20m07.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;8.|female|||Target_Child|||
+1 20m08.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;8.|male|||Target_Child|||
+1 20m20.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;8.|male|||Target_Child|||
+1 20m21.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;8.|female|||Target_Child|||
+1 20q09.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;8.|female|||Target_Child|||
+1 20q10.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;8.|male|||Target_Child|||
+1 20q11.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;8.|male|||Target_Child|||
+1 20q12.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;8.|female|||Target_Child|||
+1 20q13.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;8.|female|||Target_Child|||
+1 20q14.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;8.|female|||Target_Child|||
+1 20q16.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;8.|female|||Target_Child|||
+1 20q17.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;8.|male|||Target_Child|||
+1 20q18.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;8.|female|||Target_Child|||
+1 20q19.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;8.|male|||Target_Child|||
+1 20q22.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;8.|male|||Target_Child|||
+1 20sb01.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;8.|male|||Target_Child|||
+1 20sb02.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;8.|female|||Target_Child|||
+1 20sb02.cha SIS spa 	ID:	spa|JacksonThal|SIS|||||Sister|||
+1 20sb03.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;8.|male|||Target_Child|||
+1 20sb04.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;8.|female|||Target_Child|||
+1 20sb05.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;8.|male|||Target_Child|||
+1 20sb06.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;8.|female|||Target_Child|||
+1 20sb07.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;8.|female|||Target_Child|||
+1 20sb08.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;8.|female|||Target_Child|||
+1 20sb09.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;8.|female|||Target_Child|||
+1 20sb10.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;8.|male|||Target_Child|||
+1 20sd04.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;09.28||||Child|||
+1 20sd05.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;08.11||||Child|||
+1 20sd06.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;08.07||||Child|||
+1 20sd07.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;08.13||||Child|||
+1 20sd08.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;08.11||||Child|||
+1 20sd09.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;07.21||||Child|||
+1 20sd10.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;07.23||||Child|||
+1 20sd11.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;08.10||||Child|||
+1 20sd12.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;07.17||||Child|||
+1 20sd13.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;07.28||||Child|||
+1 20sd14.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;08.13||||Child|||
+1 20sd15.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;08.04||||Child|||
+1 20sd16.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;07.23||||Child|||
+1 20sd17.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;07.17||||Child|||
+1 20sd18.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;07.16||||Child|||
+1 20sd19.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;07.16||||Child|||
+1 20sd22.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;07.19||||Child|||
+1 20sd24.cha CHI spa 	ID:	spa|JacksonThal|CHI|1;07.26||||Child|||
+1 21.cha CHI spa 	ID:	spa|Irene|CHI|1;8.09|female|||Target_Child|||
+1 21_2.cha CHI spa 	ID:	spa|Nieva|CHI|2;00.20|female|| |Target_Child|||
+1 21_3.cha CHI spa 	ID:	spa|SerraSole|CHI|2;7.||||Target_Child|||
+1 21_3.cha TAM spa 	ID:	spa|SerraSole|TAM|||||Sister|||
+1 22.cha CHI spa 	ID:	spa|Irene|CHI|1;8.26|female|||Target_Child|||
+1 22_2.cha CHI spa 	ID:	spa|Nieva|CHI|2;00.30|female|| |Target_Child|||
+1 22_3.cha CHI spa 	ID:	spa|SerraSole|CHI|2;10.||||Target_Child|||
+1 23.cha CHI spa 	ID:	spa|Irene|CHI|1;9.10|female|||Target_Child|||
+1 23_2.cha CHI spa 	ID:	spa|Nieva|CHI|2;01.07|female|| |Target_Child|||
+1 23_3.cha CHI spa 	ID:	spa|SerraSole|CHI|3;1.||||Target_Child|||
+1 23_3.cha TAM spa 	ID:	spa|SerraSole|TAM|||||Sister|||
+1 24.cha CHI spa 	ID:	spa|Irene|CHI|1;9.28|female|||Target_Child|||
+1 24_2.cha CHI spa 	ID:	spa|Nieva|CHI|2;01.13|female|| |Target_Child|||
+1 24_3.cha CHI spa 	ID:	spa|SerraSole|CHI|3;10.||||Target_Child|||
+1 24_3.cha TAM spa 	ID:	spa|SerraSole|TAM|||||Sister|||
+1 25.cha CHI spa 	ID:	spa|Irene|CHI|1;9.28|female|||Target_Child|||
+1 25_2.cha CHI spa 	ID:	spa|Nieva|CHI|2;01.21|female|| |Target_Child|||
+1 26.cha CHI spa 	ID:	spa|Irene|CHI|1;10.16|female|||Target_Child|||
+1 26_2.cha CHI spa 	ID:	spa|Nieva|CHI|2;01.27|female|| |Target_Child|||
+1 27.cha CHI spa 	ID:	spa|Irene|CHI|1;10.29|female|||Target_Child|||
+1 27_2.cha CHI spa 	ID:	spa|Nieva|CHI|2;02.05|female|| |Target_Child|||
+1 28.cha CHI spa 	ID:	spa|Irene|CHI|1;10.29|female|||Target_Child|||
+1 28_2.cha CHI spa 	ID:	spa|Nieva|CHI|2;02.12|female|| |Target_Child|||
+1 28m10.cha CHI spa 	ID:	spa|JacksonThal|CHI|2;4.|female|||Target_Child|||
+1 28m11.cha CHI spa 	ID:	spa|JacksonThal|CHI|2;4.|female|||Target_Child|||
+1 28m12.cha CHI spa 	ID:	spa|JacksonThal|CHI|2;4.|male|||Target_Child|||
+1 28m13.cha CHI spa 	ID:	spa|JacksonThal|CHI|2;4.|male|||Target_Child|||
+1 28m14.cha CHI spa 	ID:	spa|JacksonThal|CHI|2;4.|female|||Target_Child|||
+1 28m15.cha CHI spa 	ID:	spa|JacksonThal|CHI|2;4.|male|||Target_Child|||
+1 28m16.cha CHI spa 	ID:	spa|JacksonThal|CHI|2;4.|male|||Target_Child|||
+1 28m17.cha CHI spa 	ID:	spa|JacksonThal|CHI|2;4.|female|||Target_Child|||
+1 28m18.cha CHI spa 	ID:	spa|JacksonThal|CHI|2;4.|male|||Target_Child|||
+1 28q01.cha CHI spa 	ID:	spa|JacksonThal|CHI|2;4.|male|||Target_Child|||
+1 28q02.cha CHI spa 	ID:	spa|JacksonThal|CHI|2;4.|male|||Target_Child|||
+1 28q03.cha CHI spa 	ID:	spa|JacksonThal|CHI|2;4.|male|||Target_Child|||
+1 28q04.cha CHI spa 	ID:	spa|JacksonThal|CHI|2;4.|male|||Target_Child|||
+1 28q05.cha CHI spa 	ID:	spa|JacksonThal|CHI|2;4.|female|||Target_Child|||
+1 28q06.cha CHI spa 	ID:	spa|JacksonThal|CHI|2;4.|male|||Target_Child|||
+1 28q07.cha CHI spa 	ID:	spa|JacksonThal|CHI|2;4.|male|||Target_Child|||
+1 28q08.cha CHI spa 	ID:	spa|JacksonThal|CHI|2;4.|female|||Target_Child|||
+1 28q09.cha CHI spa 	ID:	spa|JacksonThal|CHI|2;4.|male|||Target_Child|||
+1 28q19.cha CHI spa 	ID:	spa|JacksonThal|CHI|2;4.|female|||Target_Child|||
+1 28q20.cha CHI spa 	ID:	spa|JacksonThal|CHI|2;4.|female|||Target_Child|||
+1 28sb01.cha CHI spa 	ID:	spa|JacksonThal|CHI|2;4.|male|||Target_Child|||
+1 28sb02.cha CHI spa 	ID:	spa|JacksonThal|CHI|2;4.|female|||Target_Child|||
+1 28sb03.cha CHI spa 	ID:	spa|JacksonThal|CHI|2;4.|female|||Target_Child|||
+1 28sb05.cha CHI spa 	ID:	spa|JacksonThal|CHI|2;4.|female|||Child|||
+1 28sb06.cha CHI spa 	ID:	spa|JacksonThal|CHI|2;4.|male|||Target_Child|||
+1 28sb07.cha CHI spa 	ID:	spa|JacksonThal|CHI|2;4.|male|||Target_Child|||
+1 28sb08.cha CHI spa 	ID:	spa|JacksonThal|CHI|2;4.|male|||Target_Child|||
+1 28sb09.cha CHI spa 	ID:	spa|JacksonThal|CHI|2;4.|female|||Target_Child|||
+1 28sb10.cha CHI spa 	ID:	spa|JacksonThal|CHI|2;4.|female|||Target_Child|||
+1 28sb11.cha CHI spa 	ID:	spa|JacksonThal|CHI|2;4.|female|||Target_Child|||
+1 28sb12.cha CHI spa 	ID:	spa|JacksonThal|CHI|2;4.|female|||Target_Child|||
+1 28sd01.cha CHI spa 	ID:	spa|JacksonThal|CHI|2;04.02||||Child|||
+1 28sd02.cha CHI spa 	ID:	spa|JacksonThal|CHI|2;03.29||||Child|||
+1 28sd03.cha CHI spa 	ID:	spa|JacksonThal|CHI|2;04.06||||Child|||
+1 28sd04.cha CHI spa 	ID:	spa|JacksonThal|CHI|2;03.17||||Child|||
+1 28sd05.cha CHI spa 	ID:	spa|JacksonThal|CHI|2;03.01||||Child|||
+1 28sd06.cha CHI spa 	ID:	spa|JacksonThal|CHI|2;05.01||||Child|||
+1 28sd07.cha CHI spa 	ID:	spa|JacksonThal|CHI|2;03.27||||Child|||
+1 28sd08.cha CHI spa 	ID:	spa|JacksonThal|CHI|2;03.27||||Child|||
+1 28sd09.cha CHI spa 	ID:	spa|JacksonThal|CHI|2;04.04||||Child|||
+1 28sd10.cha CHI spa 	ID:	spa|JacksonThal|CHI|2;03.13||||Child|||
+1 28sd11.cha CHI spa 	ID:	spa|JacksonThal|CHI|2;04.15||||Child|||
+1 28sd12.cha CHI spa 	ID:	spa|JacksonThal|CHI|2;05.23||||Child|||
+1 28sd13.cha CHI spa 	ID:	spa|JacksonThal|CHI|2;04.03||||Child|||
+1 28sd14.cha CHI spa 	ID:	spa|JacksonThal|CHI|2;03.22||||Child|||
+1 28sd15.cha CHI spa 	ID:	spa|JacksonThal|CHI|2;04.01||||Child|||
+1 28sd16.cha CHI spa 	ID:	spa|JacksonThal|CHI|2;03.21||||Child|||
+1 28sd17.cha CHI spa 	ID:	spa|JacksonThal|CHI|2;03.09||||Child|||
+1 28sd18.cha CHI spa 	ID:	spa|JacksonThal|CHI|2;04.14||||Child|||
+1 28sd19.cha CHI spa 	ID:	spa|JacksonThal|CHI|2;03.22||||Child|||
+1 28sd20.cha CHI spa 	ID:	spa|JacksonThal|CHI|2;03.15||||Child|||
+1 28sd22.cha CHI spa 	ID:	spa|JacksonThal|CHI|2;05.01||||Child|||
+1 28sd24.cha CHI spa 	ID:	spa|JacksonThal|CHI|2;04.05||||Child|||
+1 28sd25.cha CHI spa 	ID:	spa|JacksonThal|CHI|2;04.03||||Child|||
+1 28sd27.cha CHI spa 	ID:	spa|JacksonThal|CHI|2;04.06||||Child|||
+1 28sd28.cha CHI spa 	ID:	spa|JacksonThal|CHI|2;03.18||||Child|||
+1 28sd29.cha CHI spa 	ID:	spa|JacksonThal|CHI|2;04.08||||Child|||
+1 29.cha CHI spa 	ID:	spa|Irene|CHI|1;11.01|female|||Target_Child|||
+1 29_2.cha CHI spa 	ID:	spa|Nieva|CHI|2;02.20|female|| |Target_Child|||
+1 30.cha CHI spa 	ID:	spa|Irene|CHI|1;11.13|female|||Target_Child|||
+1 30_2.cha CHI spa 	ID:	spa|Nieva|CHI|2;02.28|female|| |Target_Child|||
+1 31.cha CHI spa 	ID:	spa|Irene|CHI|1;11.30|female|||Target_Child|||
+1 31_2.cha CHI spa 	ID:	spa|Nieva|CHI|2;03.03|female|| |Target_Child|||
+1 32.cha CHI spa 	ID:	spa|Irene|CHI|2;0.13|female|||Target_Child|||
+1 32_2.cha CHI spa 	ID:	spa|Nieva|CHI|2;03.09|female|| |Target_Child|||
+1 33.cha CHI spa 	ID:	spa|Irene|CHI|2;0.28|female|||Target_Child|||
+1 34.cha CHI spa 	ID:	spa|Irene|CHI|2;1.18|female|||Target_Child|||
+1 35.cha CHI spa 	ID:	spa|Irene|CHI|2;1.29|female|||Target_Child|||
+1 36.cha CHI spa 	ID:	spa|Irene|CHI|2;2.14|female|||Target_Child|||
+1 36mc13.cha CHI spa 	ID:	spa|JacksonThal|CHI|3;0.|female|||Target_Child|||
+1 36mc14.cha CHI spa 	ID:	spa|JacksonThal|CHI|3;0.|female|||Target_Child|||
+1 36mc15.cha CHI spa 	ID:	spa|JacksonThal|CHI|3;0.|female|||Target_Child|||
+1 36mc16.cha CHI spa 	ID:	spa|JacksonThal|CHI|3;0.|male|||Target_Child|||
+1 36mc17.cha CHI spa 	ID:	spa|JacksonThal|CHI|3;0.|female|||Target_Child|||
+1 36mc19.cha CHI spa 	ID:	spa|JacksonThal|CHI|3;0.|male|||Target_Child|||
+1 36mc20.cha CHI spa 	ID:	spa|JacksonThal|CHI|3;0.|female|||Target_Child|||
+1 36mc21.cha CHI spa 	ID:	spa|JacksonThal|CHI|3;0.|male|||Target_Child|||
+1 36mc22.cha CHI spa 	ID:	spa|JacksonThal|CHI|3;0.|male|||Child|||
+1 36qc01.cha CHI spa 	ID:	spa|JacksonThal|CHI|3;0.|male|||Target_Child|||
+1 36qc03.cha CHI spa 	ID:	spa|JacksonThal|CHI|3;0.|female|||Target_Child|||
+1 36qc05.cha CHI spa 	ID:	spa|JacksonThal|CHI|3;0.|male|||Target_Child|||
+1 36qc06.cha CHI spa 	ID:	spa|JacksonThal|CHI|3;0.|male|||Target_Child|||
+1 36qc07.cha CHI spa 	ID:	spa|JacksonThal|CHI|3;0.|female|||Target_Child|||
+1 36qc08.cha CHI spa 	ID:	spa|JacksonThal|CHI|3;0.|male|||Target_Child|||
+1 36qc09.cha CHI spa 	ID:	spa|JacksonThal|CHI|3;0.|female|||Target_Child|||
+1 36qc10.cha CHI spa 	ID:	spa|JacksonThal|CHI|3;0.|female|||Target_Child|||
+1 36qc11.cha CHI spa 	ID:	spa|JacksonThal|CHI|3;0.|male|||Target_Child|||
+1 36qc12.cha CHI spa 	ID:	spa|JacksonThal|CHI|3;0.|male|||Child|||
+1 36sb01.cha CHI spa 	ID:	spa|JacksonThal|CHI|3;0.|male|||Target_Child|||
+1 36sb02.cha CHI spa 	ID:	spa|JacksonThal|CHI|3;0.|male|||Target_Child|||
+1 36sb03.cha CHI spa 	ID:	spa|JacksonThal|CHI|3;0.|female|||Target_Child|||
+1 36sb04.cha CHI spa 	ID:	spa|JacksonThal|CHI|3;0.|male|||Target_Child|||
+1 36sb05.cha CHI spa 	ID:	spa|JacksonThal|CHI|3;0.|male|||Target_Child|||
+1 36sb06.cha CHI spa 	ID:	spa|JacksonThal|CHI|3;0.|female|||Target_Child|||
+1 36sb07.cha CHI spa 	ID:	spa|JacksonThal|CHI|3;0.|male|||Target_Child|||
+1 36sb08.cha CHI spa 	ID:	spa|JacksonThal|CHI|3;0.|male|||Target_Child|||
+1 36sb09.cha CHI spa 	ID:	spa|JacksonThal|CHI|3;0.|female|||Target_Child|||
+1 36sb11.cha CHI spa 	ID:	spa|JacksonThal|CHI|3;0.|male|||Target_Child|||
+1 36sb12.cha CHI spa 	ID:	spa|JacksonThal|CHI|3;0.|male|||Target_Child|||
+1 37.cha CHI spa 	ID:	spa|Irene|CHI|2;2.29|female|||Target_Child|||
+1 38.cha CHI spa 	ID:	spa|Irene|CHI|2;3.13|female|||Target_Child|||
+1 39.cha CHI spa 	ID:	spa|Irene|CHI|2;3.28|female|||Target_Child|||
+1 40.cha CHI spa 	ID:	spa|Irene|CHI|2;4.13|female|||Target_Child|||
+1 41.cha CHI spa 	ID:	spa|Irene|CHI|2;4.13|female|||Target_Child|||
+1 42.cha CHI spa 	ID:	spa|Irene|CHI|2;4.28|female|||Target_Child|||
+1 43.cha CHI spa 	ID:	spa|Irene|CHI|2;5.13|female|||Target_Child|||
+1 44.cha CHI spa 	ID:	spa|Irene|CHI|2;5.13|female|||Target_Child|||
+1 45.cha CHI spa 	ID:	spa|Irene|CHI|2;5.27|female|||Target_Child|||
+1 46.cha CHI spa 	ID:	spa|Irene|CHI|2;6.12|female|||Target_Child|||
+1 47.cha CHI spa 	ID:	spa|Irene|CHI|2;6.26|female|||Target_Child|||
+1 48.cha CHI spa 	ID:	spa|Irene|CHI|2;7.09|female|||Target_Child|||
+1 49.cha CHI spa 	ID:	spa|Irene|CHI|2;7.28|female|||Target_Child|||
+1 50.cha CHI eng 	ID:	spa , eng|Irene|CHI|2;8.14|female|||Target_Child|||
+1 51.cha CHI eng 	ID:	spa , eng|Irene|CHI|2;8.27|female|||Target_Child|||
+1 52.cha CHI spa 	ID:	spa|Irene|CHI|2;9.11|female|||Target_Child|||
+1 53.cha CHI spa 	ID:	spa|Irene|CHI|2;9.26|female|||Target_Child|||
+1 54.cha CHI spa 	ID:	spa|Irene|CHI|2;10.13|female|||Target_Child|||
+1 55.cha CHI spa 	ID:	spa|Irene|CHI|2;10.28|female|||Target_Child|||
+1 56.cha CHI spa 	ID:	spa|Irene|CHI|2;11.11|female|||Target_Child|||
+1 57.cha CHI spa 	ID:	spa|Irene|CHI|2;11.27|female|||Target_Child|||
+1 57.cha COU spa 	ID:	spa|Irene|COU|||||Cousin|||
+1 58.cha CHI eng 	ID:	spa , eng|Irene|CHI|3;0.24|female|||Target_Child|||
+1 59.cha CHI spa 	ID:	spa|Irene|CHI|3;1.22|female|||Target_Child|||
+1 60.cha CHI spa 	ID:	spa|Irene|CHI|3;2.19|female|||Target_Child|||
+1 alf9102.cha CHI spa 	ID:	spa|Marrero|CHI|2;3.07||||Target_Child|||
+1 alf9105.cha AUR spa 	ID:	spa|Marrero|AUR|||||Playmate|||
+1 alf9105.cha CHI spa 	ID:	spa|Marrero|CHI|2;6.09||||Target_Child|||
+1 alf9109.cha CHI spa 	ID:	spa|Marrero|CHI|2;10.22||||Target_Child|||
+1 alf9109.cha RAF spa 	ID:	spa|Marrero|RAF|||||Child|||
+1 e01.cha CHI spa 	ID:	spa|Vila|CHI|0;11.09||||Target_Child|||
+1 e02.cha CHI spa 	ID:	spa|Vila|CHI|1;00.10||||Target_Child|||
+1 e02.cha HER spa 	ID:	spa|Vila|HER|||||Sister|||
+1 e03.cha CGE spa 	ID:	spa|Vila|CGE|||||Sister|||
+1 e03.cha CHI spa 	ID:	spa|Vila|CHI|1;02.00||||Target_Child|||
+1 e04.cha CHI spa 	ID:	spa|Vila|CHI|1;04.00||||Target_Child|||
+1 e05.cha CHI spa 	ID:	spa|Vila|CHI|1;04.25||||Target_Child|||
+1 e06.cha CHI spa 	ID:	spa|Vila|CHI|1;05.20||||Target_Child|||
+1 e07.cha CHI spa 	ID:	spa|Vila|CHI|1;06.09||||Target_Child|||
+1 e08.cha CHI spa 	ID:	spa|Vila|CHI|1;06.20||||Target_Child|||
+1 e09.cha CHI spa 	ID:	spa|Vila|CHI|1;07.11||||Target_Child|||
+1 e10.cha CHI spa 	ID:	spa|Vila|CHI|1;08.13||||Target_Child|||
+1 e11.cha CHI spa 	ID:	spa|Vila|CHI|1;08.29||||Target_Child|||
+1 e12.cha CHI spa 	ID:	spa|Vila|CHI|1;09.19||||Target_Child|||
+1 e13.cha CHI spa 	ID:	spa|Vila|CHI|1;10.10||||Target_Child|||
+1 e14.cha CHI spa 	ID:	spa|Vila|CHI|1;10.19||||Target_Child|||
+1 e15.cha CHI spa 	ID:	spa|Vila|CHI|1;11.12||||Target_Child|||
+1 e16.cha CHI spa 	ID:	spa|Vila|CHI|2;00.02||||Target_Child|||
+1 e17.cha CHI spa 	ID:	spa|Vila|CHI|2;01.00||||Target_Child|||
+1 e18.cha CEC spa 	ID:	spa|Vila|CEC|||||Child|||
+1 e18.cha CHI spa 	ID:	spa|Vila|CHI|2;1.||||Target_Child|||
+1 e19.cha CEC spa 	ID:	spa|Vila|CEC|||||Child|||
+1 e19.cha CHI spa 	ID:	spa|Vila|CHI|2;03.01||||Target_Child|||
+1 e19.cha DAN spa 	ID:	spa|Vila|DAN|||||Child|||
+1 e19.cha MAR spa 	ID:	spa|Vila|MAR|||||Child|||
+1 e20.cha CHI spa 	ID:	spa|Vila|CHI|2;04.17||||Target_Child|||
+1 e21.cha CEC spa 	ID:	spa|Vila|CEC|||||Child|||
+1 e21.cha CHI spa 	ID:	spa|Vila|CHI|2;05.24||||Target_Child|||
+1 e22.cha CHI spa 	ID:	spa|Vila|CHI|2;06.18||||Target_Child|||
+1 e23.cha CEC spa 	ID:	spa|Vila|CEC|||||Child|||
+1 e23.cha CHI spa 	ID:	spa|Vila|CHI|2;07.09||||Target_Child|||
+1 e23.cha HER spa 	ID:	spa|Vila|HER|||||Sister|||
+1 e24.cha CHI spa 	ID:	spa|Vila|CHI|2;07.24||||Target_Child|||
+1 e25.cha CEC spa 	ID:	spa|Vila|CEC|||||Child|||
+1 e25.cha CHI spa 	ID:	spa|Vila|CHI|2;08.28||||Target_Child|||
+1 e26.cha CHI spa 	ID:	spa|Vila|CHI|2;11.08||||Target_Child|||
+1 e27.cha CHI spa 	ID:	spa|Vila|CHI|2;11.24||||Target_Child|||
+1 e27.cha GER spa 	ID:	spa|Vila|GER|||||Sister|||
+1 e28.cha CHI spa 	ID:	spa|Vila|CHI|3;10.01||||Target_Child|||
+1 e28.cha GER spa 	ID:	spa|Vila|GER|||||Sister|||
+1 e29.cha CHI spa 	ID:	spa|Vila|CHI|3;10.14||||Target_Child|||
+1 e29.cha GER spa 	ID:	spa|Vila|GER|||||Sister|||
+1 e30.cha CHI spa 	ID:	spa|Vila|CHI|3;11.26||||Target_Child|||
+1 e31.cha CHI spa 	ID:	spa|Vila|CHI|4;00.09||||Target_Child|||
+1 e31.cha GER spa 	ID:	spa|Vila|GER|||||Sister|||
+1 e32.cha CHI spa 	ID:	spa|Vila|CHI|4;01.00||||Target_Child|||
+1 e32.cha GER spa 	ID:	spa|Vila|GER|||||Sister|||
+1 e33.cha CHI spa 	ID:	spa|Vila|CHI|4;01.13||||Target_Child|||
+1 e33.cha GER spa 	ID:	spa|Vila|GER|||||Sister|||
+1 e34.cha CHI spa 	ID:	spa|Vila|CHI|4;06.01||||Target_Child|||
+1 e35.cha CHI spa 	ID:	spa|Vila|CHI|4;08.16||||Target_Child|||
+1 ida9009.cha CHI spa 	ID:	spa|Marrero|CHI|2;7.29||||Target_Child|||
+1 ida9009.cha SER spa 	ID:	spa|Marrero|SER|||||Brother|||
+1 ida9101.cha CHI spa 	ID:	spa|Marrero|CHI|2;11.29||||Target_Child|||
+1 ida9101.cha SER spa 	ID:	spa|Marrero|SER|||||Brother|||
+1 ida9104.cha CHI spa 	ID:	spa|Marrero|CHI|3;3.02||||Target_Child|||
+1 ida9104.cha DAN spa 	ID:	spa|Marrero|DAN|||||Brother|||
+1 ida9104.cha SER spa 	ID:	spa|Marrero|SER|||||Brother|||
+1 ida9108.cha CHI spa 	ID:	spa|Marrero|CHI|3;7.10||||Target_Child|||
+1 ida9201.cha CHI spa 	ID:	spa|Marrero|CHI|4;0.||||Target_Child|||
+1 ida9201.cha DAN spa 	ID:	spa|Marrero|DAN|||||Brother|||
+1 ida9208.cha CHI spa 	ID:	spa|Marrero|CHI|4;7.07||||Target_Child|||
+1 ida9208.cha DAN spa 	ID:	spa|Marrero|DAN|||||Brother|||
+1 ida9208.cha SER spa 	ID:	spa|Marrero|SER|||||Brother|||
+1 lu20225.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;2.25|female|||Target_Child|||
+1 lu20227.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;2.27|female|||Target_Child|||
+1 lu20230.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;2.30|female|||Target_Child|||
+1 lu20303.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;3.03|female|||Target_Child|||
+1 lu20305.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;3.05|female|||Target_Child|||
+1 lu20307.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;3.07|female|||Target_Child|||
+1 lu20310.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;3.12|female|||Target_Child|||
+1 lu20311.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;3.11|female|||Target_Child|||
+1 lu20312.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;3.12|female|||Target_Child|||
+1 lu20313.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;3.12|female|||Target_Child|||
+1 lu20314.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;3.14|female|||Target_Child|||
+1 lu20316.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;3.16|female|||Target_Child|||
+1 lu20320.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;3.20|female|||Target_Child|||
+1 lu20321.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;3.21|female|||Target_Child|||
+1 lu20324.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;3.24|female|||Target_Child|||
+1 lu20325.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;3.25|female|||Target_Child|||
+1 lu20328.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;3.28|female|||Target_Child|||
+1 lu20330.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;3.30|female|||Target_Child|||
+1 lu20400.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;4.00|female|||Target_Child|||
+1 lu20405.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;4.05|female|||Target_Child|||
+1 lu20408.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;4.08|female|||Target_Child|||
+1 lu20409.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;4.09|female|||Target_Child|||
+1 lu20410.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;4.10|female|||Target_Child|||
+1 lu20411.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;4.11|female|||Target_Child|||
+1 lu20413.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;4.13|female|||Target_Child|||
+1 lu20414.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;4.14|female|||Target_Child|||
+1 lu20415.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;4.15|female|||Target_Child|||
+1 lu20416.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;4.16|female|||Target_Child|||
+1 lu20417.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;4.17|female|||Target_Child|||
+1 lu20419.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;4.19|female|||Target_Child|||
+1 lu20420.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;4.20|female|||Target_Child|||
+1 lu20424.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;4.24|female|||Target_Child|||
+1 lu20425.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;4.25|female|||Target_Child|||
+1 lu20426.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;4.26|female|||Target_Child|||
+1 lu20502.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;5.02|female|||Target_Child|||
+1 lu20503.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;5.03|female|||Target_Child|||
+1 lu20505.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;5.05|female|||Target_Child|||
+1 lu20507.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;5.07|female|||Target_Child|||
+1 lu20511.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;4.14|female|||Target_Child|||
+1 lu20513.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;5.13|female|||Target_Child|||
+1 lu20514.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;5.14|female|||Target_Child|||
+1 lu20515.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;5.15|female|||Target_Child|||
+1 lu20516.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;5.16|female|||Target_Child|||
+1 lu20521.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;5.21|female|||Target_Child|||
+1 lu20523.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;5.23|female|||Target_Child|||
+1 lu20526.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;5.26|female|||Target_Child|||
+1 lu20608.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;6.08|female|||Target_Child|||
+1 lu20609.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;6.09|female|||Target_Child|||
+1 lu20610.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;6.10|female|||Target_Child|||
+1 lu20611.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;6.11|female|||Target_Child|||
+1 lu20614.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;6.14|female|||Target_Child|||
+1 lu20615.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;6.15|female|||Target_Child|||
+1 lu20619.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;6.19|female|||Target_Child|||
+1 lu20622.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;6.22|female|||Target_Child|||
+1 lu20624.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;6.24|female|||Target_Child|||
+1 lu20627.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;6.27|female|||Target_Child|||
+1 lu20630.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;6.30|female|||Target_Child|||
+1 lu20708.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;7.08|female|||Target_Child|||
+1 lu20711.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;7.11|female|||Target_Child|||
+1 lu20712.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;7.12|female|||Target_Child|||
+1 lu20713.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;7.13|female|||Target_Child|||
+1 lu20714.cha CHI eng 	ID:	spa , eng|OreaPine|CHI|2;7.14|female|||Target_Child|||
+1 mag1900.cha CHI spa 	ID:	spa|Aguirre|CHI|1;7.||||Target_Child|||
+1 mag2001.cha CHI spa 	ID:	spa|Aguirre|CHI|1;8.01||||Target_Child|||
+1 mag2015.cha CHI spa 	ID:	spa|Aguirre|CHI|1;8.15||||Target_Child|||
+1 mag2101.cha CHI spa 	ID:	spa|Aguirre|CHI|1;9.01||||Target_Child|||
+1 mag2115.cha CHI spa 	ID:	spa|Aguirre|CHI|1;9.15||||Target_Child|||
+1 mag2127.cha CHI spa 	ID:	spa|Aguirre|CHI|1;9.27||||Target_Child|||
+1 mag2200.cha MAG spa 	ID:	spa|Aguirre|MAG|1;10.||||Child|||
+1 mag2201.cha BRO spa 	ID:	spa|Aguirre|BRO|||||Brother|||
+1 mag2201.cha MAG spa 	ID:	spa|Aguirre|MAG|1;10.||||Child|||
+1 mag2203.cha MAG spa 	ID:	spa|Aguirre|MAG|1;10.||||Child|||
+1 mag2215.cha BRO spa 	ID:	spa|Aguirre|BRO|||||Brother|||
+1 mag2215.cha CHI spa 	ID:	spa|Aguirre|CHI|1;10.15||||Target_Child|||
+1 mag2216.cha BRO spa 	ID:	spa|Aguirre|BRO|||||Brother|||
+1 mag2216.cha CHI spa 	ID:	spa|Aguirre|CHI|1;10.16||||Target_Child|||
+1 mag2216.cha SIS spa 	ID:	spa|Aguirre|SIS|||||Sister|||
+1 mag2220.cha CHI spa 	ID:	spa|Aguirre|CHI|1;10.20||||Target_Child|||
+1 mag2220.cha SIS spa 	ID:	spa|Aguirre|SIS|||||Sister|||
+1 mag2227.cha BRO spa 	ID:	spa|Aguirre|BRO|||||Brother|||
+1 mag2227.cha CHI spa 	ID:	spa|Aguirre|CHI|1;10.27||||Target_Child|||
+1 mag2300.cha BRO spa 	ID:	spa|Aguirre|BRO|||||Brother|||
+1 mag2300.cha CHI spa 	ID:	spa|Aguirre|CHI|1;11.||||Target_Child|||
+1 mag2320.cha CHI spa 	ID:	spa|Aguirre|CHI|1;11.20||||Target_Child|||
+1 mag2320.cha SIS spa 	ID:	spa|Aguirre|SIS|||||Sister|||
+1 mag2400.cha CHI spa 	ID:	spa|Aguirre|CHI|2;0.||||Target_Child|||
+1 mag2415.cha BRO spa 	ID:	spa|Aguirre|BRO|||||Brother|||
+1 mag2415.cha CHI spa 	ID:	spa|Aguirre|CHI|2;0.15||||Target_Child|||
+1 mag2500.cha CHI spa 	ID:	spa|Aguirre|CHI|2;1.||||Target_Child|||
+1 mag2500.cha SIS spa 	ID:	spa|Aguirre|SIS|||||Sister|||
+1 mag2515.cha CHI spa 	ID:	spa|Aguirre|CHI|2;1.15||||Target_Child|||
+1 mag2702.cha CHI spa 	ID:	spa|Aguirre|CHI|2;3.02||||Target_Child|||
+1 mag2702.cha SIS spa 	ID:	spa|Aguirre|SIS|||||Sister|||
+1 mag2710.cha BRO spa 	ID:	spa|Aguirre|BRO|||||Brother|||
+1 mag2710.cha CHI spa 	ID:	spa|Aguirre|CHI|2;3.10||||Target_Child|||
+1 mag2810.cha CHI spa 	ID:	spa|Aguirre|CHI|2;4.10||||Target_Child|||
+1 mag2825.cha MAG spa 	ID:	spa|Aguirre|MAG|2;4.25||||Child|||
+1 mag2900.cha AMI spa 	ID:	spa|Aguirre|AMI|||||Child|||
+1 mag2900.cha CHI spa 	ID:	spa|Aguirre|CHI|2;5.||||Target_Child|||
+1 mag3001.cha MAG spa 	ID:	spa|Aguirre|MAG|2;6.01||||Child|||
+1 mag3010.cha MAG spa 	ID:	spa|Aguirre|MAG|2;6.10||||Child|||
+1 mag3020.cha MAG spa 	ID:	spa|Aguirre|MAG|2;6.20||||Child|||
+1 mag3126.cha CHI spa 	ID:	spa|Aguirre|CHI|2;7.26||||Target_Child|||
+1 mag3424.cha MAG spa 	ID:	spa|Aguirre|MAG|2;10.24||||Child|||
+1 raf9104.cha ALF spa 	ID:	spa|Marrero|ALF|||||Child|||
+1 raf9104.cha CHI spa 	ID:	spa|Marrero|CHI|4;4.16||||Target_Child|||
+1 raf9106.cha CHI spa 	ID:	spa|Marrero|CHI|4;6.26||||Target_Child|||
+1 raf9111.cha ALF spa 	ID:	spa|Marrero|ALF|||||Child|||
+1 raf9111.cha CHI spa 	ID:	spa|Marrero|CHI|4;11.13||||Target_Child|||
