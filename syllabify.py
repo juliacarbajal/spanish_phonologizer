@@ -20,6 +20,8 @@ semivowels = ['j', 'w']
 onset_consonants = ['b','β','d','ð','f','g','ɣ','h','k','l','ʎ','m','M','n','N','ɲ','ŋ','p','r','R','s','t','v','x','X','y','z','θ','ʝ']
 coda_consonants = ['b','d','ð','g','k','l','m','M','n','N','ŋ','ʎ','θ','p','r','s','x','z']
 
+NSV = ['n','s','a','e','i','o','u']
+
 def is_OL_cluster(phon1,phon2):
 	if phon1 in obstruents_in_OL_clusters and phon2 in liquids:
 		return True
@@ -32,6 +34,7 @@ def syllabify(current_word):
 		phonemes = '~~~~' + current_word.replace('tʃ','X') + '~'
 		k = len(phonemes)-2
 		syllables = []
+		stressed_syllable_found = 0
 		while phonemes[k] != '~':
 			last_phon = phonemes[k]     # Last phoneme in the sequence
 			minus1_phon = phonemes[k-1] # Previous to last
@@ -147,10 +150,11 @@ def syllabify(current_word):
 
 			else:
 				syllable = '#'
-
-			# Assigning stress marker if already contains a stressed vowel:
+			
+			# If already contains a stressed vowel:
 			if any(phon in stressed_vowels for phon in syllable):
 				syllable = "'" + syllable
+				stressed_syllable_found = True
 				
 			syllables.insert(0,syllable)
 			
@@ -159,6 +163,16 @@ def syllabify(current_word):
 				templist = list(phonemes)
 				templist[k] = '~'
 				phonemes = ''.join(templist)
+		
+		## FINDING STRESSED SYLLABLE ##
+		if (stressed_syllable_found == False) and (len(syllables) > 1):
+			if syllables[-1][-1] not in NSV:
+				syllables[-1] = "'" + syllables[-1]
+			else:
+				syllables[-2] = "'" + syllables[-2]
+		elif (stressed_syllable_found == False) and (len(syllables) == 1):
+			if (syllables[0] in ['ir', 'ba']) or (len(syllables[0]) >= 3 and syllables[0] not in ['los', 'las']):
+				syllables[0] = "'" + syllables[0]
 				
 		return '-'.join(syllables).replace('X','tʃ')
 
@@ -167,7 +181,29 @@ def syllabify(current_word):
 # print(syllabify(word))
 # word = 'kasa'
 # print(word)
-# print('-'.join(syllabify(word)))
+# print(syllabify(word))
+# word = 'komer'
+# print(word)
+# print(syllabify(word))
+# word = 'papelOn'
+# print(word)
+# print(syllabify(word))
+# word = 'mar'
+# print(word)
+# print(syllabify(word))
+# word = 'lo'
+# print(word)
+# print(syllabify(word))
+# word = 'los'
+# print(word)
+# print(syllabify(word))
+# word = 'komponen'
+# print(word)
+# print(syllabify(word))
+# word = 'beloθ'
+# print(word)
+# print(syllabify(word))
+
 # word = 'kosta'
 # print(word)
 # print('-'.join(syllabify(word)))
